@@ -6690,7 +6690,7 @@
   "nombre": "Football Manager 27",
   "precio": "COL$ 134.910",
   "proximamente": true,
-  "puesto": 104,
+  "puesto": 103,
   "req": {
    "min": {
     "cpu_modelos": [],
@@ -6745,6 +6745,1774 @@
  {
   "actualizado": "2026-11-07",
   "desarrolladores": [
+   "Reissad Studio"
+  ],
+  "descripcion": "Bodycam es el primer FPS táctico multijugador con una vista real de la cámara corporal en Unreal Engine 5. Los combates cuerpo a cuerpo se sienten crudos y ruidosos. Cada ángulo, leyenda y viñeta importa. Juega Deathmatch, Team Deathmatch y Wingman en mapas fotorrealistas donde el juego en equipo.",
+  "descuento": 0,
+  "fecha": "7 JUN 2024",
+  "generos": [
+   "Acción",
+   "Indie",
+   "Multijugador masivo",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 2406770,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/36264077393918f3945447eed3d6374cdf21e69a/header.jpg?t=1791014741",
+  "nombre": "Bodycam",
+  "precio": "COL$ 81.000",
+  "proximamente": false,
+  "puesto": 106,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Ryzen 7 3700X",
+     "i7-9700K"
+    ],
+    "cpu_pts": 200,
+    "cpu_ref": "i7-9700K",
+    "disco_gb": 50.0,
+    "gpu_modelos": [
+     "RX 5700",
+     "RTX 2070"
+    ],
+    "gpu_pts": 160,
+    "gpu_ref": "RX 5700",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "AMD Ryzen 7 3700X, Intel Core i7-9700K",
+     "disco": "50 GB de espacio disponible",
+     "gpu": "AMD Radeon RX 5700 (8 GB), NVIDIA GeForce RTX 2070 (8 GB)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD recomendado",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10/11"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Ryzen 7 3800X",
+     "i7-10700"
+    ],
+    "cpu_pts": 210,
+    "cpu_ref": "Ryzen 7 3800X",
+    "disco_gb": 50.0,
+    "gpu_modelos": [
+     "RX 6600 XT",
+     "RTX 3060"
+    ],
+    "gpu_pts": 180,
+    "gpu_ref": "RTX 3060",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "AMD Ryzen 7 3800X, Intel Core i7-10700K",
+     "disco": "50 GB de espacio disponible",
+     "gpu": "AMD Radeon RX 6600 XT (8 GB), NVIDIA GeForce RTX 3060 (12 GB)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD Recommended",
+     "ram": "16 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10/11"
+    }
+   }
+  },
+  "slug": "bodycam"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "victoriea"
+  ],
+  "descripcion": "Un juego de cinco en línea con un motor que explica sus jugadas: cada una llega con la forma que construye, la amenaza que responde y las alternativas que sopesó. Diez lecciones, 1.680 problemas demostrados, revisión jugada a jugada, y partidas clasificatorias en línea o del todo sin conexión.",
+  "descuento": 0,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Deportes",
+   "Estrategia",
+   "Free to Play"
+  ],
+  "gratis": true,
+  "id": 5435190,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5435190/1d76ec4b9005fddc9fe8d74902031513230e641a/header_spanish.jpg?t=1794061610",
+  "nombre": "GomokuZero",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 107,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Procesador x64 con SSE4.2, 2 núcleos, 2,0 GHz",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "GPU compatible con DirectX 11 y shaders de cómputo; los gráficos integrados bastan",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits El curso, los problemas, las partidas contra el motor y las partidas a dos funcionan del todo sin conexión: sin cuenta y sin internet. Las partidas clasificatorias contra otras personas necesitan conexión a internet y una cuenta de Steam. Un procesador o una GPU más rápidos elevan sobre todo el techo de fuerza del motor en la dificultad máxi",
+     "ram": "2 GB de RAM",
+     "so": "Windows 10 de 64 bits (versión 1909 o posterior)",
+     "sonido": "Cualquier dispositivo de audio compatible con Windows"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "x64 processor, 4 cores, 3.0 GHz or faster",
+     "directx": "Versión 12",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "DirectX 12 GPU with 2 GB VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits The course, the puzzles, games against the engine and two-player games run entirely offline — no account and no connection. Ranked play against other people needs an internet connection and a Steam account. A faster processor or GPU mainly raises the engine's strength ceiling at the top difficulty; the lower difficulties play well on modest ",
+     "ram": "4 GB de RAM",
+     "so": "Windows 11 64-bit",
+     "sonido": "Any Windows-compatible audio device"
+    }
+   }
+  },
+  "slug": "gomokuzero"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "KineticFox"
+  ],
+  "descripcion": "Crea un avatar humano o animal que viva en tu escritorio. Vístelo, deja que te acompañe mientras trabajas o escuchas música y envíalo a la pantalla de un amigo con un saludo, un abrazo o un pequeño regalo. Gratis para siempre, para repartir cariño.",
+  "descuento": 0,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Indie",
+   "Simuladores",
+   "Free to Play"
+  ],
+  "gratis": true,
+  "id": 5325220,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5325220/6d3a4d370c7519894124f2d81e46d74745a4a22f/header.jpg?t=1794061963",
+  "nombre": "DeskHugs: Desktop Friends",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 108,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 1.46,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Should run on any modern Processor",
+     "disco": "1500 MB de espacio disponible",
+     "gpu": "Should run on any modern videoCard",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Should run on any PC",
+     "ram": "2 GB de RAM",
+     "so": "Windows 10, 11"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 1.46,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Should run on any modern Processor",
+     "disco": "1500 MB de espacio disponible",
+     "gpu": "Should run on any modern videoCard",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Should run on any PC",
+     "ram": "2 GB de RAM",
+     "so": "Windows 10, 11"
+    }
+   }
+  },
+  "slug": "deskhugs-desktop-friends"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Beastflaps"
+  ],
+  "descripcion": "A cuatro animales y a un robot les han dado coches de carreras. Mala idea. SG Racing es un arcade de carreras en pixel art con curvas cerradas, potenciadores y huevos usados sin cabeza. CAMPEONATO PARA 1 JUGADOR • MULTIJUGADOR LOCAL DE 2 A 4 JUGADORES • ONLINE CON STEAM REMOTE PLAY TOGETHER",
+  "descuento": 20,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Acción",
+   "Casual",
+   "Indie",
+   "Carreras"
+  ],
+  "gratis": false,
+  "id": 1990250,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1990250/2a573fd5e03814f8509d27e8e0fb64f985526889/header.jpg?t=1794059684",
+  "nombre": "SG Racing",
+  "precio": "COL$ 17.599",
+  "proximamente": false,
+  "puesto": 109,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "Intel HD Graphics 4000"
+    ],
+    "gpu_pts": 6,
+    "gpu_ref": "Intel HD Graphics 4000",
+    "ram_gb": null,
+    "texto": {
+     "cpu": "Dual-core 2.0 GHz",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Intel HD Graphics 4000",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "so": "Windows 10 64-bit",
+     "sonido": "DirectX-compatible"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "sg-racing"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "ZhiSu Studio"
+  ],
+  "descripcion": "Cultiva un oasis en tu escritorio. Escribe, trabaja o estudia para reunir Inspiración y descubrir plantas, barcos, criaturas y objetos raros. Déjalo crecer mientras estás a lo tuyo; vuelve para coleccionar, cuidar tus plantas o jugar con objetos flotantes y la física del agua en tiempo real.",
+  "descuento": 10,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 4688280,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688280/489694585408f94703cf4d0da73e6093c45083aa/header.jpg?t=1794059884",
+  "nombre": "Desktop Oasis",
+  "precio": "COL$ 14.849",
+  "proximamente": false,
+  "puesto": 110,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 2.0,
+    "gpu_modelos": [
+     "GTX 1050 Ti",
+     "RX 560"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Quad-core Intel or AMD, 2.5 GHz or faster",
+     "directx": "Versión 11",
+     "disco": "2 GB de espacio disponible",
+     "gpu": "GTX 1050 Ti 4GB / RX 560 4GB",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 64-bit"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 2.0,
+    "gpu_modelos": [
+     "GTX 1660",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "RX 580",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5 / AMD Ryzen 5 or better",
+     "directx": "Versión 11",
+     "disco": "2 GB de espacio disponible",
+     "gpu": "GTX 1660 6GB / RX 580 8GB or better",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10/11 64-bit"
+    }
+   }
+  },
+  "slug": "desktop-oasis"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   " Crevasse"
+  ],
+  "descripcion": "Rompe cajas como Tin, un pequeño robot recuperador armado con un martillo, y libera los recuerdos encerrados en diez bóvedas. Unas pocas cajas se convierten en un caos total de rayos, sierras y drones en este juego incremental de 5–7 horas con un final de verdad.",
+  "descuento": 0,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 5411310,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5411310/2fd7c24d5f3ec48757748a189351aeb61c508f3e/header.jpg?t=1794058365",
+  "nombre": "Tiny Havoc",
+  "precio": "COL$ 12.999",
+  "proximamente": false,
+  "puesto": 111,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Doble núcleo a 2,5 GHz",
+     "directx": "Versión 11",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "GPU compatible con DirectX 11 y 1 GB de VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Se necesita un ratón.",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 de 64 bits"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "GTX 1050",
+     "RX 560"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Quad-core 3.0 GHz",
+     "directx": "Versión 12",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "GeForce GTX 1050 / Radeon RX 560 or better",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10/11 64-bit"
+    }
+   }
+  },
+  "slug": "tiny-havoc"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Sprue Studio"
+  ],
+  "descripcion": "Air Support is a top-down arcade helicopter shooter in a world of plastic toy soldiers. Fly a Green Army gunship over backyard battlefields, blast the Tan Army, winch up cargo, and bring a friend in co-op.",
+  "descuento": 0,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Acción",
+   "Casual",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 5399970,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5399970/cb0eea18c31c099409102d8f2164530f30a3b3e1/header.jpg?t=1794057922",
+  "nombre": "Plastic Soldiers: Air Support",
+  "precio": "COL$ 13.772",
+  "proximamente": false,
+  "puesto": 112,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i3-6100",
+     "Ryzen 3 1200"
+    ],
+    "cpu_pts": 65,
+    "cpu_ref": "i3-6100",
+    "disco_gb": 2.0,
+    "gpu_modelos": [
+     "GTX 660",
+     "HD 7770"
+    ],
+    "gpu_pts": 25,
+    "gpu_ref": "HD 7770",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Intel Core i3-6100 / AMD Ryzen 3 1200",
+     "disco": "2048 MB de espacio disponible",
+     "gpu": "OpenGL 3.3 capable GPU with 1 GB VRAM (NVIDIA GTX 660 / AMD Radeon HD 7770 / Intel HD 530)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits 1280x720 at 60 FPS. Gamepad supported.",
+     "ram": "2048 MB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 64-bit",
+     "sonido": "Any"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 2.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+     "disco": "2048 MB de espacio disponible",
+     "gpu": "NVIDIA GTX 1060 / AMD Radeon RX 580 or better",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits 1280x720 at 60 FPS. Gamepad supported.",
+     "ram": "4096 MB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 or 11 64-bit",
+     "sonido": "Any"
+    }
+   }
+  },
+  "slug": "plastic-soldiers-air-support"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Red Cache Studios"
+  ],
+  "descripcion": "Reverie is a music player and visualizer. Play your own songs or visualize anything playing on your PC, tweak the visuals with lots of controls and presets, and record the result as a small, smooth video with one key.",
+  "descuento": 0,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Producción de audio",
+   "Utilidades",
+   "Producción de vídeo"
+  ],
+  "gratis": false,
+  "id": 1103140,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1103140/afddedf3cee4f5495d8466d1acf80fdf3185bbdb/header.jpg?t=1794057698",
+  "nombre": "Reverie",
+  "precio": "COL$ 24.499",
+  "proximamente": false,
+  "puesto": 113,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "4 cores, 2.5 GHz (Intel i5-4xxx / Ryzen 3)",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "DirectX 11 GPU with 2 GB VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits System audio mode needs Windows 10 or later. Without a hardware video encoder, recording falls back to the CPU and is slower.",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 64-bit",
+     "sonido": "Any Windows-compatible sound device"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "6 cores (Intel i5-8xxx / Ryzen 5)",
+     "directx": "Versión 11",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "NVIDIA GTX 1060 / AMD RX 580 / Intel Arc or newer",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Video recording uses the graphics card’s encoder (NVIDIA NVENC, AMD AMF or Intel Quick Sync).",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10/11 64-bit",
+     "sonido": "Any Windows-compatible sound device"
+    }
+   }
+  },
+  "slug": "reverie"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Inga"
+  ],
+  "descripcion": "A surreal story-driven game that uses puzzle-solving, Guitar Hero-esque battles, and open world navigation to help Van Cat track down his evil uncle and put an end to his nefarious plans!",
+  "descuento": 0,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Indie",
+   "Free to Play"
+  ],
+  "gratis": true,
+  "id": 2967590,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2967590/header.jpg?t=1794055524",
+  "nombre": "Vanakatu",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 114,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 4.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 1.49,
+    "texto": {
+     "cpu": "x86, x64 architecture with SSE2 instruction set support.",
+     "disco": "4 GB de espacio disponible",
+     "gpu": "DX10, DX11, DX12 capable.",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7 (SP1+) , Windows 10 and Windows 11 Hardware vendor officially supported drivers. For development: IL2CPP scripting back-end requires Visual Studio 2015 with C++ Tools component or later and Windows 10 SDK.",
+     "ram": "1530 MB de RAM"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "vanakatu"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "People's Lacrosse LLC"
+  ],
+  "descripcion": "Top-down arcade box lacrosse inspired by an all-time childhood favorite. Pick skinny, medium, or heavy body types - each with radically different speed, power, and checking. Versus, Co-Op, Multiplayer. Global leaderboard. GET IN EARLY. Lowest price during inaugural version.",
+  "descuento": 40,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Indie",
+   "Deportes"
+  ],
+  "gratis": false,
+  "id": 5150150,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5150150/4c45a76b9a65ffa8eb1356a38c56a02e28d96906/header.jpg?t=1794054588",
+  "nombre": "Arcade Lacrosse",
+  "precio": "COL$ 8.399",
+  "proximamente": false,
+  "puesto": 115,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Core i3"
+    ],
+    "cpu_pts": 50,
+    "cpu_ref": "Core i3",
+    "disco_gb": 0.2,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Processor: Intel Core i3 or equivalent",
+     "disco": "200 MB de espacio disponible",
+     "gpu": "Any (WebView2)",
+     "notas": "N/A Controller recommended. Broadband Internet Connection required for co-op online matchmaking",
+     "ram": "2 GB de RAM",
+     "so": "OS: Windows 10",
+     "sonido": "Any"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 0.2,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i5 or equivalent",
+     "disco": "200 MB de espacio disponible",
+     "gpu": "Any (WebView2)",
+     "notas": "N/A Controller recommended. Broadband Internet Connection required for co-op online matchmaking",
+     "ram": "4 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 11",
+     "sonido": "Any"
+    }
+   }
+  },
+  "slug": "arcade-lacrosse"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "浮化玻狸"
+  ],
+  "descripcion": "Someone Seems to Be in “My” Room! The renowned writer Koi wakes up in the middle of the night, but finds himself unable to fall back asleep…",
+  "descuento": 0,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Aventura",
+   "Indie",
+   "Free to Play"
+  ],
+  "gratis": true,
+  "id": 4976270,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976270/35c29a8e6f694375bda80552411d9143f73c7d21/header.jpg?t=1794048132",
+  "nombre": "A Warm Story 一个温暖的故事",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 116,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.1,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 2.0,
+    "texto": {
+     "directx": "Versión 11",
+     "disco": "100 MB de espacio disponible",
+     "notas": "Procesador: Gráficos: Tarjeta de sonido:",
+     "ram": "2 GB de RAM"
+    }
+   }
+  },
+  "slug": "a-warm-story"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Chef Interactive"
+  ],
+  "descripcion": "Run a seafood restaurant on a tiny tropical island with up to 4 friends. Catch fish from the pier or row out to sea, grill them in the kitchen and serve hungry guests on the terrace - all at the same time, in one chaotic co-op shift.",
+  "descuento": 0,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 5475680,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5475680/5b9d5d17af4f42ca9f442bafa63ed7445ac16fd9/header.jpg?t=1794047178",
+  "nombre": "Fish Island Restaurant Simulator Together",
+  "precio": "COL$ 10.499",
+  "proximamente": false,
+  "puesto": 117,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-6600",
+     "Ryzen 3 1200"
+    ],
+    "cpu_pts": 85,
+    "cpu_ref": "Ryzen 3 1200",
+    "disco_gb": 3.0,
+    "gpu_modelos": [
+     "GTX 1050 Ti",
+     "RX 570"
+    ],
+    "gpu_pts": 58,
+    "gpu_ref": "GTX 1050 Ti",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-6600 / AMD Ryzen 3 1200",
+     "directx": "Versión 11",
+     "disco": "3 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1050 Ti 4 GB / AMD Radeon RX 570 4 GB",
+     "notas": "Internet connection and Steam required for online co-op. 64-bit OS required.",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 64-bit"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 3.0,
+    "gpu_modelos": [
+     "GTX 1660",
+     "RX 5600 XT"
+    ],
+    "gpu_pts": 110,
+    "gpu_ref": "GTX 1660",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+     "directx": "Versión 11",
+     "disco": "3 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1660 6 GB / AMD Radeon RX 5600 XT",
+     "notas": "Broadband internet connection recommended for 4-player online co-op.",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10 / 11 64-bit"
+    }
+   }
+  },
+  "slug": "fish-island-restaurant-simulator-together"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Kuro Naeda"
+  ],
+  "descripcion": "An incremental tower defense game made with love, bad decisions, beatbox, and questionable amounts of punching. Upgrade your units, survive increasingly stupid waves, and fuse literally everything with literally everything.",
+  "descuento": 20,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Simuladores",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 5250630,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5250630/fcf21f1c525422b75839625ef3fb5d71ab9627dc/header.jpg?t=1794043382",
+  "nombre": "Punch to Defend",
+  "precio": "COL$ 6.159",
+  "proximamente": false,
+  "puesto": 119,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 0.29,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Dual-core 2.0 GHz",
+     "directx": "Versión 11",
+     "disco": "300 MB de espacio disponible",
+     "gpu": "OpenGL 3.3 / DirectX 11",
+     "ram": "2048 MB de RAM",
+     "so": "Windows 10 64-bit",
+     "sonido": "DirectX compatible"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 0.29,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Quad-core 2.5 GHz",
+     "directx": "Versión 11",
+     "disco": "300 MB de espacio disponible",
+     "gpu": "OpenGL 3.3 / DirectX 11",
+     "ram": "4096 MB de RAM",
+     "so": "Windows 10/11 64-bit",
+     "sonido": "DirectX compatible"
+    }
+   }
+  },
+  "slug": "punch-to-defend"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "LightSpotGame"
+  ],
+  "descripcion": "A 4‑player online co‑op paranormal horror game.Play as paranormal investigators, travel to haunted sites, use ghost‑hunting devices to collect clues, identify ghost types, and dial the correct frequency number to perform exorcism. Cooperate with teammates to finish investigations amid lurking terror",
+  "descuento": 0,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 2763970,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2763970/4abae08c197c848454cf2f5d27f69516f631d550/header.jpg?t=1794042698",
+  "nombre": "超自然事件",
+  "precio": "COL$ 33.999",
+  "proximamente": false,
+  "puesto": 120,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 30.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "GTX 1660 Super"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+     "directx": "Versión 12",
+     "disco": "30 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1060 6GB / GTX 1660 SUPER 6GB",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10 64 位"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-12600K",
+     "Ryzen 7 5800X"
+    ],
+    "cpu_pts": 260,
+    "cpu_ref": "Ryzen 7 5800X",
+    "disco_gb": 30.0,
+    "gpu_modelos": [
+     "RTX 3060",
+     "RTX 4060"
+    ],
+    "gpu_pts": 180,
+    "gpu_ref": "RTX 3060",
+    "ram_gb": 0.03,
+    "texto": {
+     "cpu": "Intel Core i5-12600K / AMD Ryzen 7 5800X",
+     "directx": "Versión 12",
+     "disco": "30 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce RTX 3060 12GB / RTX 4060 8GB",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "32 MB de RAM",
+     "so": "Windows 10/11 64 位"
+    }
+   }
+  },
+  "slug": "juego-2763970"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "DesktopGoose_"
+  ],
+  "descripcion": "One Night at Kevin's VR is a VR game that includes 6 mainline nights, 2 challenge nights, original mechanics, a cast of unique characters, and an interesting story to uncover as you survive your shifts at Highes.",
+  "descuento": 40,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Indie",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 5230360,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5230360/a00c28d6fc8e7eb10943270a006e0527dabd1414/header.jpg?t=1794042200",
+  "nombre": "One Night at Kevin's VR",
+  "precio": "COL$ 8.399",
+  "proximamente": false,
+  "puesto": 121,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 3.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+     "directx": "Versión 11",
+     "disco": "3 GB de espacio disponible",
+     "gpu": "NVIDIA GTX 1060 6 GB / AMD RX 580 8 GB",
+     "notas": "SteamVR or OpenXR-compatible headset",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 64-bit"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-10400",
+     "Ryzen 5 3600"
+    ],
+    "cpu_pts": 175,
+    "cpu_ref": "i5-10400",
+    "disco_gb": 3.0,
+    "gpu_modelos": [
+     "RTX 2060",
+     "RX 6600"
+    ],
+    "gpu_pts": 150,
+    "gpu_ref": "RTX 2060",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5-10400 / AMD Ryzen 5 3600",
+     "directx": "Versión 11",
+     "disco": "3 GB de espacio disponible",
+     "gpu": "NVIDIA RTX 2060 / AMD RX 6600",
+     "notas": "SteamVR or OpenXR-compatible headset",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10/11 64-bit"
+    }
+   }
+  },
+  "slug": "one-night-at-kevin-s-vr"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Shikkoku Games"
+  ],
+  "descripcion": "Fire bodies into orbit, merge them, and grow a sun. When it is fully grown it goes supernova, and a new solar system is born. Systems become galaxies, and galaxies fill the universe. Aim every shot yourself, or sit back and watch it grow: a calm incremental game about building a universe.",
+  "descuento": 10,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 5272550,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5272550/304b280bc769761743c6b58674ff5a9bba88773b/header.jpg?t=1794042159",
+  "nombre": "Sow the Stars",
+  "precio": "COL$ 3.306",
+  "proximamente": false,
+  "puesto": 122,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Core i3"
+    ],
+    "cpu_pts": 50,
+    "cpu_ref": "Core i3",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "Intel UHD Graphics 630",
+     "GTX 750"
+    ],
+    "gpu_pts": 30,
+    "gpu_ref": "GTX 750",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i3 8th gen / AMD Ryzen 3 3000 series or better",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Intel UHD Graphics 630 / GeForce GTX 750 / Radeon R7 or better",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 / 11 (64-bit)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "GTX 1050",
+     "RX 560"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i5 8th gen / AMD Ryzen 5 3000 series or better",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "GeForce GTX 1050 / Radeon RX 560 or better",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 / 11 (64-bit)"
+    }
+   }
+  },
+  "slug": "sow-the-stars"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Yunkai"
+  ],
+  "descripcion": "This game is made from the foundations of Legend of Cina, it's a turn-based strategy game and has 10 stages and 15 OSTs, each map will introduce a new character. The maximum level is 20 and characters can promote after level 10, they can also learn skills once they reach level 5 and 15.",
+  "descuento": 40,
+  "fecha": "7 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Rol",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 5451370,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5451370/2f11476fb2f7c54776cf9dd95b4ee712f9474e25/header.jpg?t=1794038555",
+  "nombre": "Legend of Cina 2",
+  "precio": "COL$ 1.589",
+  "proximamente": false,
+  "puesto": 123,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 0.29,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "i5",
+     "disco": "300 MB de espacio disponible",
+     "ram": "2 GB de RAM",
+     "so": "Windows 10"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Core i7"
+    ],
+    "cpu_pts": 100,
+    "cpu_ref": "Core i7",
+    "disco_gb": 0.39,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "i7",
+     "disco": "400 MB de espacio disponible",
+     "ram": "4 GB de RAM",
+     "so": "Windows 11"
+    }
+   }
+  },
+  "slug": "legend-of-cina-2"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Apollon Games"
+  ],
+  "descripcion": "Fight your way up Olympus in a match-3 roguelite. Match runes to strike and heal, cast spells and claim relics, and find the weakness every foe is hiding. Nine realms, seven demigods, one life per run.",
+  "descuento": 20,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Indie",
+   "Rol",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 4911350,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911350/a8aa88eceef896fdb16375bb0ba84621986b7289/header.jpg?t=1794034516",
+  "nombre": "Gods of the Grid",
+  "precio": "COL$ 13.999",
+  "proximamente": false,
+  "puesto": 124,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Dual-core 2.0 GHz",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Any dedicated or modern integrated GPU",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits 1280x720 or higher display recommended",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 64-bit",
+     "sonido": "Any"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Quad-core 2.5 GHz",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Any dedicated or modern integrated GPU",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits 1920x1080 display",
+     "ram": "8 GB de RAM",
+     "so": "Windows 11 64-bit",
+     "sonido": "Any"
+    }
+   }
+  },
+  "slug": "gods-of-the-grid"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "樱野悠"
+  ],
+  "descripcion": "深夜的小巷，她从电台里走到了你面前，从那一刻起声音不再只是声音，它染上了温度，也变得更加沉重。你开始重新审视自己，他人，以及这座县城里被遗忘的烟火与孤独。这是一个关于倾听与理解的漫长航行，在无边的黑暗中，你与她一同探索，寻找那道或许并不存在的光。",
+  "descuento": 10,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Rol",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 4795820,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4795820/9f60981088a08908182437c7015c047196cbcd25/header.jpg?t=1794033506",
+  "nombre": "夜航船",
+  "precio": "COL$ 12.599",
+  "proximamente": false,
+  "puesto": 125,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "2.0 GHz 双核处理器或更高",
+     "directx": "Versión 9.0",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "兼容 OpenGL 2.0 或 DirectX 9.0c 的显卡",
+     "notas": "SO *: Windows 7 (SP1+) / Windows 8.1 / Windows 10 建议屏幕分辨率 1280x720 或更高。",
+     "ram": "2 GB de RAM",
+     "sonido": "兼容 DirectX 的声卡"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "2.4 GHz 四核处理器或更高",
+     "directx": "Versión 11",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "兼容 OpenGL 3.2+ 或 DirectX 11+ 的显卡",
+     "notas": "游戏设计分辨率为 1920x1080。",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 (64位) / Windows 11",
+     "sonido": "兼容 DirectX 的声卡"
+    }
+   }
+  },
+  "slug": "juego-4795820"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Bannye"
+  ],
+  "descripcion": "Run a small Japanese hot spring inn in the mountains. Arrange rooms, baths, staff and meals, then welcome familiar travelers and nighttime yokai. Listen to their stories, keep memories of the changing seasons and grow humble Yama-no-Yu into a village of your own.",
+  "descuento": 10,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 5444960,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5444960/8e60ef96dfb63af0f23548c7e072eca4a5d6d2e5/header.jpg?t=1794032437",
+  "nombre": "妖怪温泉旅馆",
+  "precio": "COL$ 31.949",
+  "proximamente": false,
+  "puesto": 126,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Core i3"
+    ],
+    "cpu_pts": 50,
+    "cpu_ref": "Core i3",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i3 / AMD Ryzen 3 (SSE4.2)",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "OpenGL 3.3 compatible graphics",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Keyboard and mouse required.",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 (64-bit)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "juego-5444960"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Hasan KURT"
+  ],
+  "descripcion": "A first-person survival horror game where you uncover the dark trail of a secretive corporation while searching for your missing sister.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 4381150,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381150/d07b82466ec33d0502d8b038b0e17fa77c5daa6d/header.jpg?t=1794031791",
+  "nombre": "Endless Dark",
+  "precio": "COL$ 13.500",
+  "proximamente": false,
+  "puesto": 127,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 8.0,
+    "gpu_modelos": [
+     "GTX 950",
+     "HD 7970"
+    ],
+    "gpu_pts": 50,
+    "gpu_ref": "GTX 950",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "2.6 GHz Quad Core or similar",
+     "disco": "8 GB de espacio disponible",
+     "gpu": "GeForce GTX 950 or Radeon HD 7970",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 or later"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 8.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "i5 3GHz or Ryzen 5 3GHz",
+     "disco": "8 GB de espacio disponible",
+     "gpu": "GeForce GTX 1060 or Radeon RX 580",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10 or later"
+    }
+   }
+  },
+  "slug": "endless-dark"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Bulbul Lab"
+  ],
+  "descripcion": "Picrand es un potente gestor local de imágenes y recursos, diseñado para artistas, diseñadores, desarrolladores de videojuegos, coleccionistas de imágenes y otros creadores. Explora, recopila, organiza, busca, analiza y usa tus imágenes como referencia: ¡todo en un solo lugar!",
+  "descuento": 25,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Animación y modelado",
+   "Diseño e ilustración",
+   "Edición fotográfica"
+  ],
+  "gratis": false,
+  "id": 5013580,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013580/5da8af031f1daac2a89c737ecf9bb5374affa0e7/header.jpg?t=1794031189",
+  "nombre": "Picrand",
+  "precio": "COL$ 16.874",
+  "proximamente": false,
+  "puesto": 128,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "FX-4300"
+    ],
+    "cpu_pts": 45,
+    "cpu_ref": "FX-4300",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "Intel HD Graphics 4000"
+    ],
+    "gpu_pts": 6,
+    "gpu_ref": "Intel HD Graphics 4000",
+    "ram_gb": 1.0,
+    "texto": {
+     "cpu": "1.6 GHz Intel Core i3 / AMD FX-4300",
+     "directx": "Versión 11",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "Intel HD Graphics 4000",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits 64-bit only",
+     "ram": "1024 MB de RAM",
+     "so": "Windows 10, Windows 11"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "GTX 660",
+     "HD 7870"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "GTX 660",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "2.0 GHz Intel Core i5 / AMD Ryzen 5",
+     "directx": "Versión 11",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 660 / AMD HD 7870，2 GB VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits 64-bit only",
+     "ram": "2048 MB de RAM",
+     "so": "Windows 10, Windows 11"
+    }
+   }
+  },
+  "slug": "picrand"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Night Games"
+  ],
+  "descripcion": "A third person shooter about a detective investigating a police station which has been overtaken by a dangerous gang of bikers, use your quick wits, agility and deadly force to bring order back to the police station",
+  "descuento": 10,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 5184450,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184450/db68a669f0079ff2c7cb402974ca33e1f762046d/header.jpg?t=1794030074",
+  "nombre": "Just Kill",
+  "precio": "COL$ 17.099",
+  "proximamente": false,
+  "puesto": 129,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [
+     "GTX 1650"
+    ],
+    "gpu_pts": 68,
+    "gpu_ref": "GTX 1650",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Ryzen 5 4600H",
+     "gpu": "GTX 1650 Ti",
+     "ram": "8 GB de RAM",
+     "so": "Windows 11 (64 bit)"
+    }
+   }
+  },
+  "slug": "just-kill"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "MAXORKA GAMES"
+  ],
+  "descripcion": "A third-person comedy puzzle game about a vlogger. Gennady is trying to get through an ordinary evening: get some bread, feed his guests using whatever is in the fridge, and record a calm video.",
+  "descuento": 40,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 5339950,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339950/d2fc46acc231ef2a9ff04a72aef7973e1d147cc5/header.jpg?t=1794027401",
+  "nombre": "GENNADIYYY",
+  "precio": "COL$ 3.419",
+  "proximamente": false,
+  "puesto": 130,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Athlon 64"
+    ],
+    "cpu_pts": 8,
+    "cpu_ref": "Athlon 64",
+    "disco_gb": 1.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core 2 Duo E6300 | AMD Athlon 64 X2 3800+",
+     "directx": "Versión 10",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce 9600 GSO 512",
+     "notas": "SO *: Windows 7 / 8.1 / 10",
+     "ram": "4 GB de RAM"
+    }
+   }
+  },
+  "slug": "gennadiyyy"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Wackstache"
+  ],
+  "descripcion": "Fate pulls your soul into the orange deep.",
+  "descuento": 40,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Indie",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 4971330,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971330/c5e8d2ff9efc80293f17728e37485d4bcc234803/header.jpg?t=1794024823",
+  "nombre": "Depth Charge",
+  "precio": "COL$ 8.399",
+  "proximamente": false,
+  "puesto": 131,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Dual Core CPU (2.0 GHz or higher)",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "DirectX 11 compliant / Integrated Graphics",
+     "ram": "2 GB de RAM",
+     "so": "Windows 10 (64-bit)",
+     "sonido": "DirectX compatible sound card"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "GTX 750"
+    ],
+    "gpu_pts": 30,
+    "gpu_ref": "GTX 750",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Quad Core CPU",
+     "directx": "Versión 11",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "Dedicated GPU / GTX 750 or equivalent",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 / 11 (64-bit)",
+     "sonido": "DirectX compatible sound card"
+    }
+   }
+  },
+  "slug": "depth-charge"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "bksilgames"
+  ],
+  "descripcion": "Start with a small furnace and build your space base, one module at a time. Hire workers, automate production, build an Artificial Sun and assemble your own ship. Use Prestige to start again with permanent upgrades.",
+  "descuento": 20,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 5459680,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5459680/9f250b9818ed03e353d800dda71aa516da2f2a0b/header.jpg?t=1794024189",
+  "nombre": "Space Builder Idle",
+  "precio": "COL$ 6.159",
+  "proximamente": false,
+  "puesto": 132,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "GTX 1050",
+     "RX 560"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1050 / AMD Radeon RX 560",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 / Windows 11 (64-bit)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-10400",
+     "Ryzen 5 3600"
+    ],
+    "cpu_pts": 175,
+    "cpu_ref": "i5-10400",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "GTX 1650",
+     "RX 570"
+    ],
+    "gpu_pts": 68,
+    "gpu_ref": "GTX 1650",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5-10400 / AMD Ryzen 5 3600",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 570",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10 / Windows 11 (64-bit)"
+    }
+   }
+  },
+  "slug": "space-builder-idle"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "SimSam"
+  ],
+  "descripcion": "Box Flow is a cozy incremental packing puzzle where you scan, pack, seal, label, and ship orders while unlocking perks, automation, bigger boxes, contracts, and endless warehouse challenges.",
+  "descuento": 15,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 4909100,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4909100/4d83ca7d386fe7269d67bf448409d495f05f84f0/header.jpg?t=1794022746",
+  "nombre": "Box Flow",
+  "precio": "COL$ 11.899",
+  "proximamente": false,
+  "puesto": 133,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "FX-8320"
+    ],
+    "cpu_pts": 70,
+    "cpu_ref": "FX-8320",
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "AMD FX-8320",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "MSI Radeon R7 200 Series",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10/11 (64 Bits)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Ryzen 5 3600"
+    ],
+    "cpu_pts": 180,
+    "cpu_ref": "Ryzen 5 3600",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "GTX 1660"
+    ],
+    "gpu_pts": 110,
+    "gpu_ref": "GTX 1660",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "AMD Ryzen 5 3600",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "GTX 1660 or Upper",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10/11 (64 Bits)"
+    }
+   }
+  },
+  "slug": "box-flow"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
    "刻奇游戏"
   ],
   "descripcion": "Un juego de gestión futbolística con colección y progresión. Dirige equipos temáticos, organiza entrenamientos, fichajes y partidos de liga, y usa cartas de entrenador para controlar ataque y defensa mientras asciendes de categoría.",
@@ -6762,7 +8530,7 @@
   "nombre": "Mánager de fútbol: Auto Chess",
   "precio": "COL$ 11.999",
   "proximamente": false,
-  "puesto": 107,
+  "puesto": 135,
   "req": {
    "min": {
     "cpu_modelos": [
@@ -6807,7 +8575,7 @@
   "nombre": "逐鹿汉末:三国",
   "precio": "COL$ 33.750",
   "proximamente": false,
-  "puesto": 108,
+  "puesto": 136,
   "req": {
    "min": {
     "cpu_modelos": [
@@ -6860,1439 +8628,6 @@
  {
   "actualizado": "2026-11-07",
   "desarrolladores": [
-   "疯兔游戏（FUNTOO Studio）"
-  ],
-  "descripcion": "Eggy, an otaku, wakes up one day to find himself transformed into a cute girl?! Ballshit 2D reimagines the original live-action story as a 2D visual novel. Follow Eggy through campus life, friendships, awkward romance, and absurd surprises, with new 2D art, CGs, and the original voice acting.",
-  "descuento": 20,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Aventura",
-   "Casual",
-   "Indie",
-   "Rol"
-  ],
-  "gratis": false,
-  "id": 5208460,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208460/357c3da0508952751f36c7b3398c466d77800b89/header.jpg?t=1794013166",
-  "nombre": "无基之谈2D",
-  "precio": "COL$ 4.559",
-  "proximamente": false,
-  "puesto": 110,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 3.0,
-    "gpu_modelos": [
-     "Intel HD Graphics 4000"
-    ],
-    "gpu_pts": 6,
-    "gpu_ref": "Intel HD Graphics 4000",
-    "ram_gb": 4.0,
-    "texto": {
-     "cpu": "Intel Core i3 or equivalent",
-     "directx": "Versión 11",
-     "disco": "3 GB de espacio disponible",
-     "gpu": "Intel HD Graphics 4000 or equivalent",
-     "ram": "4 GB de RAM",
-     "so": "Windows 10 64-bit",
-     "sonido": "DirectX compatible sound card"
-    }
-   }
-  },
-  "slug": "2d"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "As Grup "
-  ],
-  "descripcion": "Blind no puede ver la ruta; sus compañeros deben describirla por voz. Comunícate como Blind y Guide, sobrevive a peligrosas pistas de obstáculos en 3D y llega a la meta antes que el equipo rival en los modos individual, cooperativo y online competitivo.",
-  "descuento": 25,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Acción",
-   "Aventura",
-   "Indie",
-   "Multijugador masivo"
-  ],
-  "gratis": false,
-  "id": 5047920,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047920/b097e2a7ec50761ecb462e092ba66ffd1590115f/header.jpg?t=1794012599",
-  "nombre": "Blind Route",
-  "precio": "COL$ 21.374",
-  "proximamente": false,
-  "puesto": 111,
-  "req": {
-   "min": {
-    "cpu_modelos": [
-     "i5-8400",
-     "Ryzen 5 2600"
-    ],
-    "cpu_pts": 145,
-    "cpu_ref": "Ryzen 5 2600",
-    "disco_gb": 8.0,
-    "gpu_modelos": [
-     "GTX 1060",
-     "RX 580"
-    ],
-    "gpu_pts": 100,
-    "gpu_ref": "GTX 1060",
-    "ram_gb": 8.0,
-    "texto": {
-     "cpu": "Intel Core i5-8400 or AMD Ryzen 5 2600",
-     "directx": "Versión 11",
-     "disco": "8 GB de espacio disponible",
-     "gpu": "NVIDIA GeForce GTX 1060 6 GB or AMD Radeon RX 580 8 GB",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits Se requiere procesador y sistema operativo de 64 bits. Se requiere conexión a internet y micrófono para el modo multijugador en línea y el chat de voz.",
-     "ram": "8 GB de RAM",
-     "red": "Conexión de banda ancha a Internet",
-     "so": "Windows 10 64-bit (version 21H1 or newer)",
-     "sonido": "Compatible con DirectX"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": null,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": null,
-    "texto": {
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
-    }
-   }
-  },
-  "slug": "blind-route"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Digital Mishappp"
-  ],
-  "descripcion": "Crea un ejército insólito y lleva su poder al absurdo. Recluta tropas, fusiona habilidades, acumula mejoras y ve cómo tus planes cobran vida en combate. Emprende una expedición fantástica con rutas ramificadas, a solas o en cooperativo en línea para hasta 4 jugadores.",
-  "descuento": 20,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Indie",
-   "Estrategia"
-  ],
-  "gratis": false,
-  "id": 5268180,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268180/6a6f6493ad9c457236c313ed916771a5f713951b/header.jpg?t=1794010834",
-  "nombre": "Bannerborn",
-  "precio": "COL$ 15.999",
-  "proximamente": false,
-  "puesto": 112,
-  "req": {
-   "min": {
-    "cpu_modelos": [
-     "i5-8400",
-     "Ryzen 5 2600"
-    ],
-    "cpu_pts": 145,
-    "cpu_ref": "Ryzen 5 2600",
-    "disco_gb": 5.0,
-    "gpu_modelos": [
-     "GTX 1650",
-     "RX 570"
-    ],
-    "gpu_pts": 68,
-    "gpu_ref": "GTX 1650",
-    "ram_gb": 8.0,
-    "texto": {
-     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
-     "directx": "Versión 11",
-     "disco": "5 GB de espacio disponible",
-     "gpu": "NVIDIA GTX 1650 4 GB / AMD RX 570 4 GB",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits Se requiere conexión a Internet para el cooperativo en línea. Con ejércitos grandes, se recomienda reducir los ajustes gráficos y de animación.",
-     "ram": "8 GB de RAM",
-     "so": "Windows 10 de 64 bits (22H2) o Windows 11 de 64 bits"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [
-     "i5-12400",
-     "Ryzen 5 5600"
-    ],
-    "cpu_pts": 230,
-    "cpu_ref": "Ryzen 5 5600",
-    "disco_gb": 5.0,
-    "gpu_modelos": [
-     "GTX 1660 Super",
-     "RX 5600 XT"
-    ],
-    "gpu_pts": 125,
-    "gpu_ref": "GTX 1660 Super",
-    "ram_gb": 16.0,
-    "texto": {
-     "cpu": "Intel Core i5-12400 / AMD Ryzen 5 5600",
-     "directx": "Versión 11",
-     "disco": "5 GB de espacio disponible",
-     "gpu": "NVIDIA GTX 1660 SUPER 6 GB / AMD RX 5600 XT 6 GB",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits Internet connection required for online co-op. Lower graphics and animation settings are recommended for large armies.",
-     "ram": "16 GB de RAM",
-     "so": "Windows 11 64-bit"
-    }
-   }
-  },
-  "slug": "bannerborn"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "KEEPLR"
-  ],
-  "descripcion": "Sort 3,100 pieces of jewelry scattered throughout an elegant shop. Open each box, read its number, and place every ring, watch, necklace and more in its exact marked spot. Unlock helpful skills at your own pace—or race the clock.",
-  "descuento": 10,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Aventura",
-   "Casual",
-   "Indie",
-   "Simuladores"
-  ],
-  "gratis": false,
-  "id": 5217960,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5217960/75611979c13cdde401db120f9ed35f93d90deeec/header.jpg?t=1794010291",
-  "nombre": "Jewelry Keeper",
-  "precio": "COL$ 14.849",
-  "proximamente": false,
-  "puesto": 113,
-  "req": {
-   "min": {
-    "cpu_modelos": [
-     "i5-8400",
-     "Ryzen 5 2600"
-    ],
-    "cpu_pts": 145,
-    "cpu_ref": "Ryzen 5 2600",
-    "disco_gb": 1.0,
-    "gpu_modelos": [
-     "GTX 1050 Ti",
-     "RX 560"
-    ],
-    "gpu_pts": 42,
-    "gpu_ref": "RX 560",
-    "ram_gb": 8.0,
-    "texto": {
-     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
-     "directx": "Versión 12",
-     "disco": "1 GB de espacio disponible",
-     "gpu": "DirectX 12 capable GPU with 2 GB VRAM (GTX 1050 Ti / RX 560 or better)",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits Every texture is painted at load and every render pipeline is built on the frame the shop opens, so the first load of a new game takes about two minutes on the development machine and will take longer on a slower one.",
-     "ram": "8 GB de RAM",
-     "so": "Windows 10 64-bit",
-     "sonido": "Any DirectX-compatible"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [
-     "i5-12400",
-     "Ryzen 5 5600"
-    ],
-    "cpu_pts": 230,
-    "cpu_ref": "Ryzen 5 5600",
-    "disco_gb": 1.0,
-    "gpu_modelos": [
-     "RTX 3060",
-     "RX 6600"
-    ],
-    "gpu_pts": 165,
-    "gpu_ref": "RX 6600",
-    "ram_gb": 16.0,
-    "texto": {
-     "cpu": "Intel Core i5-12400 / AMD Ryzen 5 5600",
-     "directx": "Versión 12",
-     "disco": "1 GB de espacio disponible",
-     "gpu": "GPU with 6 GB VRAM (RTX 3060 / RX 6600 or better)",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits Render scale, bloom, grain and contrast are adjustable in the settings page. A faster GPU shortens the cold start more than a faster CPU does.",
-     "ram": "16 GB de RAM",
-     "so": "Windows 11 64-bit",
-     "sonido": "Any DirectX-compatible"
-    }
-   }
-  },
-  "slug": "jewelry-keeper"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "David Allendorfer"
-  ],
-  "descripcion": "Dodge bullets in this new and exciting take on Minesweeper! Collect a variety of power-ups to even the playing field. Play with your friends in online and local multiplayer. You can even brag to you friends using the game's built-in score sharing features.",
-  "descuento": 20,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Indie"
-  ],
-  "gratis": false,
-  "id": 5221200,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5221200/29099a9a2aba00d8b57d5ec5e6d44d47866a8589/header.jpg?t=1794009415",
-  "nombre": "Minefield Mayhem",
-  "precio": "COL$ 11.199",
-  "proximamente": false,
-  "puesto": 114,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.29,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 4.0,
-    "texto": {
-     "cpu": "Intel I5",
-     "disco": "300 MB de espacio disponible",
-     "gpu": "Integrated Graphics",
-     "ram": "4 GB de RAM",
-     "so": "Windows 10"
-    }
-   }
-  },
-  "slug": "minefield-mayhem"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Stella Rose Soren Taylor"
-  ],
-  "descripcion": "Stem the tide of endless hordes of enemies in a new, retro styled, and fast paced arcade shooter game. Buy upgrades, and earn the highest score you can through mastery of movement, precision, and endurance.",
-  "descuento": 0,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Acción",
-   "Casual",
-   "Indie",
-   "Free to Play"
-  ],
-  "gratis": true,
-  "id": 4959560,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4959560/8436e8eb11414cd0ca8a5bd21055557b95aec79d/header.jpg?t=1794009346",
-  "nombre": "Wireframe",
-  "precio": "",
-  "proximamente": false,
-  "puesto": 115,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": null,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": null,
-    "texto": {
-     "cpu": "Intel(R)",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": null,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": null,
-    "texto": {
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
-    }
-   }
-  },
-  "slug": "wireframe"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Cdn19"
-  ],
-  "descripcion": "Catch drifting stars, solve celestial match-three puzzles and unlock colourful cosmetics across 1,000 levels in this pastel cosmic clicker. Build upgrades, brave black holes and guide a little star soul towards a home, one soft piano note at a time.",
-  "descuento": 0,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Casual",
-   "Indie"
-  ],
-  "gratis": false,
-  "id": 5423390,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423390/d646f7f8a7804bb39d9229b35885f7ea7208b6b7/header.jpg?t=1794007070",
-  "nombre": "A Little Soul Among Suns",
-  "precio": "COL$ 7.699",
-  "proximamente": false,
-  "puesto": 116,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 4.0,
-    "texto": {
-     "disco": "500 MB de espacio disponible",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
-     "ram": "4 GB de RAM"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": null,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": null,
-    "texto": {
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
-    }
-   }
-  },
-  "slug": "a-little-soul-among-suns"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Olivia Gonsher"
-  ],
-  "descripcion": "A PS2-style life sim about being a small, busy person in a mid-sized city. Get a job, buy a home, pet a dog, make some choices. Every one of them is being counted. You will die in about 90 minutes. Then you get the receipt, and the afterlife sorts you accordingly. A life, itemized.",
-  "descuento": 10,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Casual",
-   "Simuladores"
-  ],
-  "gratis": false,
-  "id": 4995060,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995060/df4a694614e410f199fbc1166dba11c2224764a4/header.jpg?t=1794006804",
-  "nombre": "The Tally",
-  "precio": "COL$ 5.984",
-  "proximamente": false,
-  "puesto": 117,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 4.0,
-    "texto": {
-     "cpu": "Dual-core 2.0 GHz",
-     "disco": "500 MB de espacio disponible",
-     "gpu": "Any GPU with OpenGL 3.3 support",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
-     "ram": "4096 MB de RAM",
-     "so": "Windows 10 64-bit"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [
-     "GTX 1050"
-    ],
-    "gpu_pts": 48,
-    "gpu_ref": "GTX 1050",
-    "ram_gb": 8.0,
-    "texto": {
-     "cpu": "Quad-core 3.0 GHz",
-     "disco": "500 MB de espacio disponible",
-     "gpu": "Dedicated GPU with OpenGL 3.3 support (GTX 1050 or better)",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
-     "ram": "8192 MB de RAM",
-     "so": "Windows 10 or 11, 64-bit"
-    }
-   }
-  },
-  "slug": "the-tally"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Buttermilk Studios "
-  ],
-  "descripcion": "Return to Victorian-Era Hong Kong as Fini, an ex-priest struggling with opium addiction. Your father made the family fortune in the opium trade. Now he’s dead. His letter mentions a jade ring that sends you back home, with a sharp-tongued cat named Xiao and some clearly unfinished family business.",
-  "descuento": 0,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Aventura",
-   "Indie"
-  ],
-  "gratis": false,
-  "id": 5409320,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5409320/1abec27b081a8b3a979a8a735a2d1fc392b5f805/header.jpg?t=1794004446",
-  "nombre": "Gweilo 1886",
-  "precio": "COL$ 60.999",
-  "proximamente": false,
-  "puesto": 118,
-  "req": {
-   "min": {
-    "cpu_modelos": [
-     "i5-8400",
-     "Ryzen 5 2600"
-    ],
-    "cpu_pts": 145,
-    "cpu_ref": "Ryzen 5 2600",
-    "disco_gb": null,
-    "gpu_modelos": [
-     "GTX 1060",
-     "RX 580"
-    ],
-    "gpu_pts": 100,
-    "gpu_ref": "GTX 1060",
-    "ram_gb": 8.0,
-    "texto": {
-     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600 or equivalent",
-     "directx": "Versión 11",
-     "gpu": "NVIDIA GTX 1060 6 GB / AMD RX 580 8 GB or equivalent",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits Provisional requirements; final specifications subject to build testing.",
-     "ram": "8 GB de RAM",
-     "so": "Windows 10 64-bit",
-     "sonido": "DirectX-compatible sound card"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [
-     "i7-10700",
-     "Ryzen 7 3700X"
-    ],
-    "cpu_pts": 205,
-    "cpu_ref": "Ryzen 7 3700X",
-    "disco_gb": null,
-    "gpu_modelos": [
-     "RTX 2060",
-     "RX 6600"
-    ],
-    "gpu_pts": 150,
-    "gpu_ref": "RTX 2060",
-    "ram_gb": 16.0,
-    "texto": {
-     "cpu": "Intel Core i7-10700 / AMD Ryzen 7 3700X or equivalent",
-     "directx": "Versión 12",
-     "gpu": "NVIDIA RTX 2060 / AMD RX 6600 or equivalent",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD recommended.",
-     "ram": "16 GB de RAM",
-     "so": "Windows 11 64-bit",
-     "sonido": "DirectX-compatible sound card"
-    }
-   }
-  },
-  "slug": "gweilo-1886"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Xiro's Studio"
-  ],
-  "descripcion": "¡Ponte al mando de una cadena de televisión de los 90 en Retro TV Tycoon! Adquiere derechos de comedias y películas de culto, programa 24/7, firma lucrativos contratos publicitarios y amplía tu red de antenas para dominar el mundo.",
-  "descuento": 20,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Simuladores"
-  ],
-  "gratis": false,
-  "id": 5114030,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114030/b0aae65447f9cb481a51cfcd156e5f75bcae0e38/header.jpg?t=1794004224",
-  "nombre": "Retro TV Tycoon",
-  "precio": "COL$ 25.199",
-  "proximamente": false,
-  "puesto": 119,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [
-     "Intel HD Graphics 4000"
-    ],
-    "gpu_pts": 6,
-    "gpu_ref": "Intel HD Graphics 4000",
-    "ram_gb": 2.0,
-    "texto": {
-     "cpu": "1.6 GHz Dual Core (Intel Core i3 / AMD equivalent)",
-     "directx": "Versión 11",
-     "disco": "500 MB de espacio disponible",
-     "gpu": "Intel HD Graphics 4000 / AMD Radeon Vega 3 or any DirectX 11 compatible GPU",
-     "notas": "SO *: Windows 10 (64-bit) or Windows 7 SP1+ (64-bit) N/A Minimum display resolution: 1280x720. Highly optimized for low-spec PCs and laptops.",
-     "ram": "2 GB de RAM",
-     "sonido": "DirectX compatible sound card or integrated audio"
-    }
-   }
-  },
-  "slug": "retro-tv-tycoon"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Hina"
-  ],
-  "descripcion": "LetterZ – El camino de las letras es un juego de automatización en el que extraes, transportas y ensamblas letras para formar palabras. Optimiza tus líneas de producción, desbloquea nuevas posibilidades y construye tu fábrica, una letra cada vez.",
-  "descuento": 15,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Simuladores"
-  ],
-  "gratis": false,
-  "id": 5365100,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365100/d1d778cb3d283c84ea5f04815dd466e43e3b264f/header.jpg?t=1794004034",
-  "nombre": "LetterZ: The paths of letters",
-  "precio": "COL$ 7.224",
-  "proximamente": false,
-  "puesto": 120,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 4.0,
-    "texto": {
-     "cpu": "i3",
-     "disco": "500 MB de espacio disponible",
-     "gpu": "Integrated graphics",
-     "ram": "4 GB de RAM",
-     "so": "Windows 10"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 8.0,
-    "texto": {
-     "cpu": "i5",
-     "disco": "500 MB de espacio disponible",
-     "gpu": "Dedicated GPU",
-     "ram": "8 GB de RAM",
-     "so": "Windows 10"
-    }
-   }
-  },
-  "slug": "letterz-the-paths-of-letters"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Autonomous Tree"
-  ],
-  "descripcion": "No Up es un juego de laberintos 3D en primera persona donde las paredes y los techos se convierten en caminos. Explora cada laberinto, activa sus interruptores y encuentra la salida.",
-  "descuento": 0,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Aventura",
-   "Casual",
-   "Indie",
-   "Simuladores"
-  ],
-  "gratis": false,
-  "id": 4332130,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332130/8183a6ddb3cd9af67bb42bdca9a0a388d2b5ecec/header.jpg?t=1794003981",
-  "nombre": "No Up",
-  "precio": "COL$ 17.499",
-  "proximamente": false,
-  "puesto": 121,
-  "req": {
-   "min": {
-    "cpu_modelos": [
-     "i3-8100",
-     "Ryzen 3 1200"
-    ],
-    "cpu_pts": 85,
-    "cpu_ref": "Ryzen 3 1200",
-    "disco_gb": 1.0,
-    "gpu_modelos": [
-     "GTX 970",
-     "RX 560"
-    ],
-    "gpu_pts": 42,
-    "gpu_ref": "RX 560",
-    "ram_gb": 1.0,
-    "texto": {
-     "cpu": "Intel Core i3-8100 / AMD Ryzen 3 1200",
-     "disco": "1 GB de espacio disponible",
-     "gpu": "NVIDIA GeForce GTX 970 / AMD Radeon RX 560 (2-4 GB VRAM)",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits No aplicable Requiere un procesador y un sistema operativo de 64 bits",
-     "ram": "1 GB de RAM",
-     "so": "Windows 10 de 64 bits",
-     "sonido": "Tarjeta de sonido compatible con DirectX"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [
-     "i3-8100",
-     "Ryzen 3 1200"
-    ],
-    "cpu_pts": 85,
-    "cpu_ref": "Ryzen 3 1200",
-    "disco_gb": 1.0,
-    "gpu_modelos": [
-     "GTX 970",
-     "RX 560"
-    ],
-    "gpu_pts": 42,
-    "gpu_ref": "RX 560",
-    "ram_gb": 1.0,
-    "texto": {
-     "cpu": "Intel Core i3-8100 / AMD Ryzen 3 1200",
-     "disco": "1 GB de espacio disponible",
-     "gpu": "NVIDIA GeForce GTX 970 / AMD Radeon RX 560 (2-4 GB VRAM)",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits N/A Optimized for performance settings at 1080p, 60 FPS. SSD recommended",
-     "ram": "1 GB de RAM",
-     "so": "Windows 10 64-bit",
-     "sonido": "DirectX-compatible sound card"
-    }
-   }
-  },
-  "slug": "no-up"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "VongoForge"
-  ],
-  "descripcion": "Time-loop defense shooter. Aim yourself or let your squad fire on auto as orcs, goblins, boar riders and mechs flood in. Spend the loot on a 38-node upgrade tree, unlock five units, beat the boss waves, then rewind time for permanent upgrades.",
-  "descuento": 0,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Casual",
-   "Estrategia",
-   "Free to Play"
-  ],
-  "gratis": true,
-  "id": 4877750,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877750/0f138046c9ce76696e6f76ba9ce116c36c45fdcb/header.jpg?t=1794002724",
-  "nombre": "Temporal Strike",
-  "precio": "",
-  "proximamente": false,
-  "puesto": 122,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.2,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": null,
-    "texto": {
-     "cpu": "Core i3",
-     "disco": "200 MB de espacio disponible",
-     "gpu": "Integrated",
-     "so": "Windows 10"
-    }
-   }
-  },
-  "slug": "temporal-strike"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Damply"
-  ],
-  "descripcion": "A social casino where the only thing at stake is bragging rights. Play 20+ games, from slots, Plinko and Crash to live poker and case battles with friends, using free play-money chips. Climb weekly leaderboards, finish quests and unlock cosmetics. No real-money gambling or payouts.",
-  "descuento": 0,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Casual",
-   "Estrategia",
-   "Free to Play"
-  ],
-  "gratis": true,
-  "id": 1825840,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1825840/0651543ac07cecf70d9a3ce1d66250420e3e8a60/header.jpg?t=1794002480",
-  "nombre": "House Zero",
-  "precio": "",
-  "proximamente": false,
-  "puesto": 123,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 50.0,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 2.0,
-    "texto": {
-     "cpu": "1 gigahertz (GHz) or faster processor or SoC",
-     "directx": "Versión 9.0",
-     "disco": "50 GB de espacio disponible",
-     "gpu": "DirectX 9 or later with WDDM 1.0 driver",
-     "ram": "2 GB de RAM",
-     "so": "Windows 10"
-    }
-   }
-  },
-  "slug": "house-zero"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "NAGI Studio"
-  ],
-  "descripcion": "This game is a quiz game that includes satire and jokes.",
-  "descuento": 15,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Indie"
-  ],
-  "gratis": false,
-  "id": 4986470,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986470/69a32999868fa19611f10d7df86a2dfed6bc197a/header.jpg?t=1794002596",
-  "nombre": "クイズ！罵倒ネア！",
-  "precio": "COL$ 51.849",
-  "proximamente": false,
-  "puesto": 125,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 3.0,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 4.0,
-    "texto": {
-     "directx": "Versión 11",
-     "disco": "3 GB de espacio disponible",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits Procesador: Gráficos: Tarjeta de sonido: Notas adicionales:",
-     "ram": "4 GB de RAM"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": null,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": null,
-    "texto": {
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
-    }
-   }
-  },
-  "slug": "juego-4986470"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Code and DESIGN"
-  ],
-  "descripcion": "Forma un equipo de gatos pixelados y deja que combatan solos en 24 mazmorras. Luchan, consiguen botín y suben de nivel por su cuenta, y siguen de aventura incluso con el juego cerrado. Reúne 14 razas, busca equipo legendario y haz crecer tu posada gatuna.",
-  "descuento": 0,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Casual",
-   "Indie",
-   "Rol"
-  ],
-  "gratis": false,
-  "id": 5452260,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5452260/3bd091c5ca389ca93d767b7b7c2b272ce35adfd6/header.jpg?t=1794000679",
-  "nombre": "Meow Dungeon: Idle Cat RPG",
-  "precio": "COL$ 7.699",
-  "proximamente": false,
-  "puesto": 126,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 4.0,
-    "texto": {
-     "cpu": "64-bit (x64) processor",
-     "directx": "Versión 11",
-     "disco": "500 MB de espacio disponible",
-     "gpu": "DirectX 11 compatible GPU",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
-     "ram": "4 GB de RAM",
-     "so": "Windows 10 / 11 (64-bit)"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 8.0,
-    "texto": {
-     "cpu": "64-bit quad-core processor",
-     "directx": "Versión 11",
-     "disco": "500 MB de espacio disponible",
-     "gpu": "DirectX 11 compatible GPU with 1 GB VRAM",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits A 1280x800 or larger display is recommended.",
-     "ram": "8 GB de RAM",
-     "so": "Windows 10 / 11 (64-bit)"
-    }
-   }
-  },
-  "slug": "meow-dungeon-idle-cat-rpg"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Hetki"
-  ],
-  "descripcion": "Un idle cósmico donde alimentas una diminuta chispa hasta convertirla en SUPERNOVA. Arrastra el combustible, deja que colonias y flotas lo traigan por ti, o haz ambas cosas. Apila 158 mejoras, embiste planetas errantes, fúndete con estrellas muertas y catapulta materia fuera de los agujeros negros.",
-  "descuento": 15,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Casual",
-   "Indie",
-   "Simuladores"
-  ],
-  "gratis": false,
-  "id": 4248190,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248190/240545c355e6aa1c7b322633cde26f6ad6445095/header.jpg?t=1793999872",
-  "nombre": "Sunborn",
-  "precio": "COL$ 14.874",
-  "proximamente": false,
-  "puesto": 127,
-  "req": {
-   "min": {
-    "cpu_modelos": [
-     "i3-6100",
-     "FX-6300"
-    ],
-    "cpu_pts": 60,
-    "cpu_ref": "FX-6300",
-    "disco_gb": 0.49,
-    "gpu_modelos": [
-     "GT 1030"
-    ],
-    "gpu_pts": 25,
-    "gpu_ref": "GT 1030",
-    "ram_gb": 4.0,
-    "texto": {
-     "cpu": "Intel Core i3-6100 / AMD FX-6300",
-     "directx": "Versión 11",
-     "disco": "500 MB de espacio disponible",
-     "gpu": "AMD Radeon R7 250 / NVIDIA GeForce GT 1030",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
-     "ram": "4 GB de RAM",
-     "so": "Windows 11"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [
-     "i5-9400",
-     "Ryzen 5 2600"
-    ],
-    "cpu_pts": 145,
-    "cpu_ref": "Ryzen 5 2600",
-    "disco_gb": 0.49,
-    "gpu_modelos": [
-     "RX 560",
-     "GTX 1050 Ti"
-    ],
-    "gpu_pts": 42,
-    "gpu_ref": "RX 560",
-    "ram_gb": 8.0,
-    "texto": {
-     "cpu": "Intel Core i5-9400 / AMD Ryzen 5 2600",
-     "directx": "Versión 11",
-     "disco": "500 MB de espacio disponible",
-     "gpu": "AMD Radeon RX 560 / NVIDIA GeForce GTX 1050 Ti",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
-     "ram": "8 GB de RAM",
-     "so": "Windows 11"
-    }
-   }
-  },
-  "slug": "sunborn"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Puduo Games"
-  ],
-  "descripcion": "La oscuridad se extiende por el bosque, corrompiendo todo a su paso. Y, de alguna manera, depende de ti, un pequeño gnomo corriente, cambiar el rumbo de los acontecimientos. Lucha contra todo pronóstico y hazte más fuerte mientras descubres los secretos que se esconden tras la corrupción.",
-  "descuento": 15,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Casual",
-   "Indie",
-   "Rol"
-  ],
-  "gratis": false,
-  "id": 5338070,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5338070/e1a6ea12192055b632f5dd4d6362b0dfdc2efe20/header.jpg?t=1793998805",
-  "nombre": "It Takes One To Gnome It All",
-  "precio": "COL$ 11.049",
-  "proximamente": false,
-  "puesto": 128,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 4.0,
-    "texto": {
-     "cpu": "Intel Core i3-10110U @ 2.10 GHz (or equivalent dual-core)",
-     "directx": "Versión 11",
-     "disco": "500 MB MB de espacio disponible",
-     "gpu": "Intel UHD Graphics (integrated), 1080p capable",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits Tested at 1920x1080 on integrated graphics, no dedicated GPU required.",
-     "ram": "4096 MB de RAM",
-     "so": "Windows 10 64-bit or Windows 11"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [
-     "GTX 1050"
-    ],
-    "gpu_pts": 48,
-    "gpu_ref": "GTX 1050",
-    "ram_gb": 8.0,
-    "texto": {
-     "cpu": "Intel Core i5 (6th gen or newer) or equivalent quad-core",
-     "directx": "Versión 11",
-     "disco": "500 MB MB de espacio disponible",
-     "gpu": "Any dedicated GPU, e.g. NVIDIA GTX 1050 or equivalent",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
-     "ram": "8192 MB de RAM",
-     "so": "Windows 10 64-bit or Windows 11"
-    }
-   }
-  },
-  "slug": "it-takes-one-to-gnome-it-all"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   " Raptor Entertainment"
-  ],
-  "descripcion": "Bio Party is a chaotic 2–4 player party game packed with fast-paced minigames, ridiculous physics, and plenty of ways to sabotage your friends. Compete, cooperate, betray, and survive a series of unpredictable biological challenges.",
-  "descuento": 20,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Acción",
-   "Casual",
-   "Indie"
-  ],
-  "gratis": false,
-  "id": 5118920,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118920/39316c338a0c607c6df3a2b1d6e4da33a94fe3e1/header.jpg?t=1793997852",
-  "nombre": "Bio Party",
-  "precio": "COL$ 9.199",
-  "proximamente": false,
-  "puesto": 129,
-  "req": {
-   "min": {
-    "cpu_modelos": [
-     "i5-8400",
-     "Ryzen 5 2600"
-    ],
-    "cpu_pts": 145,
-    "cpu_ref": "Ryzen 5 2600",
-    "disco_gb": 2.0,
-    "gpu_modelos": [
-     "GTX 1050",
-     "RX 560"
-    ],
-    "gpu_pts": 42,
-    "gpu_ref": "RX 560",
-    "ram_gb": null,
-    "texto": {
-     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
-     "disco": "2 GB de espacio disponible",
-     "gpu": "NVIDIA GTX 1050 4 GB / AMD RX 560 4 GB",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
-     "red": "Conexión de banda ancha a Internet",
-     "so": "Windows 10 64-bit veya üzeri",
-     "sonido": "Any"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": null,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": null,
-    "texto": {
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
-    }
-   }
-  },
-  "slug": "bio-party"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "PUMPKIM"
-  ],
-  "descripcion": "Pon a prueba tu sexto sentido. ¿Comerás un conejo salvaje o atarás a alguien a las vías del tren? Cada decisión depende de ti. Ojalá puedas reírte dentro de tus pesadillas.",
-  "descuento": 10,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Aventura",
-   "Indie"
-  ],
-  "gratis": false,
-  "id": 4159350,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159350/5d5f250b1f0d2463936447a93ba372fa612724b4/header.jpg?t=1793997123",
-  "nombre": "a Dogs Dream",
-  "precio": "COL$ 24.299",
-  "proximamente": false,
-  "puesto": 130,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 2.0,
-    "gpu_modelos": [
-     "GTX 960"
-    ],
-    "gpu_pts": 58,
-    "gpu_ref": "GTX 960",
-    "ram_gb": 0.5,
-    "texto": {
-     "cpu": "Intel Pentium 4 3GHz or AMD Athlon 64 3000+",
-     "directx": "Versión 11",
-     "disco": "2 GB de espacio disponible",
-     "gpu": "GTX 960",
-     "notas": "SO *: Windows 7",
-     "ram": "512 MB de RAM",
-     "sonido": "DirectX® 9.0c compliant sound card"
-    }
-   }
-  },
-  "slug": "a-dogs-dream"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Cody Suthers"
-  ],
-  "descripcion": "Time is the most valuable resource. Use it wisely to play cards that give you resources that you need to build timepaths. Complete the timepath before you run out of time. Featuring an adventure mode, card editor, and infinite levels.",
-  "descuento": 0,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Casual",
-   "Indie",
-   "Estrategia"
-  ],
-  "gratis": false,
-  "id": 2278060,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278060/f8dab0e35472bec9ac9c119ffe9a51e1574f7e6f/header.jpg?t=1793995373",
-  "nombre": "Timepaths",
-  "precio": "COL$ 26.000",
-  "proximamente": false,
-  "puesto": 131,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.59,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 2.0,
-    "texto": {
-     "cpu": "Intel Core i5-760",
-     "directx": "Versión 10",
-     "disco": "600 MB de espacio disponible",
-     "gpu": "GeForce GTX 550 Ti, HD 5830, Intel 630",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
-     "ram": "2 GB de RAM",
-     "so": "Windows 10 (64 bit)"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.68,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": null,
-    "texto": {
-     "disco": "700 MB de espacio disponible",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
-    }
-   }
-  },
-  "slug": "timepaths"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Gestmorph Games"
-  ],
-  "descripcion": "A horror anomaly finder where you are contracted to observe websites and report errors and changes. But there is more to your clients than meets the eye.",
-  "descuento": 10,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Aventura",
-   "Indie"
-  ],
-  "gratis": false,
-  "id": 3529660,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529660/b53ab33ab76da3229cef06f8f3ab33ca8d2526d2/header.jpg?t=1793995230",
-  "nombre": "HOMEPAGE",
-  "precio": "COL$ 18.900",
-  "proximamente": false,
-  "puesto": 132,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 1.0,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 1.0,
-    "texto": {
-     "disco": "1 GB de espacio disponible",
-     "ram": "1 GB de RAM",
-     "so": "Windows 10 or later"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 2.0,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 2.0,
-    "texto": {
-     "disco": "2 GB de espacio disponible",
-     "ram": "2 GB de RAM",
-     "so": "Windows 10 or later"
-    }
-   }
-  },
-  "slug": "homepage"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "vsaik"
-  ],
-  "descripcion": "Tienen instinto de supervivencia. Tienen ansiedad. Sienten pavor ante tu cursor. Cázalos, explota su mentalidad de rebaño y arrójalos a la trituradora. Son matemáticas de importancia crítica en un mundo donde ya nada importa.",
-  "descuento": 0,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Casual",
-   "Indie"
-  ],
-  "gratis": false,
-  "id": 4774510,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774510/c924c59fabe00b028d762d4195895ab912d0a2ee/header.jpg?t=1793994712",
-  "nombre": "Scared Numbers",
-  "precio": "COL$ 8.499",
-  "proximamente": false,
-  "puesto": 133,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 0.49,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 1.0,
-    "texto": {
-     "cpu": "Intel Core i3 2.00 GHz",
-     "directx": "Versión 9.0",
-     "disco": "500 MB de espacio disponible",
-     "gpu": "Intel® HD Graphics 3000",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7 or newer",
-     "ram": "1 GB de RAM"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": null,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": null,
-    "texto": {
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
-    }
-   }
-  },
-  "slug": "scared-numbers"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "STD Games"
-  ],
-  "descripcion": "A dead graphics card. An AI genie. Three wishes with a hidden cost. Find five differences in each of 17 illustrated scenes as Theo’s wish to escape work transforms the world around him. A relaxing puzzle game with a dark fantasy story. no timer, no penalty, just a closer look.",
-  "descuento": 10,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Casual"
-  ],
-  "gratis": false,
-  "id": 5398810,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5398810/fda962080c4705d88f7b24b4eab462556d3ffade/header.jpg?t=1793994555",
-  "nombre": "The Last Wish",
-  "precio": "COL$ 5.129",
-  "proximamente": false,
-  "puesto": 134,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 1.0,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 4.0,
-    "texto": {
-     "cpu": "64-bit dual-core processor with SSE4.2 support",
-     "disco": "1024 MB de espacio disponible",
-     "gpu": "Integrated or dedicated graphics with OpenGL 3.3 support",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits Requires a 64-bit processor and operating system. Mouse required.",
-     "ram": "4096 MB de RAM",
-     "so": "Windows 10 or Windows 11, 64-bit",
-     "sonido": "Any Windows-compatible audio device"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": null,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": null,
-    "texto": {
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
-    }
-   }
-  },
-  "slug": "the-last-wish"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Paul Kelly"
-  ],
-  "descripcion": "Play your flat PC games on a giant 3D screen in VR. VRX3D captures the game window, works out the depth of every frame live on your graphics card, and shows it in stereo on a big screen in a dark room lit by the picture. Keep your keyboard, mouse or controller.",
-  "descuento": 0,
-  "fecha": "6 NOV 2026",
-  "generos": [
-   "Utilidades"
-  ],
-  "gratis": false,
-  "id": 5458290,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458290/1cdab9f34172e6c0644c95c4873d1dd7150a4857/header.jpg?t=1793994063",
-  "nombre": "VRX3D",
-  "precio": "COL$ 5.149",
-  "proximamente": false,
-  "puesto": 135,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 1.0,
-    "gpu_modelos": [
-     "RTX 2060",
-     "RX 6600"
-    ],
-    "gpu_pts": 150,
-    "gpu_ref": "RTX 2060",
-    "ram_gb": 8.0,
-    "texto": {
-     "cpu": "4-core 64-bit CPU",
-     "directx": "Versión 12",
-     "disco": "1 GB de espacio disponible",
-     "gpu": "DirectX 12 GPU, NVIDIA RTX 2060 / AMD RX 6600 class",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits OpenXR (SteamVR as the OpenXR runtime). Headsets: any SteamVR headset; run on PlayStation VR2, Meta Quest 2 (Link), Pico 4 (Steam Link) and Oculus Rift. Controllers: none needed; you play with your keyboard and mouse or gamepad. Play area: seated or standing. Depth runs on your graphics card alongside your game. Running the game at 1080p usu",
-     "ram": "8 GB de RAM",
-     "so": "Windows 10 version 2004 (64-bit) or Windows 11"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 1.0,
-    "gpu_modelos": [
-     "RTX 3070",
-     "RX 6800"
-    ],
-    "gpu_pts": 255,
-    "gpu_ref": "RTX 3070",
-    "ram_gb": 16.0,
-    "texto": {
-     "cpu": "6-core 64-bit CPU or better",
-     "directx": "Versión 12",
-     "disco": "1 GB de espacio disponible",
-     "gpu": "NVIDIA RTX 3070 / AMD RX 6800 or better, or a second GPU for depth",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits OpenXR (SteamVR). Any SteamVR headset. No VR controllers needed. Seated or standing. Windows 11 24H2 lets VRX3D keep the depth of a still picture, so a still desktop does not twitch.",
-     "ram": "16 GB de RAM",
-     "so": "Windows 11 24H2 (64-bit)"
-    }
-   }
-  },
-  "slug": "vrx3d"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
    "IO Interactive A/S"
   ],
   "descripcion": "Gánate el título. 007 First Light es una trepidante aventura de espías llena de acción creada por IO Interactive. Sigue a un joven e ingenioso a la par que temerario James Bond durante su etapa como recluta del programa de entrenamiento del MI6, vive los primeros pasos del espía más famoso del mundo",
@@ -8308,7 +8643,7 @@
   "nombre": "007 First Light",
   "precio": "COL$ 108.600",
   "proximamente": false,
-  "puesto": 136,
+  "puesto": 137,
   "req": {
    "min": {
     "cpu_modelos": [],
@@ -8376,7 +8711,7 @@
   "nombre": "Potato Please",
   "precio": "COL$ 22.049",
   "proximamente": false,
-  "puesto": 137,
+  "puesto": 138,
   "req": {
    "min": {
     "cpu_modelos": [
@@ -8428,77 +8763,6 @@
    }
   },
   "slug": "potato-please"
- },
- {
-  "actualizado": "2026-11-07",
-  "desarrolladores": [
-   "Remedy Entertainment"
-  ],
-  "descripcion": "Explora un Manhattan deformado al borde de la aniquilación sobrenatural en este emocionante RPG de acción y aventuras. Desata los extraordinarios poderes de Dylan Faden mientras lucha por su humanidad y nuestra supervivencia contra una amenaza cósmica que desafía a la realidad.",
-  "descuento": 20,
-  "fecha": "24 SEP 2026",
-  "generos": [
-   "Acción",
-   "Aventura",
-   "Rol"
-  ],
-  "gratis": false,
-  "id": 3669870,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
-  "nombre": "CONTROL Resonant",
-  "precio": "COL$ 127.999",
-  "proximamente": false,
-  "puesto": 138,
-  "req": {
-   "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 120.0,
-    "gpu_modelos": [
-     "GTX 1070",
-     "RX 5600 XT",
-     "Arc A580"
-    ],
-    "gpu_pts": 130,
-    "gpu_ref": "GTX 1070",
-    "ram_gb": 16.0,
-    "texto": {
-     "cpu": "Intel i5-8500 / AMD Ryzen 5 3500",
-     "disco": "120 GB de espacio disponible",
-     "gpu": "Geforce GTX 1070 / Radeon RX 5600 XT / Intel Arc A580",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD Required",
-     "ram": "16 GB de RAM",
-     "so": "Windows 10 / 11 (64 bit)"
-    }
-   },
-   "rec": {
-    "cpu_modelos": [
-     "i7-10700",
-     "Ryzen 7 3700X"
-    ],
-    "cpu_pts": 205,
-    "cpu_ref": "Ryzen 7 3700X",
-    "disco_gb": 120.0,
-    "gpu_modelos": [
-     "RTX 3060 Ti",
-     "RX 6700 XT",
-     "Arc B580"
-    ],
-    "gpu_pts": 225,
-    "gpu_ref": "RTX 3060 Ti",
-    "ram_gb": 16.0,
-    "texto": {
-     "cpu": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
-     "disco": "120 GB de espacio disponible",
-     "gpu": "Geforce RTX 3060 Ti / Radeon RX 6700 XT / Intel Arc B580",
-     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD Required",
-     "ram": "16 GB de RAM",
-     "so": "Windows 10 / 11 (64 bit)"
-    }
-   }
-  },
-  "slug": "control-resonant"
  },
  {
   "actualizado": "2026-11-07",
@@ -8555,138 +8819,217 @@
  {
   "actualizado": "2026-11-07",
   "desarrolladores": [
-   "Qloud Games"
+   "Remedy Entertainment"
   ],
-  "descripcion": "Descubre el acogedor mundo de Loftia, un videojuego cozy multijugador donde construir un futuro mejor y más sostenible. Conecta con colegas y entabla nuevas amistades para cultivar, fabricar, explorar, decorar y, sobre todo, dejar una huella imperecedera juntos.",
-  "descuento": 17,
-  "fecha": "3 NOV 2026",
+  "descripcion": "Explora un Manhattan deformado al borde de la aniquilación sobrenatural en este emocionante RPG de acción y aventuras. Desata los extraordinarios poderes de Dylan Faden mientras lucha por su humanidad y nuestra supervivencia contra una amenaza cósmica que desafía a la realidad.",
+  "descuento": 20,
+  "fecha": "24 SEP 2026",
   "generos": [
+   "Acción",
    "Aventura",
-   "Casual",
-   "Indie",
-   "Multijugador masivo"
+   "Rol"
   ],
   "gratis": false,
-  "id": 2320980,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg?t=1793732506",
-  "nombre": "Loftia",
-  "precio": "COL$ 58.099",
+  "id": 3669870,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
+  "nombre": "CONTROL Resonant",
+  "precio": "COL$ 127.999",
   "proximamente": false,
   "puesto": 140,
   "req": {
    "min": {
-    "cpu_modelos": [
-     "i3-10100",
-     "Ryzen 3 3100"
-    ],
-    "cpu_pts": 120,
-    "cpu_ref": "i3-10100",
-    "disco_gb": 10.0,
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 120.0,
     "gpu_modelos": [
-     "GTX 1050",
-     "RX 560"
+     "GTX 1070",
+     "RX 5600 XT",
+     "Arc A580"
     ],
-    "gpu_pts": 42,
-    "gpu_ref": "RX 560",
-    "ram_gb": 8.0,
+    "gpu_pts": 130,
+    "gpu_ref": "GTX 1070",
+    "ram_gb": 16.0,
     "texto": {
-     "cpu": "Intel Core i3-10100F / AMD Ryzen 3 3100 (o equivalente)",
-     "directx": "Versión 11",
-     "disco": "10 GB de espacio disponible",
-     "gpu": "Nvidia GeForce GTX 1050 / AMD Radeon RX 560 (o equivalente)",
-     "ram": "8 GB de RAM",
-     "red": "Conexión de banda ancha a Internet",
-     "so": "Windows 10 (64 bit)"
+     "cpu": "Intel i5-8500 / AMD Ryzen 5 3500",
+     "disco": "120 GB de espacio disponible",
+     "gpu": "Geforce GTX 1070 / Radeon RX 5600 XT / Intel Arc A580",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD Required",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10 / 11 (64 bit)"
     }
    },
    "rec": {
     "cpu_modelos": [
-     "i5-12600K",
-     "Ryzen 5 5600"
+     "i7-10700",
+     "Ryzen 7 3700X"
     ],
-    "cpu_pts": 230,
-    "cpu_ref": "Ryzen 5 5600",
-    "disco_gb": 10.0,
+    "cpu_pts": 205,
+    "cpu_ref": "Ryzen 7 3700X",
+    "disco_gb": 120.0,
     "gpu_modelos": [
-     "GTX 1660",
-     "RX 5600 XT"
+     "RTX 3060 Ti",
+     "RX 6700 XT",
+     "Arc B580"
     ],
-    "gpu_pts": 110,
-    "gpu_ref": "GTX 1660",
+    "gpu_pts": 225,
+    "gpu_ref": "RTX 3060 Ti",
     "ram_gb": 16.0,
     "texto": {
-     "cpu": "Intel Core i5-12600K / AMD Ryzen 5 5600 (o equivalente)",
-     "directx": "Versión 12",
-     "disco": "10 GB de espacio disponible",
-     "gpu": "NVIDIA GeForce GTX 1660 / AMD Radeon RX 5600 XT (o equivalente)",
+     "cpu": "Intel Core i7-10700 / AMD Ryzen 7 3700X",
+     "disco": "120 GB de espacio disponible",
+     "gpu": "Geforce RTX 3060 Ti / Radeon RX 6700 XT / Intel Arc B580",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD Required",
      "ram": "16 GB de RAM",
-     "red": "Conexión de banda ancha a Internet",
-     "so": "Windows 11 (64 bit)"
+     "so": "Windows 10 / 11 (64 bit)"
     }
    }
   },
-  "slug": "loftia"
+  "slug": "control-resonant"
  },
  {
   "actualizado": "2026-11-07",
   "desarrolladores": [
-   "Electronic Arts"
+   "Leven Liu"
   ],
-  "descripcion": "Road Rash, la franquicia que definió el género de carreras de combate, regresa con la primera versión digital del juego. Esta edición del 30.º aniversario incluye una banda sonora con licencia renovada, cinemáticas de mayor resolución, jugabilidad de hasta 60 FPS y mucho más.",
-  "descuento": 50,
+  "descripcion": "Se desata una gran catástrofe. En plena misión, tu avión se estrella y quedas atrapado en la Zed Zone. Zombis y monstruos por todas partes. Para escapar, reúne materiales, mejora tus habilidades, construye refugios, derrota hordas de zombis y mechas misteriosos y persigue un rayo de esperanza.",
+  "descuento": 40,
   "fecha": "5 NOV 2026",
   "generos": [
    "Acción",
-   "Carreras"
+   "Indie",
+   "Rol",
+   "Simuladores"
   ],
   "gratis": false,
-  "id": 2448570,
-  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448570/a12ed683c51938590f28400c89cd8c8204e1e8db/header.jpg?t=1793986604",
-  "nombre": "Road Rash™: Edición del 30.º aniversario",
-  "precio": "COL$ 19.999",
+  "id": 1211600,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/aac7446006d1fb3898eccf697406d0c357cf20a3/header_alt_assets_2.jpg?t=1794035207",
+  "nombre": "ZED ZONE",
+  "precio": "COL$ 18.300",
   "proximamente": false,
   "puesto": 141,
   "req": {
    "min": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 4.0,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
+    "cpu_modelos": [
+     "Core i3"
+    ],
+    "cpu_pts": 50,
+    "cpu_ref": "Core i3",
+    "disco_gb": 0.29,
+    "gpu_modelos": [
+     "GTX 660"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "GTX 660",
     "ram_gb": 2.0,
     "texto": {
-     "cpu": "Any 1 GHz Intel or AMD processor (dual-core or better)",
-     "directx": "Versión 9.0c",
-     "disco": "4 GB de espacio disponible",
-     "gpu": "DirectX 9 compatible graphics with 128 MB VRAM",
-     "ram": "2 GB de RAM",
-     "so": "Windows 10 or Windows 11",
-     "sonido": "Any Windows-compatible sound device"
+     "cpu": "INTEL i3/ AMD R3",
+     "directx": "Versión 10",
+     "disco": "300 MB de espacio disponible",
+     "gpu": "Nvidia GTX 660",
+     "notas": "SO *: Win XP",
+     "ram": "2 GB de RAM"
     }
    },
    "rec": {
-    "cpu_modelos": [],
-    "cpu_pts": null,
-    "cpu_ref": null,
-    "disco_gb": 4.0,
-    "gpu_modelos": [],
-    "gpu_pts": null,
-    "gpu_ref": null,
-    "ram_gb": 4.0,
+    "cpu_modelos": [
+     "Core i7"
+    ],
+    "cpu_pts": 100,
+    "cpu_ref": "Core i7",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "GTX 1060"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 8.0,
     "texto": {
-     "cpu": "Intel Core i3 / AMD Ryzen 3 (or any modern 2.0 GHz+ CPU)",
-     "directx": "Versión 9.0c",
-     "disco": "4 GB de espacio disponible",
-     "gpu": "Any dedicated or modern integrated GPU with DirectX 9+ support",
-     "ram": "4 GB de RAM",
-     "so": "Windows 10 or Windows 11",
-     "sonido": "Any Windows-compatible sound device"
+     "cpu": "INTEL i7/ AMD R7",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Nvidia GTX 1060",
+     "ram": "8 GB de RAM",
+     "so": "Win 10"
     }
    }
   },
-  "slug": "road-rashtm-edicion-del-30-o-aniversario"
+  "slug": "zed-zone"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Indie Devil"
+  ],
+  "descripcion": "Repara tu autocaravana deteriorada y sal a la carretera en solitario o en cooperativo de 1–4 jugadores a través de un mundo post-apocalíptico generado de manera procedimental. Recoge recursos, personaliza tu autocaravana y sobrevive tanto como puedas.",
+  "descuento": 10,
+  "fecha": "27 OCT 2026",
+  "generos": [
+   "Aventura",
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 2223980,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg?t=1793667805",
+  "nombre": "Nomad Drive",
+  "precio": "COL$ 31.949",
+  "proximamente": false,
+  "puesto": 142,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 3.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 12.0,
+    "texto": {
+     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600 (6 cores)",
+     "directx": "Versión 11",
+     "disco": "3 GB de espacio disponible",
+     "gpu": "NVIDIA GTX 1060 6 GB / AMD RX 580 8 GB (6 GB VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "12 GB de RAM",
+     "so": "Windows 10 / 11 (64-bit)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-12400",
+     "Ryzen 5 5600X"
+    ],
+    "cpu_pts": 235,
+    "cpu_ref": "i5-12400",
+    "disco_gb": 3.0,
+    "gpu_modelos": [
+     "RTX 3060 Ti",
+     "RX 6700 XT"
+    ],
+    "gpu_pts": 225,
+    "gpu_ref": "RTX 3060 Ti",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5-12400F / AMD Ryzen 5 5600X",
+     "directx": "Versión 12",
+     "disco": "3 GB de espacio disponible",
+     "gpu": "NVIDIA RTX 3060 Ti / AMD RX 6700 XT (8 GB+ VRAM)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10 / 11 (64-bit)"
+    }
+   }
+  },
+  "slug": "nomad-drive"
  },
  {
   "actualizado": "2026-11-07",
@@ -12248,6 +12591,301 @@
  {
   "actualizado": "2026-11-07",
   "desarrolladores": [
+   "PUMPKIM"
+  ],
+  "descripcion": "Pon a prueba tu sexto sentido. ¿Comerás un conejo salvaje o atarás a alguien a las vías del tren? Cada decisión depende de ti. Ojalá puedas reírte dentro de tus pesadillas.",
+  "descuento": 10,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Aventura",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 4159350,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159350/5d5f250b1f0d2463936447a93ba372fa612724b4/header.jpg?t=1793997123",
+  "nombre": "a Dogs Dream",
+  "precio": "COL$ 24.299",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 2.0,
+    "gpu_modelos": [
+     "GTX 960"
+    ],
+    "gpu_pts": 58,
+    "gpu_ref": "GTX 960",
+    "ram_gb": 0.5,
+    "texto": {
+     "cpu": "Intel Pentium 4 3GHz or AMD Athlon 64 3000+",
+     "directx": "Versión 11",
+     "disco": "2 GB de espacio disponible",
+     "gpu": "GTX 960",
+     "notas": "SO *: Windows 7",
+     "ram": "512 MB de RAM",
+     "sonido": "DirectX® 9.0c compliant sound card"
+    }
+   }
+  },
+  "slug": "a-dogs-dream"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Cdn19"
+  ],
+  "descripcion": "Catch drifting stars, solve celestial match-three puzzles and unlock colourful cosmetics across 1,000 levels in this pastel cosmic clicker. Build upgrades, brave black holes and guide a little star soul towards a home, one soft piano note at a time.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 5423390,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5423390/d646f7f8a7804bb39d9229b35885f7ea7208b6b7/header.jpg?t=1794007070",
+  "nombre": "A Little Soul Among Suns",
+  "precio": "COL$ 7.699",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "disco": "500 MB de espacio disponible",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "4 GB de RAM"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "a-little-soul-among-suns"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Digital Mishappp"
+  ],
+  "descripcion": "Crea un ejército insólito y lleva su poder al absurdo. Recluta tropas, fusiona habilidades, acumula mejoras y ve cómo tus planes cobran vida en combate. Emprende una expedición fantástica con rutas ramificadas, a solas o en cooperativo en línea para hasta 4 jugadores.",
+  "descuento": 20,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Indie",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 5268180,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5268180/6a6f6493ad9c457236c313ed916771a5f713951b/header.jpg?t=1794010834",
+  "nombre": "Bannerborn",
+  "precio": "COL$ 15.999",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 5.0,
+    "gpu_modelos": [
+     "GTX 1650",
+     "RX 570"
+    ],
+    "gpu_pts": 68,
+    "gpu_ref": "GTX 1650",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+     "directx": "Versión 11",
+     "disco": "5 GB de espacio disponible",
+     "gpu": "NVIDIA GTX 1650 4 GB / AMD RX 570 4 GB",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Se requiere conexión a Internet para el cooperativo en línea. Con ejércitos grandes, se recomienda reducir los ajustes gráficos y de animación.",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 de 64 bits (22H2) o Windows 11 de 64 bits"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-12400",
+     "Ryzen 5 5600"
+    ],
+    "cpu_pts": 230,
+    "cpu_ref": "Ryzen 5 5600",
+    "disco_gb": 5.0,
+    "gpu_modelos": [
+     "GTX 1660 Super",
+     "RX 5600 XT"
+    ],
+    "gpu_pts": 125,
+    "gpu_ref": "GTX 1660 Super",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5-12400 / AMD Ryzen 5 5600",
+     "directx": "Versión 11",
+     "disco": "5 GB de espacio disponible",
+     "gpu": "NVIDIA GTX 1660 SUPER 6 GB / AMD RX 5600 XT 6 GB",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Internet connection required for online co-op. Lower graphics and animation settings are recommended for large armies.",
+     "ram": "16 GB de RAM",
+     "so": "Windows 11 64-bit"
+    }
+   }
+  },
+  "slug": "bannerborn"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   " Raptor Entertainment"
+  ],
+  "descripcion": "Bio Party is a chaotic 2–4 player party game packed with fast-paced minigames, ridiculous physics, and plenty of ways to sabotage your friends. Compete, cooperate, betray, and survive a series of unpredictable biological challenges.",
+  "descuento": 20,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Acción",
+   "Casual",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 5118920,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118920/39316c338a0c607c6df3a2b1d6e4da33a94fe3e1/header.jpg?t=1793997852",
+  "nombre": "Bio Party",
+  "precio": "COL$ 9.199",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 2.0,
+    "gpu_modelos": [
+     "GTX 1050",
+     "RX 560"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": null,
+    "texto": {
+     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+     "disco": "2 GB de espacio disponible",
+     "gpu": "NVIDIA GTX 1050 4 GB / AMD RX 560 4 GB",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 64-bit veya üzeri",
+     "sonido": "Any"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "bio-party"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "As Grup "
+  ],
+  "descripcion": "Blind no puede ver la ruta; sus compañeros deben describirla por voz. Comunícate como Blind y Guide, sobrevive a peligrosas pistas de obstáculos en 3D y llega a la meta antes que el equipo rival en los modos individual, cooperativo y online competitivo.",
+  "descuento": 25,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Indie",
+   "Multijugador masivo"
+  ],
+  "gratis": false,
+  "id": 5047920,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5047920/b097e2a7ec50761ecb462e092ba66ffd1590115f/header.jpg?t=1794012599",
+  "nombre": "Blind Route",
+  "precio": "COL$ 21.374",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 8.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-8400 or AMD Ryzen 5 2600",
+     "directx": "Versión 11",
+     "disco": "8 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1060 6 GB or AMD Radeon RX 580 8 GB",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Se requiere procesador y sistema operativo de 64 bits. Se requiere conexión a internet y micrófono para el modo multijugador en línea y el chat de voz.",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 64-bit (version 21H1 or newer)",
+     "sonido": "Compatible con DirectX"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "blind-route"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
    "Valve"
   ],
   "descripcion": "Esta versión de Counter-Strike trae una extensa campaña Tour of Duty, un número casi ilimitado de escaramuzas, actualizaciones y nuevos contenidos para la modalidad multijugador, que ya ha recibido varios premios. Además, disfrutarás de más de 12 misiones para un solo jugador de regalo.",
@@ -12279,6 +12917,41 @@
    }
   },
   "slug": "counter-strike-condition-zero"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Valve"
+  ],
+  "descripcion": "Esta versión de Counter-Strike trae una extensa campaña Tour of Duty, un número casi ilimitado de escaramuzas, actualizaciones y nuevos contenidos para la modalidad multijugador, que ya ha recibido varios premios. Además, disfrutarás de más de 12 misiones para un solo jugador de regalo.",
+  "descuento": 0,
+  "fecha": "1 MAR 2004",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 80,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/header.jpg?t=1745368574",
+  "nombre": "Counter-Strike: Condition Zero",
+  "precio": "COL$ 24.499",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "procesador de 500 MHz, 96 MB de RAM, tarjeta de vídeo de 16 MB, Windows XP, ratón, teclado y conexión a Internet procesador de 800 MHz, 128 MB de RAM, tarjeta de vídeo de 32 MB, Windows XP, ratón, teclado y conexión a Internet"
+    }
+   }
+  },
+  "slug": "counter-strike-condition-zero-100"
  },
  {
   "actualizado": "2026-11-07",
@@ -12326,5 +12999,1326 @@
    }
   },
   "slug": "grand-theft-auto-iv-complete-edition"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Rockstar North",
+   "Rockstar Toronto"
+  ],
+  "descripcion": "Este título independiente incluye tres historias distintas entrelazadas para crear una de las experiencias para un jugador más singulares y atractivas de esta generación. Esta colección definitiva de Grand Theft Auto te proporcionará cientos de horas de juego para un jugador; toda una colección de m",
+  "descuento": 0,
+  "fecha": "",
+  "generos": [
+   "Acción",
+   "Aventura"
+  ],
+  "gratis": false,
+  "id": 12210,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/901583/header.jpg?t=1728427348",
+  "nombre": "Grand Theft Auto IV: Complete Edition",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Athlon X2"
+    ],
+    "cpu_pts": 14,
+    "cpu_ref": "Athlon X2",
+    "disco_gb": 32.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 1.5,
+    "texto": {
+     "cpu": "Intel Core 2 Duo a 1.8 GHz, AMD Athlon X2 64 a 2.4GHz",
+     "directx": "DirectX 9.0c",
+     "disco": "32 GB de espacio libre",
+     "gpu": "nVidia 7900 con 256 MB / ATI X1900 con 256 MB",
+     "notas": "Sonido: Dispositivo 5.1 Otros requisitos: Necesitas una conexión a internet para la activación inicial; debes iniciar sesión en Games For Windows - Live y Rockstar Games Social Club (13+ para registrarte) para jugar online; necesarias instalaciones de software incluyendo Adobe Flash, DirectX, Microsoft .NET Framework 3.0, Games For Windows - LIVE e Internet Explorer.",
+     "ram": "1.5 GB de RAM para XP / 1.5 GB de RAM para Vista",
+     "so": "Windows Vista - Service Pack 1 / Windows XP - Service Pack 3"
+    }
+   }
+  },
+  "slug": "grand-theft-auto-iv-complete-edition-901583"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Buttermilk Studios "
+  ],
+  "descripcion": "Return to Victorian-Era Hong Kong as Fini, an ex-priest struggling with opium addiction. Your father made the family fortune in the opium trade. Now he’s dead. His letter mentions a jade ring that sends you back home, with a sharp-tongued cat named Xiao and some clearly unfinished family business.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Aventura",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 5409320,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5409320/1abec27b081a8b3a979a8a735a2d1fc392b5f805/header.jpg?t=1794004446",
+  "nombre": "Gweilo 1886",
+  "precio": "COL$ 60.999",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": null,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600 or equivalent",
+     "directx": "Versión 11",
+     "gpu": "NVIDIA GTX 1060 6 GB / AMD RX 580 8 GB or equivalent",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Provisional requirements; final specifications subject to build testing.",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 64-bit",
+     "sonido": "DirectX-compatible sound card"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i7-10700",
+     "Ryzen 7 3700X"
+    ],
+    "cpu_pts": 205,
+    "cpu_ref": "Ryzen 7 3700X",
+    "disco_gb": null,
+    "gpu_modelos": [
+     "RTX 2060",
+     "RX 6600"
+    ],
+    "gpu_pts": 150,
+    "gpu_ref": "RTX 2060",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i7-10700 / AMD Ryzen 7 3700X or equivalent",
+     "directx": "Versión 12",
+     "gpu": "NVIDIA RTX 2060 / AMD RX 6600 or equivalent",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD recommended.",
+     "ram": "16 GB de RAM",
+     "so": "Windows 11 64-bit",
+     "sonido": "DirectX-compatible sound card"
+    }
+   }
+  },
+  "slug": "gweilo-1886"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Gestmorph Games"
+  ],
+  "descripcion": "A horror anomaly finder where you are contracted to observe websites and report errors and changes. But there is more to your clients than meets the eye.",
+  "descuento": 10,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Aventura",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 3529660,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3529660/b53ab33ab76da3229cef06f8f3ab33ca8d2526d2/header.jpg?t=1793995230",
+  "nombre": "HOMEPAGE",
+  "precio": "COL$ 18.900",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 1.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 1.0,
+    "texto": {
+     "disco": "1 GB de espacio disponible",
+     "ram": "1 GB de RAM",
+     "so": "Windows 10 or later"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 2.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 2.0,
+    "texto": {
+     "disco": "2 GB de espacio disponible",
+     "ram": "2 GB de RAM",
+     "so": "Windows 10 or later"
+    }
+   }
+  },
+  "slug": "homepage"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Damply"
+  ],
+  "descripcion": "A social casino where the only thing at stake is bragging rights. Play 20+ games, from slots, Plinko and Crash to live poker and case battles with friends, using free play-money chips. Climb weekly leaderboards, finish quests and unlock cosmetics. No real-money gambling or payouts.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Estrategia",
+   "Free to Play"
+  ],
+  "gratis": true,
+  "id": 1825840,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1825840/0651543ac07cecf70d9a3ce1d66250420e3e8a60/header.jpg?t=1794002480",
+  "nombre": "House Zero",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 50.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "1 gigahertz (GHz) or faster processor or SoC",
+     "directx": "Versión 9.0",
+     "disco": "50 GB de espacio disponible",
+     "gpu": "DirectX 9 or later with WDDM 1.0 driver",
+     "ram": "2 GB de RAM",
+     "so": "Windows 10"
+    }
+   }
+  },
+  "slug": "house-zero"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Puduo Games"
+  ],
+  "descripcion": "La oscuridad se extiende por el bosque, corrompiendo todo a su paso. Y, de alguna manera, depende de ti, un pequeño gnomo corriente, cambiar el rumbo de los acontecimientos. Lucha contra todo pronóstico y hazte más fuerte mientras descubres los secretos que se esconden tras la corrupción.",
+  "descuento": 15,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 5338070,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5338070/e1a6ea12192055b632f5dd4d6362b0dfdc2efe20/header.jpg?t=1793998805",
+  "nombre": "It Takes One To Gnome It All",
+  "precio": "COL$ 11.049",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i3-10110U @ 2.10 GHz (or equivalent dual-core)",
+     "directx": "Versión 11",
+     "disco": "500 MB MB de espacio disponible",
+     "gpu": "Intel UHD Graphics (integrated), 1080p capable",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Tested at 1920x1080 on integrated graphics, no dedicated GPU required.",
+     "ram": "4096 MB de RAM",
+     "so": "Windows 10 64-bit or Windows 11"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "GTX 1050"
+    ],
+    "gpu_pts": 48,
+    "gpu_ref": "GTX 1050",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5 (6th gen or newer) or equivalent quad-core",
+     "directx": "Versión 11",
+     "disco": "500 MB MB de espacio disponible",
+     "gpu": "Any dedicated GPU, e.g. NVIDIA GTX 1050 or equivalent",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8192 MB de RAM",
+     "so": "Windows 10 64-bit or Windows 11"
+    }
+   }
+  },
+  "slug": "it-takes-one-to-gnome-it-all"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "KEEPLR"
+  ],
+  "descripcion": "Sort 3,100 pieces of jewelry scattered throughout an elegant shop. Open each box, read its number, and place every ring, watch, necklace and more in its exact marked spot. Unlock helpful skills at your own pace—or race the clock.",
+  "descuento": 10,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Aventura",
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 5217960,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5217960/75611979c13cdde401db120f9ed35f93d90deeec/header.jpg?t=1794010291",
+  "nombre": "Jewelry Keeper",
+  "precio": "COL$ 14.849",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-8400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "GTX 1050 Ti",
+     "RX 560"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+     "directx": "Versión 12",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "DirectX 12 capable GPU with 2 GB VRAM (GTX 1050 Ti / RX 560 or better)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Every texture is painted at load and every render pipeline is built on the frame the shop opens, so the first load of a new game takes about two minutes on the development machine and will take longer on a slower one.",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 64-bit",
+     "sonido": "Any DirectX-compatible"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-12400",
+     "Ryzen 5 5600"
+    ],
+    "cpu_pts": 230,
+    "cpu_ref": "Ryzen 5 5600",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "RTX 3060",
+     "RX 6600"
+    ],
+    "gpu_pts": 165,
+    "gpu_ref": "RX 6600",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5-12400 / AMD Ryzen 5 5600",
+     "directx": "Versión 12",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "GPU with 6 GB VRAM (RTX 3060 / RX 6600 or better)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Render scale, bloom, grain and contrast are adjustable in the settings page. A faster GPU shortens the cold start more than a faster CPU does.",
+     "ram": "16 GB de RAM",
+     "so": "Windows 11 64-bit",
+     "sonido": "Any DirectX-compatible"
+    }
+   }
+  },
+  "slug": "jewelry-keeper"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Hina"
+  ],
+  "descripcion": "LetterZ – El camino de las letras es un juego de automatización en el que extraes, transportas y ensamblas letras para formar palabras. Optimiza tus líneas de producción, desbloquea nuevas posibilidades y construye tu fábrica, una letra cada vez.",
+  "descuento": 15,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 5365100,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365100/d1d778cb3d283c84ea5f04815dd466e43e3b264f/header.jpg?t=1794004034",
+  "nombre": "LetterZ: The paths of letters",
+  "precio": "COL$ 7.224",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "i3",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Integrated graphics",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "i5",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Dedicated GPU",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10"
+    }
+   }
+  },
+  "slug": "letterz-the-paths-of-letters"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Qloud Games"
+  ],
+  "descripcion": "Descubre el acogedor mundo de Loftia, un videojuego cozy multijugador donde construir un futuro mejor y más sostenible. Conecta con colegas y entabla nuevas amistades para cultivar, fabricar, explorar, decorar y, sobre todo, dejar una huella imperecedera juntos.",
+  "descuento": 17,
+  "fecha": "3 NOV 2026",
+  "generos": [
+   "Aventura",
+   "Casual",
+   "Indie",
+   "Multijugador masivo"
+  ],
+  "gratis": false,
+  "id": 2320980,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg?t=1793732506",
+  "nombre": "Loftia",
+  "precio": "COL$ 58.099",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i3-10100",
+     "Ryzen 3 3100"
+    ],
+    "cpu_pts": 120,
+    "cpu_ref": "i3-10100",
+    "disco_gb": 10.0,
+    "gpu_modelos": [
+     "GTX 1050",
+     "RX 560"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i3-10100F / AMD Ryzen 3 3100 (o equivalente)",
+     "directx": "Versión 11",
+     "disco": "10 GB de espacio disponible",
+     "gpu": "Nvidia GeForce GTX 1050 / AMD Radeon RX 560 (o equivalente)",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 (64 bit)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-12600K",
+     "Ryzen 5 5600"
+    ],
+    "cpu_pts": 230,
+    "cpu_ref": "Ryzen 5 5600",
+    "disco_gb": 10.0,
+    "gpu_modelos": [
+     "GTX 1660",
+     "RX 5600 XT"
+    ],
+    "gpu_pts": 110,
+    "gpu_ref": "GTX 1660",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5-12600K / AMD Ryzen 5 5600 (o equivalente)",
+     "directx": "Versión 12",
+     "disco": "10 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1660 / AMD Radeon RX 5600 XT (o equivalente)",
+     "ram": "16 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 11 (64 bit)"
+    }
+   }
+  },
+  "slug": "loftia"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Code and DESIGN"
+  ],
+  "descripcion": "Forma un equipo de gatos pixelados y deja que combatan solos en 24 mazmorras. Luchan, consiguen botín y suben de nivel por su cuenta, y siguen de aventura incluso con el juego cerrado. Reúne 14 razas, busca equipo legendario y haz crecer tu posada gatuna.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 5452260,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5452260/3bd091c5ca389ca93d767b7b7c2b272ce35adfd6/header.jpg?t=1794000679",
+  "nombre": "Meow Dungeon: Idle Cat RPG",
+  "precio": "COL$ 7.699",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "64-bit (x64) processor",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "DirectX 11 compatible GPU",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 / 11 (64-bit)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "64-bit quad-core processor",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "DirectX 11 compatible GPU with 1 GB VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits A 1280x800 or larger display is recommended.",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 / 11 (64-bit)"
+    }
+   }
+  },
+  "slug": "meow-dungeon-idle-cat-rpg"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "David Allendorfer"
+  ],
+  "descripcion": "Dodge bullets in this new and exciting take on Minesweeper! Collect a variety of power-ups to even the playing field. Play with your friends in online and local multiplayer. You can even brag to you friends using the game's built-in score sharing features.",
+  "descuento": 20,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 5221200,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5221200/29099a9a2aba00d8b57d5ec5e6d44d47866a8589/header.jpg?t=1794009415",
+  "nombre": "Minefield Mayhem",
+  "precio": "COL$ 11.199",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.29,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel I5",
+     "disco": "300 MB de espacio disponible",
+     "gpu": "Integrated Graphics",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10"
+    }
+   }
+  },
+  "slug": "minefield-mayhem"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Autonomous Tree"
+  ],
+  "descripcion": "No Up es un juego de laberintos 3D en primera persona donde las paredes y los techos se convierten en caminos. Explora cada laberinto, activa sus interruptores y encuentra la salida.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Aventura",
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 4332130,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4332130/8183a6ddb3cd9af67bb42bdca9a0a388d2b5ecec/header.jpg?t=1794003981",
+  "nombre": "No Up",
+  "precio": "COL$ 17.499",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i3-8100",
+     "Ryzen 3 1200"
+    ],
+    "cpu_pts": 85,
+    "cpu_ref": "Ryzen 3 1200",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "GTX 970",
+     "RX 560"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 1.0,
+    "texto": {
+     "cpu": "Intel Core i3-8100 / AMD Ryzen 3 1200",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 970 / AMD Radeon RX 560 (2-4 GB VRAM)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits No aplicable Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "1 GB de RAM",
+     "so": "Windows 10 de 64 bits",
+     "sonido": "Tarjeta de sonido compatible con DirectX"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i3-8100",
+     "Ryzen 3 1200"
+    ],
+    "cpu_pts": 85,
+    "cpu_ref": "Ryzen 3 1200",
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "GTX 970",
+     "RX 560"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 1.0,
+    "texto": {
+     "cpu": "Intel Core i3-8100 / AMD Ryzen 3 1200",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 970 / AMD Radeon RX 560 (2-4 GB VRAM)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits N/A Optimized for performance settings at 1080p, 60 FPS. SSD recommended",
+     "ram": "1 GB de RAM",
+     "so": "Windows 10 64-bit",
+     "sonido": "DirectX-compatible sound card"
+    }
+   }
+  },
+  "slug": "no-up"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Xiro's Studio"
+  ],
+  "descripcion": "¡Ponte al mando de una cadena de televisión de los 90 en Retro TV Tycoon! Adquiere derechos de comedias y películas de culto, programa 24/7, firma lucrativos contratos publicitarios y amplía tu red de antenas para dominar el mundo.",
+  "descuento": 20,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 5114030,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114030/b0aae65447f9cb481a51cfcd156e5f75bcae0e38/header.jpg?t=1794004224",
+  "nombre": "Retro TV Tycoon",
+  "precio": "COL$ 25.199",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "Intel HD Graphics 4000"
+    ],
+    "gpu_pts": 6,
+    "gpu_ref": "Intel HD Graphics 4000",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "1.6 GHz Dual Core (Intel Core i3 / AMD equivalent)",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Intel HD Graphics 4000 / AMD Radeon Vega 3 or any DirectX 11 compatible GPU",
+     "notas": "SO *: Windows 10 (64-bit) or Windows 7 SP1+ (64-bit) N/A Minimum display resolution: 1280x720. Highly optimized for low-spec PCs and laptops.",
+     "ram": "2 GB de RAM",
+     "sonido": "DirectX compatible sound card or integrated audio"
+    }
+   }
+  },
+  "slug": "retro-tv-tycoon"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Electronic Arts"
+  ],
+  "descripcion": "Road Rash, la franquicia que definió el género de carreras de combate, regresa con la primera versión digital del juego. Esta edición del 30.º aniversario incluye una banda sonora con licencia renovada, cinemáticas de mayor resolución, jugabilidad de hasta 60 FPS y mucho más.",
+  "descuento": 50,
+  "fecha": "5 NOV 2026",
+  "generos": [
+   "Acción",
+   "Carreras"
+  ],
+  "gratis": false,
+  "id": 2448570,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448570/a12ed683c51938590f28400c89cd8c8204e1e8db/header.jpg?t=1793986604",
+  "nombre": "Road Rash™: Edición del 30.º aniversario",
+  "precio": "COL$ 19.999",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 4.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Any 1 GHz Intel or AMD processor (dual-core or better)",
+     "directx": "Versión 9.0c",
+     "disco": "4 GB de espacio disponible",
+     "gpu": "DirectX 9 compatible graphics with 128 MB VRAM",
+     "ram": "2 GB de RAM",
+     "so": "Windows 10 or Windows 11",
+     "sonido": "Any Windows-compatible sound device"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 4.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i3 / AMD Ryzen 3 (or any modern 2.0 GHz+ CPU)",
+     "directx": "Versión 9.0c",
+     "disco": "4 GB de espacio disponible",
+     "gpu": "Any dedicated or modern integrated GPU with DirectX 9+ support",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 or Windows 11",
+     "sonido": "Any Windows-compatible sound device"
+    }
+   }
+  },
+  "slug": "road-rashtm-edicion-del-30-o-aniversario"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "vsaik"
+  ],
+  "descripcion": "Tienen instinto de supervivencia. Tienen ansiedad. Sienten pavor ante tu cursor. Cázalos, explota su mentalidad de rebaño y arrójalos a la trituradora. Son matemáticas de importancia crítica en un mundo donde ya nada importa.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 4774510,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774510/c924c59fabe00b028d762d4195895ab912d0a2ee/header.jpg?t=1793994712",
+  "nombre": "Scared Numbers",
+  "precio": "COL$ 8.499",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 1.0,
+    "texto": {
+     "cpu": "Intel Core i3 2.00 GHz",
+     "directx": "Versión 9.0",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Intel® HD Graphics 3000",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7 or newer",
+     "ram": "1 GB de RAM"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "scared-numbers"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Hetki"
+  ],
+  "descripcion": "Un idle cósmico donde alimentas una diminuta chispa hasta convertirla en SUPERNOVA. Arrastra el combustible, deja que colonias y flotas lo traigan por ti, o haz ambas cosas. Apila 158 mejoras, embiste planetas errantes, fúndete con estrellas muertas y catapulta materia fuera de los agujeros negros.",
+  "descuento": 15,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 4248190,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4248190/240545c355e6aa1c7b322633cde26f6ad6445095/header.jpg?t=1793999872",
+  "nombre": "Sunborn",
+  "precio": "COL$ 14.874",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i3-6100",
+     "FX-6300"
+    ],
+    "cpu_pts": 60,
+    "cpu_ref": "FX-6300",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "GT 1030"
+    ],
+    "gpu_pts": 25,
+    "gpu_ref": "GT 1030",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i3-6100 / AMD FX-6300",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "AMD Radeon R7 250 / NVIDIA GeForce GT 1030",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "4 GB de RAM",
+     "so": "Windows 11"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-9400",
+     "Ryzen 5 2600"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "Ryzen 5 2600",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "RX 560",
+     "GTX 1050 Ti"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-9400 / AMD Ryzen 5 2600",
+     "directx": "Versión 11",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "AMD Radeon RX 560 / NVIDIA GeForce GTX 1050 Ti",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "so": "Windows 11"
+    }
+   }
+  },
+  "slug": "sunborn"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "VongoForge"
+  ],
+  "descripcion": "Time-loop defense shooter. Aim yourself or let your squad fire on auto as orcs, goblins, boar riders and mechs flood in. Spend the loot on a 38-node upgrade tree, unlock five units, beat the boss waves, then rewind time for permanent upgrades.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Estrategia",
+   "Free to Play"
+  ],
+  "gratis": true,
+  "id": 4877750,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877750/0f138046c9ce76696e6f76ba9ce116c36c45fdcb/header.jpg?t=1794002724",
+  "nombre": "Temporal Strike",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.2,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "cpu": "Core i3",
+     "disco": "200 MB de espacio disponible",
+     "gpu": "Integrated",
+     "so": "Windows 10"
+    }
+   }
+  },
+  "slug": "temporal-strike"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "STD Games"
+  ],
+  "descripcion": "A dead graphics card. An AI genie. Three wishes with a hidden cost. Find five differences in each of 17 illustrated scenes as Theo’s wish to escape work transforms the world around him. A relaxing puzzle game with a dark fantasy story. no timer, no penalty, just a closer look.",
+  "descuento": 10,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual"
+  ],
+  "gratis": false,
+  "id": 5398810,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5398810/fda962080c4705d88f7b24b4eab462556d3ffade/header.jpg?t=1793994555",
+  "nombre": "The Last Wish",
+  "precio": "COL$ 5.129",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 1.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "64-bit dual-core processor with SSE4.2 support",
+     "disco": "1024 MB de espacio disponible",
+     "gpu": "Integrated or dedicated graphics with OpenGL 3.3 support",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Requires a 64-bit processor and operating system. Mouse required.",
+     "ram": "4096 MB de RAM",
+     "so": "Windows 10 or Windows 11, 64-bit",
+     "sonido": "Any Windows-compatible audio device"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "the-last-wish"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Olivia Gonsher"
+  ],
+  "descripcion": "A PS2-style life sim about being a small, busy person in a mid-sized city. Get a job, buy a home, pet a dog, make some choices. Every one of them is being counted. You will die in about 90 minutes. Then you get the receipt, and the afterlife sorts you accordingly. A life, itemized.",
+  "descuento": 10,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 4995060,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4995060/df4a694614e410f199fbc1166dba11c2224764a4/header.jpg?t=1794006804",
+  "nombre": "The Tally",
+  "precio": "COL$ 5.984",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Dual-core 2.0 GHz",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Any GPU with OpenGL 3.3 support",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "4096 MB de RAM",
+     "so": "Windows 10 64-bit"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "GTX 1050"
+    ],
+    "gpu_pts": 48,
+    "gpu_ref": "GTX 1050",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Quad-core 3.0 GHz",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "Dedicated GPU with OpenGL 3.3 support (GTX 1050 or better)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8192 MB de RAM",
+     "so": "Windows 10 or 11, 64-bit"
+    }
+   }
+  },
+  "slug": "the-tally"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Cody Suthers"
+  ],
+  "descripcion": "Time is the most valuable resource. Use it wisely to play cards that give you resources that you need to build timepaths. Complete the timepath before you run out of time. Featuring an adventure mode, card editor, and infinite levels.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Casual",
+   "Indie",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 2278060,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2278060/f8dab0e35472bec9ac9c119ffe9a51e1574f7e6f/header.jpg?t=1793995373",
+  "nombre": "Timepaths",
+  "precio": "COL$ 26.000",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.59,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Intel Core i5-760",
+     "directx": "Versión 10",
+     "disco": "600 MB de espacio disponible",
+     "gpu": "GeForce GTX 550 Ti, HD 5830, Intel 630",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "2 GB de RAM",
+     "so": "Windows 10 (64 bit)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 0.68,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "disco": "700 MB de espacio disponible",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "timepaths"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Paul Kelly"
+  ],
+  "descripcion": "Play your flat PC games on a giant 3D screen in VR. VRX3D captures the game window, works out the depth of every frame live on your graphics card, and shows it in stereo on a big screen in a dark room lit by the picture. Keep your keyboard, mouse or controller.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Utilidades"
+  ],
+  "gratis": false,
+  "id": 5458290,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5458290/1cdab9f34172e6c0644c95c4873d1dd7150a4857/header.jpg?t=1793994063",
+  "nombre": "VRX3D",
+  "precio": "COL$ 5.149",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "RTX 2060",
+     "RX 6600"
+    ],
+    "gpu_pts": 150,
+    "gpu_ref": "RTX 2060",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "4-core 64-bit CPU",
+     "directx": "Versión 12",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "DirectX 12 GPU, NVIDIA RTX 2060 / AMD RX 6600 class",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits OpenXR (SteamVR as the OpenXR runtime). Headsets: any SteamVR headset; run on PlayStation VR2, Meta Quest 2 (Link), Pico 4 (Steam Link) and Oculus Rift. Controllers: none needed; you play with your keyboard and mouse or gamepad. Play area: seated or standing. Depth runs on your graphics card alongside your game. Running the game at 1080p usu",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 version 2004 (64-bit) or Windows 11"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 1.0,
+    "gpu_modelos": [
+     "RTX 3070",
+     "RX 6800"
+    ],
+    "gpu_pts": 255,
+    "gpu_ref": "RTX 3070",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "6-core 64-bit CPU or better",
+     "directx": "Versión 12",
+     "disco": "1 GB de espacio disponible",
+     "gpu": "NVIDIA RTX 3070 / AMD RX 6800 or better, or a second GPU for depth",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits OpenXR (SteamVR). Any SteamVR headset. No VR controllers needed. Seated or standing. Windows 11 24H2 lets VRX3D keep the depth of a still picture, so a still desktop does not twitch.",
+     "ram": "16 GB de RAM",
+     "so": "Windows 11 24H2 (64-bit)"
+    }
+   }
+  },
+  "slug": "vrx3d"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Stella Rose Soren Taylor"
+  ],
+  "descripcion": "Stem the tide of endless hordes of enemies in a new, retro styled, and fast paced arcade shooter game. Buy upgrades, and earn the highest score you can through mastery of movement, precision, and endurance.",
+  "descuento": 0,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Acción",
+   "Casual",
+   "Indie",
+   "Free to Play"
+  ],
+  "gratis": true,
+  "id": 4959560,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4959560/8436e8eb11414cd0ca8a5bd21055557b95aec79d/header.jpg?t=1794009346",
+  "nombre": "Wireframe",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "cpu": "Intel(R)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "wireframe"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "NAGI Studio"
+  ],
+  "descripcion": "This game is a quiz game that includes satire and jokes.",
+  "descuento": 15,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 4986470,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986470/69a32999868fa19611f10d7df86a2dfed6bc197a/header.jpg?t=1794002596",
+  "nombre": "クイズ！罵倒ネア！",
+  "precio": "COL$ 51.849",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 3.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "directx": "Versión 11",
+     "disco": "3 GB de espacio disponible",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Procesador: Gráficos: Tarjeta de sonido: Notas adicionales:",
+     "ram": "4 GB de RAM"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "juego-4986470"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "疯兔游戏（FUNTOO Studio）"
+  ],
+  "descripcion": "Eggy, an otaku, wakes up one day to find himself transformed into a cute girl?! Ballshit 2D reimagines the original live-action story as a 2D visual novel. Follow Eggy through campus life, friendships, awkward romance, and absurd surprises, with new 2D art, CGs, and the original voice acting.",
+  "descuento": 20,
+  "fecha": "6 NOV 2026",
+  "generos": [
+   "Aventura",
+   "Casual",
+   "Indie",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 5208460,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208460/357c3da0508952751f36c7b3398c466d77800b89/header.jpg?t=1794013166",
+  "nombre": "无基之谈2D",
+  "precio": "COL$ 4.559",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 3.0,
+    "gpu_modelos": [
+     "Intel HD Graphics 4000"
+    ],
+    "gpu_pts": 6,
+    "gpu_ref": "Intel HD Graphics 4000",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i3 or equivalent",
+     "directx": "Versión 11",
+     "disco": "3 GB de espacio disponible",
+     "gpu": "Intel HD Graphics 4000 or equivalent",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 64-bit",
+     "sonido": "DirectX compatible sound card"
+    }
+   }
+  },
+  "slug": "2d"
  }
 ]
