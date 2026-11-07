@@ -9227,5 +9227,3104 @@
    }
   },
   "slug": "the-forest"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "MY.GAMES"
+  ],
+  "descripcion": "Prepárate para la acción táctica mecha en War Robots: Frontiers, un shooter multijugador online con robots gratuito. Construye y personaliza, forma escuadrones con pilotos en línea y enciende los motores en enormes batallas intergalácticas.",
+  "descuento": 0,
+  "fecha": "4 MAR 2025",
+  "generos": [
+   "Acción",
+   "Simuladores",
+   "Free to Play"
+  ],
+  "gratis": true,
+  "id": 1491000,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1491000/652a3f62eab64537ac38d483c6fc3cf5d2036ff1/header.jpg?t=1776768151",
+  "nombre": "War Robots: Frontiers",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 151,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-3470"
+    ],
+    "cpu_pts": 88,
+    "cpu_ref": "i5-3470",
+    "disco_gb": 10.0,
+    "gpu_modelos": [
+     "GTX 660"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "GTX 660",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-3470 @ 3.20GHz",
+     "directx": "Versión 12",
+     "disco": "10 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 660 3GB VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 64-bit"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-9600K"
+    ],
+    "cpu_pts": 172,
+    "cpu_ref": "i5-9600K",
+    "disco_gb": 10.0,
+    "gpu_modelos": [
+     "RTX 2070"
+    ],
+    "gpu_pts": 180,
+    "gpu_ref": "RTX 2070",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5-9600K @ 3.70GHz",
+     "directx": "Versión 12",
+     "disco": "10 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce RTX 2070 8GB VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD is recommended",
+     "ram": "16 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 64-bit"
+    }
+   }
+  },
+  "slug": "war-robots-frontiers"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Grinding Gear Games"
+  ],
+  "descripcion": "Eres un exiliado. Tendrás que sobrevivir en el oscuro continente de Wraeclast mientras luchas para conseguir el poder que te permitirá vengarte de quienes te traicionaron. Path of Exile es un RPG de acción ambientado en un mundo de fantasía oscura. Es totalmente gratis y nunca será pay-to-win.",
+  "descuento": 0,
+  "fecha": "23 OCT 2013",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Indie",
+   "Multijugador masivo"
+  ],
+  "gratis": true,
+  "id": 238960,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238960/19a8acaddb5659ef3c1c91e5d6beb89abf10718d/header.jpg?t=1794003950",
+  "nombre": "Path of Exile",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 152,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 40.0,
+    "gpu_modelos": [
+     "GTX 650 Ti",
+     "HD 7850"
+    ],
+    "gpu_pts": 26,
+    "gpu_ref": "GTX 650 Ti",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Quad core 2.6GHz x86-compatible",
+     "directx": "Versión 11",
+     "disco": "40 GB de espacio disponible",
+     "gpu": "NVIDIA® GeForce® GTX 650 Ti o ATI Radeon™ HD 7850",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 40.0,
+    "gpu_modelos": [
+     "GTX 1050 Ti",
+     "RX 560"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Compatible con x64, quad core, 3.2GHz",
+     "directx": "Versión 11",
+     "disco": "40 GB de espacio disponible",
+     "gpu": "NVIDIA® GeForce® GTX 1050 Ti o ATI Radeon™ RX560",
+     "notas": "Se recomienda usar un disco de estado sólido",
+     "ram": "16 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10"
+    }
+   }
+  },
+  "slug": "path-of-exile"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "OVERKILL - a Starbreeze Studio.",
+   "Sidetrack Games"
+  ],
+  "descripcion": "PAYDAY 2 es un juego de acción cooperativo para cuatro jugadores que, una vez más, permite a los jugadores ponerse en la piel del equipo original de PAYDAY - Dallas, Hoxton, Wolf y Chains - mientras descienden por Washington DC en una épica ola de crímenes.",
+  "descuento": 0,
+  "fecha": "13 AGO 2013",
+  "generos": [
+   "Acción",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 218620,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218620/c44949287e8ffa2518f01b5033b8431dd0f984e4/header.jpg?t=1789555107",
+  "nombre": "PAYDAY 2",
+  "precio": "COL$ 23.700",
+  "proximamente": false,
+  "puesto": 153,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 32.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "2 GHz Intel Dual Core 64-bit Processor",
+     "directx": "Versión 11",
+     "disco": "32 GB de espacio disponible",
+     "gpu": "NVIDIA & AMD (1GB VRAM)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SteamVR. Standing or Room Scale. Requires installing the free VR DLC. Requires a CPU which supports the SSE4.1 instruction set",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 32.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "2.3 GHz Intel Quad Core 64-bit Processor",
+     "directx": "Versión 11",
+     "disco": "32 GB de espacio disponible",
+     "gpu": "NVIDIA & AMD (2GB VRAM)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SteamVR. Standing or Room Scale. Requires installing the free VR DLC.",
+     "ram": "8 GB de RAM",
+     "so": "Windows 11"
+    }
+   }
+  },
+  "slug": "payday-2"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "MY.GAMES"
+  ],
+  "descripcion": "Warface: Clutch es un moderno juego de disparos en primera persona MMO con millones de seguidores en todo el mundo. Ofrece intensos modos JcJ, emocionantes misiones JcE e incursiones a las que te puedes enfrentar con cinco clases distintas y un enorme arsenal personalizable.",
+  "descuento": 0,
+  "fecha": "1 JUL 2014",
+  "generos": [
+   "Acción",
+   "Multijugador masivo",
+   "Free to Play"
+  ],
+  "gratis": false,
+  "id": 291480,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291480/a5d53fd96d3f04a4d92e3c71a74e5061db8cc186/header.jpg?t=1772125417",
+  "nombre": "Warface: Clutch",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 154,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i3-530"
+    ],
+    "cpu_pts": 30,
+    "cpu_ref": "i3-530",
+    "disco_gb": 35.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Core i3-530 / AMD Athlon II X3 415e",
+     "directx": "Versión 11",
+     "disco": "35 GB de espacio disponible",
+     "gpu": "GeForce GTS 450 / Radeon HD 5750",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7, Windows 8, Windows 10",
+     "ram": "4 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX Compatible Sound Card with latest drivers"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-3470"
+    ],
+    "cpu_pts": 88,
+    "cpu_ref": "i5-3470",
+    "disco_gb": 35.0,
+    "gpu_modelos": [
+     "R9 380"
+    ],
+    "gpu_pts": 70,
+    "gpu_ref": "R9 380",
+    "ram_gb": 6.0,
+    "texto": {
+     "cpu": "Core i5 3470 / AMD Athlon 240GE",
+     "directx": "Versión 11",
+     "disco": "35 GB de espacio disponible",
+     "gpu": "GeForce 1050 Ti / Radeon R9 380",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "6 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10",
+     "sonido": "DirectX Compatible Sound Card with latest drivers"
+    }
+   }
+  },
+  "slug": "warface-clutch"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Eleventh Hour Games"
+  ],
+  "descripcion": "Uncover the Past, Reforge the Future. Ascend into one of 15 mastery classes and explore dangerous dungeons, hunt epic loot, craft legendary weapons, and wield the power of over a hundred transformative skill trees. Last Epoch is being developed by a team of passionate Action RPG enthusiasts.",
+  "descuento": 0,
+  "fecha": "21 FEB 2024",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Indie",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 899770,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/899770/1bfb3fac071392ff945632ddd8c2a6b28973f8b7/header_alt_assets_2_spanish.jpg?t=1792426633",
+  "nombre": "Last Epoch",
+  "precio": "COL$ 81.000",
+  "proximamente": false,
+  "puesto": 156,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "FX-4350"
+    ],
+    "cpu_pts": 48,
+    "cpu_ref": "FX-4350",
+    "disco_gb": 22.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5 2500 or AMD FX-4350",
+     "directx": "Versión 11",
+     "disco": "22 GB de espacio disponible",
+     "gpu": "nVidia GTX 1060 / AMD RX 580 with 6GB of VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD strongly recommended",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-6500",
+     "Ryzen 3 1200"
+    ],
+    "cpu_pts": 85,
+    "cpu_ref": "Ryzen 3 1200",
+    "disco_gb": 22.0,
+    "gpu_modelos": [
+     "RTX 3060",
+     "RX 6600 XT"
+    ],
+    "gpu_pts": 180,
+    "gpu_ref": "RTX 3060",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5 6500 or AMD Ryzen 3 1200",
+     "directx": "Versión 11",
+     "disco": "22 GB de espacio disponible",
+     "gpu": "nVidia RTX 3060 or AMD RX 6600-XT with 6GB+ GB of VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD strongly recommended",
+     "ram": "16 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10"
+    }
+   }
+  },
+  "slug": "last-epoch"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Valve"
+  ],
+  "descripcion": "Pensado en un principio como una sección del capítulo Autopista 17 de Half-Life 2, Lost Coast es un ejemplo de tecnología jugable que presenta la iluminación de alto rango dinámico en el motor Source.",
+  "descuento": 0,
+  "fecha": "27 OCT 2005",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 340,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/340/header.jpg?t=1745368547",
+  "nombre": "Half-Life 2: Lost Coast",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 157,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "procesador Pentium 4 a 2,4 GHz o AMD 2800+, 1 GB de RAM, tarjeta gráfica compatible con DirectX 9, Windows XP, ratón, teclado, conexión a Internet"
+    }
+   }
+  },
+  "slug": "half-life-2-lost-coast"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Avalanche Software"
+  ],
+  "descripcion": "Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.",
+  "descuento": 0,
+  "fecha": "10 FEB 2023",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 990080,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
+  "nombre": "Hogwarts Legacy",
+  "precio": "COL$ 189.999",
+  "proximamente": false,
+  "puesto": 158,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-6600",
+     "Ryzen 5 1400"
+    ],
+    "cpu_pts": 105,
+    "cpu_ref": "Ryzen 5 1400",
+    "disco_gb": 85.0,
+    "gpu_modelos": [
+     "GTX 960",
+     "RX 470"
+    ],
+    "gpu_pts": 58,
+    "gpu_ref": "GTX 960",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i5-6600 (3.3Ghz) or AMD Ryzen 5 1400 (3.2Ghz)",
+     "directx": "Versión 12",
+     "disco": "85 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 960 4GB or AMD Radeon RX 470 4GB",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD (Preferred), HDD (Supported), 720p/30 fps, Low Quality Settings",
+     "ram": "16 GB de RAM",
+     "so": "64-bit Windows 10"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i7-8700",
+     "Ryzen 5 3600"
+    ],
+    "cpu_pts": 180,
+    "cpu_ref": "i7-8700",
+    "disco_gb": 85.0,
+    "gpu_modelos": [
+     "RX 5700 XT",
+     "Arc A770"
+    ],
+    "gpu_pts": 178,
+    "gpu_ref": "RX 5700 XT",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i7-8700 (3.2Ghz) or AMD Ryzen 5 3600 (3.6 Ghz)",
+     "directx": "Versión 12",
+     "disco": "85 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce 1080 Ti or AMD Radeon RX 5700 XT or INTEL Arc A770",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SSD, 1080p/60 fps, High Quality Settings",
+     "ram": "16 GB de RAM",
+     "so": "64-bit Windows 10"
+    }
+   }
+  },
+  "slug": "hogwarts-legacy"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Innersloth"
+  ],
+  "descripcion": "Un juego de socialización local o en línea de trabajo en equipo y traición para 4 a 15 jugadores... ¡ambientado en el espacio!",
+  "descuento": 0,
+  "fecha": "16 NOV 2018",
+  "generos": [
+   "Casual"
+  ],
+  "gratis": false,
+  "id": 945360,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/d611f3f87743b5121532023b1d3ee2dd0e96e772/header.jpg?t=1793821899",
+  "nombre": "Among Us",
+  "precio": "COL$ 12.500",
+  "proximamente": false,
+  "puesto": 159,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 1.0,
+    "texto": {
+     "cpu": "INTEL i3-4330",
+     "gpu": "INTEL HD Graphics 4600",
+     "ram": "1 GB de RAM",
+     "so": "Windows 10 x32bit"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [
+     "GTX 650"
+    ],
+    "gpu_pts": 18,
+    "gpu_ref": "GTX 650",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "INTEL i3-4330",
+     "gpu": "Nvidia GTX 650",
+     "ram": "4 GB de RAM",
+     "so": "Windows 10 x64bit"
+    }
+   }
+  },
+  "slug": "among-us"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Mediatonic"
+  ],
+  "descripcion": "Fall Guys es un party royale gratis y multiplataforma donde los jugadores compiten en delirantes carreras de obstáculos formadas por rondas cada vez más emocionantes hasta que una sola persona se alza con la victoria.",
+  "descuento": 0,
+  "fecha": "3 AGO 2020",
+  "generos": [
+   "Acción",
+   "Casual",
+   "Indie",
+   "Multijugador masivo"
+  ],
+  "gratis": false,
+  "id": 1097150,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/header.jpg?t=1698763175",
+  "nombre": "Fall Guys",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 160,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 2.0,
+    "gpu_modelos": [
+     "GTX 660",
+     "HD 7950"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "GTX 660",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5 or AMD equivalent",
+     "disco": "2 GB de espacio disponible",
+     "gpu": "NVIDIA GTX 660 or AMD Radeon HD 7950",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Gamepad Recommended",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 64bit only"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "fall-guys"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Gearbox Software",
+   "Aspyr (Mac)"
+  ],
+  "descripcion": "The Ultimate Vault Hunter’s Upgrade lets you get the most out of the Borderlands 2 experience.",
+  "descuento": 90,
+  "fecha": "20 SEP 2012",
+  "generos": [
+   "Acción",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 49520,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/49520/header.jpg?t=1793288352",
+  "nombre": "Borderlands 2",
+  "precio": "COL$ 4.000",
+  "proximamente": false,
+  "puesto": 161,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 13.0,
+    "gpu_modelos": [
+     "HD 2600"
+    ],
+    "gpu_pts": 3,
+    "gpu_ref": "HD 2600",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Dual Core a 2.4 GHz",
+     "disco": "13 GB de espacio libre",
+     "gpu": "nVidia GeForce 8500 / ATI Radeon HD 2600",
+     "notas": "Memoria Gráfica: 256 MB de VRAM Sonido: Compatible con DirectX 9.0c Otros requisitos: La instalación inicial necesita una conexión a internet para la autenticación con Steam; son necesarias algunas instalaciones de software (incluidas con el juego) como el cliente de Steam, DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistrib",
+     "ram": "2 GB de RAM (XP y Vista)",
+     "so": "Windows XP SP3"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 20.0,
+    "gpu_modelos": [
+     "GTX 560"
+    ],
+    "gpu_pts": 25,
+    "gpu_ref": "GTX 560",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Quad Core a 2.3 GHz",
+     "disco": "20 GB de espacio libre",
+     "gpu": "nVidia GeForce GTX 560 / ATI Radeon HD 5850",
+     "notas": "Memoria Gráfica: 512 MB de VRAM Sonido: Compatible con DirectX 9.0c Otros requisitos: La instalación inicial necesita una conexión a internet para la autenticación con Steam; son necesarias algunas instalaciones de software (incluidas con el juego) como el cliente de Steam, DirectX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistrib",
+     "ram": "2 GB de RAM",
+     "so": "Windows XP SP3 / Vista / Win 7"
+    }
+   }
+  },
+  "slug": "borderlands-2"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Evil Mojo Games"
+  ],
+  "descripcion": "Acompaña a más de 25 millones de jugadores en Paladins, el shooter de fantasía gratis basado en equipos. Ejerce tus armas y desata poderes mágicos como un Campeón legendario del Reino. ¡Personaliza tus habilidades para jugar exactamente como prefieras!",
+  "descuento": 0,
+  "fecha": "8 MAY 2018",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Multijugador masivo",
+   "Estrategia"
+  ],
+  "gratis": true,
+  "id": 444090,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444090/header.jpg?t=1713560419",
+  "nombre": "Paladins®",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 162,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Athlon X2"
+    ],
+    "cpu_pts": 14,
+    "cpu_ref": "Athlon X2",
+    "disco_gb": 30.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz",
+     "disco": "30 GB de espacio disponible",
+     "gpu": "Nvidia GeForce 8800 GT",
+     "notas": "SO *: Windows 7 64-bit or newer",
+     "ram": "4 GB de RAM",
+     "sonido": "DirectX compatible sound card"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-750",
+     "Phenom II X4 965"
+    ],
+    "cpu_pts": 50,
+    "cpu_ref": "Phenom II X4 965",
+    "disco_gb": 30.0,
+    "gpu_modelos": [
+     "GTX 660",
+     "HD 7950"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "GTX 660",
+    "ram_gb": 6.0,
+    "texto": {
+     "cpu": "Intel Core i5-750, 2.67 GHz / AMD Phenom II X4 965, 3.4 GHz",
+     "disco": "30 GB de espacio disponible",
+     "gpu": "Nvidia GeForce GTX 660 or ATI Radeon HD 7950",
+     "notas": "SO *: Windows 8/10 64-bit (latest Service Pack)",
+     "ram": "6 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX compatible sound card"
+    }
+   }
+  },
+  "slug": "paladins"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Valve"
+  ],
+  "descripcion": "Acción multijugador extrema en el universo Half-Life 2. La simulación física de HL2 abre una nueva dimensión en el juego a muerte. Juega a muerte o prueba el juego en equipo de la Alianza contra la Resistencia. ¡No dejes títere con cabeza!",
+  "descuento": 0,
+  "fecha": "1 NOV 2004",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 320,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320/header.jpg?t=1749481506",
+  "nombre": "Half-Life 2: Deathmatch",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 163,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "procesador de 1,2 GHz, 256 MB de RAM, tarjeta de vídeo compatible con DirectX 7, Windows XP, ratón, teclado y conexión a Internet procesador de 2,4 GHz, 512 MB de RAM, tarjeta de vídeo compatible con DirectX 9, Windows XP, ratón, teclado y conexión a Internet"
+    }
+   }
+  },
+  "slug": "half-life-2-deathmatch"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Valve"
+  ],
+  "descripcion": "Nombrado juego del año por más de 50 publicaciones, la ópera prima de Valve mezcla acción y aventuras con una tecnología galardonada con varios premios, en un mundo terriblemente realista en el que los jugadores deberán esforzarse por sobrevivir.",
+  "descuento": 0,
+  "fecha": "19 NOV 1998",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 70,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70/header.jpg?t=1745368462",
+  "nombre": "Half-Life",
+  "precio": "COL$ 24.499",
+  "proximamente": false,
+  "puesto": 164,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "procesador de 500 MHz, 96 MB de RAM, tarjeta de vídeo de 16 MB, Windows XP, ratón, teclado y conexión a Internet procesador de 800 MHz, 128 MB de RAM, tarjeta de vídeo de 32 MB, Windows XP, ratón, teclado y conexión a Internet"
+    }
+   }
+  },
+  "slug": "half-life"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "CAPCOM Co., Ltd."
+  ],
+  "descripcion": "¡Bienvenidos a un nuevo mundo! En Monster Hunter: World, la última entrega de la serie, podrás disfrutar de la mejor experiencia de juego, usando todos los recursos a tu alcance para acechar monstruos en un nuevo mundo rebosante de emociones y sorpresas.",
+  "descuento": 0,
+  "fecha": "8 AGO 2018",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 582010,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1791439347",
+  "nombre": "Monster Hunter: World",
+  "precio": "COL$ 96.600",
+  "proximamente": false,
+  "puesto": 165,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-4460",
+     "i3-9100",
+     "FX-6300",
+     "Ryzen 3 3200G"
+    ],
+    "cpu_pts": 60,
+    "cpu_ref": "FX-6300",
+    "disco_gb": 52.0,
+    "gpu_modelos": [
+     "GTX 760",
+     "GTX 1050",
+     "R7 260X",
+     "RX 560"
+    ],
+    "gpu_pts": 30,
+    "gpu_ref": "R7 260X",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-4460 / Intel Core i3-9100F / AMD FX-6300 / AMD Ryzen 3 3200G",
+     "directx": "Versión 11",
+     "disco": "52 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 760 / NVIDIA GeForce GTX 1050 / AMD Radeon R7 260x / AMD Radeon RX 560",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Con estos requisitos podrás jugar a 1080p/30fps, eligiendo la configuración gráfica \"baja\". Se necesita un procesador y sistema operativo de 64 bits.",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 (64-bit)",
+     "sonido": "DirectSound"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i7-3770",
+     "Ryzen 5 1500X"
+    ],
+    "cpu_pts": 100,
+    "cpu_ref": "i7-3770",
+    "disco_gb": 52.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "GTX 1650",
+     "RX 480",
+     "RX 570"
+    ],
+    "gpu_pts": 68,
+    "gpu_ref": "GTX 1650",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i7-3770 / Intel Core i3-8350 / Intel Core i3-9350F / AMD Ryzen 5 1500X / AMD Ryzen 5 3400G",
+     "directx": "Versión 12",
+     "disco": "52 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1060 (VRAM 3GB) / NVIDIA GeForce GTX 1650 / AMD Radeon RX 480 / AMD Radeon RX 570",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits - Estas especificaciones permiten jugar al juego en 1080p/30 fps con la configuración gráfica en Alto. - Se requiere un procesador y un sistema operativo de 64 bits. - Se requiere Windows 10 (versión 1809 o posterior) y una GPU con 4 GB de VRAM (tarjeta gráfica o tarjeta de vídeo) para la API DirectX 12. * Si utilizas Windows 11, asegúrate d",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 (64-bit) / Windows 11",
+     "sonido": "DirectSound"
+    }
+   }
+  },
+  "slug": "monster-hunter-world"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "TLM Partners"
+  ],
+  "descripcion": "Dispara, haz saltar al enemigo por los aires, vuela o grita órdenes: disfruta al máximo del shooter multijugador a gran escala definitivo gratuito. ¡Únete a miles de jugadores que se enfrentan en múltiples batallas mientras libran una gran guerra entre naciones! El primero que se apodere de 15 ciuda",
+  "descuento": 0,
+  "fecha": "18 OCT 2016",
+  "generos": [
+   "Acción",
+   "Free to Play",
+   "Indie",
+   "Multijugador masivo"
+  ],
+  "gratis": false,
+  "id": 227940,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227940/header.jpg?t=1685049235",
+  "nombre": "Heroes & Generals",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 166,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 3.0,
+    "gpu_modelos": [
+     "9600 GT"
+    ],
+    "gpu_pts": 6,
+    "gpu_ref": "9600 GT",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "2GHz CPU w. dual-core",
+     "directx": "Versión 11",
+     "disco": "3 GB de espacio disponible",
+     "gpu": "ATI HD 4810 / Nvidia 9600GT or higher",
+     "notas": "SO *: Windows 7 and up",
+     "ram": "4 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX compatible"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 3.0,
+    "gpu_modelos": [
+     "GTX 560",
+     "HD 6870"
+    ],
+    "gpu_pts": 22,
+    "gpu_ref": "HD 6870",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel i5 / AMD Ryzen 5 or higher",
+     "directx": "Versión 11",
+     "disco": "3 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 560 / AMD HD 6870 or higher",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 x64",
+     "sonido": "DirectX compatible"
+    }
+   }
+  },
+  "slug": "heroes-generals"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Zeekerss"
+  ],
+  "descripcion": "A co-op horror about scavenging at abandoned moons to sell scrap to the Company.",
+  "descuento": 0,
+  "fecha": "23 OCT 2023",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Indie",
+   "Acceso anticipado"
+  ],
+  "gratis": false,
+  "id": 1966720,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+  "nombre": "Lethal Company",
+  "precio": "COL$ 26.000",
+  "proximamente": false,
+  "puesto": 167,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-7400"
+    ],
+    "cpu_pts": 115,
+    "cpu_ref": "i5-7400",
+    "disco_gb": 4.0,
+    "gpu_modelos": [
+     "GTX 1050"
+    ],
+    "gpu_pts": 48,
+    "gpu_ref": "GTX 1050",
+    "ram_gb": null,
+    "texto": {
+     "cpu": "Intel Core i5-7400 CPU @ 3.00GHz ; Shader Model 5",
+     "directx": "Versión 11",
+     "disco": "4 GB de espacio disponible",
+     "gpu": "NVIDIA GForce GTX 1050",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits"
+    }
+   }
+  },
+  "slug": "lethal-company"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "DICE"
+  ],
+  "descripcion": "Battlefield™ 2042 es un shooter en primera persona que marca el regreso a la emblemática guerra total de la franquicia.",
+  "descuento": 0,
+  "fecha": "19 NOV 2021",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Casual"
+  ],
+  "gratis": false,
+  "id": 1517290,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg?t=1777324359",
+  "nombre": "Battlefield™ 2042",
+  "precio": "COL$ 234.999",
+  "proximamente": false,
+  "puesto": 168,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Ryzen 5 1600",
+     "i5-6600K"
+    ],
+    "cpu_pts": 120,
+    "cpu_ref": "i5-6600K",
+    "disco_gb": 100.0,
+    "gpu_modelos": [
+     "RX 560",
+     "GTX 1050 Ti"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "RX 560",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "AMD Ryzen 5 1600, Core i5 6600K",
+     "directx": "Versión 12",
+     "disco": "100 GB de espacio disponible",
+     "gpu": "AMD Radeon RX 560,Nvidia GeForce GTX 1050 Ti",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "64-bit Windows 10",
+     "sonido": "No recommendation"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Ryzen 7 2700X",
+     "i7-4790"
+    ],
+    "cpu_pts": 125,
+    "cpu_ref": "i7-4790",
+    "disco_gb": 100.0,
+    "gpu_modelos": [
+     "RX 6600 XT",
+     "RTX 3060"
+    ],
+    "gpu_pts": 180,
+    "gpu_ref": "RTX 3060",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "AMD Ryzen 7 2700X, Intel Core i7 4790",
+     "directx": "Versión 12",
+     "disco": "100 GB de espacio disponible",
+     "gpu": "AMD Radeon RX 6600 XT, Nvidia GeForce RTX 3060",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "16 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "64-bit Windows 10",
+     "sonido": "No recommendation"
+    }
+   }
+  },
+  "slug": "battlefieldtm-2042"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "343 Industries"
+  ],
+  "descripcion": "Halo, una de las sagas más icónicas de los videojuegos, es ahora más grande que nunca e incluye una amplia campaña de mundo abierto y una dinámica experiencia multijugador gratuita.",
+  "descuento": 0,
+  "fecha": "15 NOV 2021",
+  "generos": [
+   "Acción",
+   "Free to Play"
+  ],
+  "gratis": true,
+  "id": 1240440,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/2262ffb4f1659df1c1cbf2c70af40560b4fa12e4/header.jpg?t=1774464322",
+  "nombre": "Halo Infinite",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 169,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Ryzen 5 1600",
+     "i5-4440"
+    ],
+    "cpu_pts": 95,
+    "cpu_ref": "i5-4440",
+    "disco_gb": 50.0,
+    "gpu_modelos": [
+     "RX 570",
+     "GTX 1050 Ti"
+    ],
+    "gpu_pts": 58,
+    "gpu_ref": "GTX 1050 Ti",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "AMD Ryzen 5 1600 or Intel i5-4440",
+     "directx": "Versión 12",
+     "disco": "50 GB de espacio disponible",
+     "gpu": "AMD RX 570 or Nvidia GTX 1050 Ti",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 RS5 x64"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Ryzen 7 3700X",
+     "i7-9700K"
+    ],
+    "cpu_pts": 200,
+    "cpu_ref": "i7-9700K",
+    "disco_gb": 50.0,
+    "gpu_modelos": [
+     "RX 5700 XT",
+     "RTX 2070"
+    ],
+    "gpu_pts": 178,
+    "gpu_ref": "RX 5700 XT",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "AMD Ryzen 7 3700X or Intel i7-9700k",
+     "directx": "Versión 12",
+     "disco": "50 GB de espacio disponible",
+     "gpu": "Radeon RX 5700 XT or Nvidia RTX 2070",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10 19H2 x64"
+    }
+   }
+  },
+  "slug": "halo-infinite"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Redbeet Interactive"
+  ],
+  "descripcion": "Raft™ throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
+  "descuento": 0,
+  "fecha": "20 JUN 2022",
+  "generos": [
+   "Aventura",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 648800,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+  "nombre": "Raft",
+  "precio": "COL$ 48.999",
+  "proximamente": false,
+  "puesto": 170,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 10.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 6.0,
+    "texto": {
+     "cpu": "Intel Core i5 2.6GHz or similar",
+     "directx": "Versión 11",
+     "disco": "10 GB de espacio disponible",
+     "gpu": "GeForce GTX 700 series or similar",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7 or later 64-bit operating system is required",
+     "ram": "6 GB de RAM",
+     "red": "Conexión de banda ancha a Internet"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-6600"
+    ],
+    "cpu_pts": 118,
+    "cpu_ref": "i5-6600",
+    "disco_gb": 10.0,
+    "gpu_modelos": [
+     "GTX 1050"
+    ],
+    "gpu_pts": 48,
+    "gpu_ref": "GTX 1050",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-6600 3.3GHz or similar",
+     "directx": "Versión 11",
+     "disco": "10 GB de espacio disponible",
+     "gpu": "GeForce GTX 1050 series or similar",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7 or later 64-bit operating system is required",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet"
+    }
+   }
+  },
+  "slug": "raft"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Titan Forge Games"
+  ],
+  "descripcion": "¡Únete a más de 40 millones de jugadores en SMITE, el campo de batalla de los dioses! Empuña el martillo de Thor, convierte a tus enemigos en piedra con Medusa o demuestra tu poder divino con uno de los más de 100 íconos mitológicos. ¡Conviértete en un dios y juega ya GRATIS!",
+  "descuento": 0,
+  "fecha": "8 SEP 2015",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Casual",
+   "Indie"
+  ],
+  "gratis": true,
+  "id": 386360,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386360/header.jpg?t=1764627618",
+  "nombre": "SMITE®",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 171,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Athlon X2"
+    ],
+    "cpu_pts": 14,
+    "cpu_ref": "Athlon X2",
+    "disco_gb": 30.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz",
+     "disco": "30 GB de espacio disponible",
+     "gpu": "Nvidia GeForce 8800 GT",
+     "notas": "SO *: Windows 7 64-bit or newer",
+     "ram": "4 GB de RAM",
+     "sonido": "DirectX compatible sound card"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 30.0,
+    "gpu_modelos": [
+     "GTX 660",
+     "HD 7950"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "GTX 660",
+    "ram_gb": 6.0,
+    "texto": {
+     "cpu": "Intel Core i5 or AMD Phenom II X3, 2.8 GHz",
+     "disco": "30 GB de espacio disponible",
+     "gpu": "Nvidia GeForce GTX 660 or ATI Radeon HD 7950",
+     "notas": "SO *: Windows 8/10 64-bit (latest Service Pack)",
+     "ram": "6 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX compatible sound card"
+    }
+   }
+  },
+  "slug": "smite"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Wargaming Group Limited"
+  ],
+  "descripcion": "Líate a cañonazos en este título de disparos de carros 7 contra 7 en línea gratuito. Controla cientos de carros, desde clásicos de museo hasta modelos especiales, en batallas caóticas de 5 a 7 minutos. ¡Juega en solitario o con alguien más y disfruta de la acción incluso en dispositivos modestos!",
+  "descuento": 0,
+  "fecha": "9 NOV 2016",
+  "generos": [
+   "Acción",
+   "Multijugador masivo",
+   "Simuladores",
+   "Estrategia"
+  ],
+  "gratis": true,
+  "id": 444200,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/444200/bd64dd64069d31a55e803ca181f4e1b6df7c9ae5/header.jpg?t=1792910839",
+  "nombre": "World of Tanks Blitz",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 172,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 8.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "2 GHz",
+     "disco": "8 GB de espacio disponible",
+     "gpu": "DirectX 11 compliant graphics card with 256 MB of VRAM",
+     "notas": "SO *: Windows 7, 8.0, 8.1, 10, 11",
+     "ram": "2 GB de RAM"
+    }
+   }
+  },
+  "slug": "world-of-tanks-blitz"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Valve"
+  ],
+  "descripcion": "Disfruta del juego de acción en línea n° 1 en el mundo. Sumérgete en el fragor de la guerra antiterrorista más realista con este archiconocido juego por equipos. Alíate con compañeros para superar misiones estratégicas, asalta bases enemigas, rescata rehenes, y recuerda que tu personaje contribuye a",
+  "descuento": 0,
+  "fecha": "1 NOV 2000",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 10,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/header.jpg?t=1745368572",
+  "nombre": "Counter-Strike",
+  "precio": "COL$ 24.499",
+  "proximamente": false,
+  "puesto": 173,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "procesador de 500 MHz, 96 MB de RAM, tarjeta de vídeo de 16 MB, Windows XP, ratón, teclado y conexión a Internet procesador de 800 MHz, 128 MB de RAM, tarjeta de vídeo de 32 MB, Windows XP, ratón, teclado y conexión a Internet"
+    }
+   }
+  },
+  "slug": "counter-strike"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Valve"
+  ],
+  "descripcion": "¡Actualizado para incluir estadísticas de los jugadores, logros, nuevos marcadores y mucho más!",
+  "descuento": 0,
+  "fecha": "1 NOV 2004",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 240,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240/header.jpg?t=1745368575",
+  "nombre": "Counter-Strike: Source",
+  "precio": "COL$ 24.499",
+  "proximamente": false,
+  "puesto": 174,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Procesador a 1.7 GHz, 512 MB de RAM, gráfica compatible con DirectX® 8.1 (requiere compatibilidad con SSE), Windows® 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet Recomendado: Procesador Pentium 4 (3 GHz o más), 1 GB de RAM, gráfica compatible con DirectX® 9, Windows® 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet"
+    }
+   }
+  },
+  "slug": "counter-strike-source"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "TVGS"
+  ],
+  "descripcion": "From small-time dope pusher to kingpin - manufacture and distribute a range of drugs throughout the grungy city of Hyland Point. Expand your empire with properties, businesses, employees and more.",
+  "descuento": 0,
+  "fecha": "24 MAR 2025",
+  "generos": [
+   "Acción",
+   "Indie",
+   "Simuladores",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 3164500,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164500/header.jpg?t=1785744977",
+  "nombre": "Schedule I",
+  "precio": "COL$ 47.500",
+  "proximamente": false,
+  "puesto": 175,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 8.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "3GHz 4-Core or similar",
+     "directx": "Versión 11",
+     "disco": "8 GB de espacio disponible",
+     "gpu": "GeForce GTX 1060 6GB or Radeon RX 580",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 (64-bit)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 10.0,
+    "gpu_modelos": [
+     "RTX 3060",
+     "RX 6700"
+    ],
+    "gpu_pts": 180,
+    "gpu_ref": "RTX 3060",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "3.5GHz 6-Core or similar",
+     "directx": "Versión 11",
+     "disco": "10 GB de espacio disponible",
+     "gpu": "GeForce RTX 3060 or Radeon RX 6700",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10 (64-bit)"
+    }
+   }
+  },
+  "slug": "schedule-i"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Aurora Studio"
+  ],
+  "descripcion": "Escape an astonishing disaster in Ring of Elysium, a battle royale shooter developed by Aurora Studio.",
+  "descuento": 0,
+  "fecha": "24 JUN 2019",
+  "generos": [
+   "Acción",
+   "Free to Play",
+   "Multijugador masivo"
+  ],
+  "gratis": false,
+  "id": 755790,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/755790/header.jpg?t=1693573300",
+  "nombre": "Ring of Elysium",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 176,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 10.0,
+    "gpu_modelos": [
+     "GT 730"
+    ],
+    "gpu_pts": 10,
+    "gpu_ref": "GT 730",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel i3 8130U(2Cores, 2.3GHz) or equivalent",
+     "disco": "10 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GT 730 or equivalent",
+     "notas": "SO *: Windows 7, Windows 8.1, Windows 10(64-bit version)",
+     "ram": "4 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX-compatible using the latest drivers"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 10.0,
+    "gpu_modelos": [
+     "GTX 1050"
+    ],
+    "gpu_pts": 48,
+    "gpu_ref": "GTX 1050",
+    "ram_gb": 6.0,
+    "texto": {
+     "cpu": "Intel i5 2500(4 Core, 3.3HGz) or equivalent",
+     "disco": "10 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1050 or equivalent",
+     "notas": "SO *: Windows 7, Windows 8.1, Windows 10 (64-bit version)",
+     "ram": "6 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX-compatible using the latest drivers"
+    }
+   }
+  },
+  "slug": "ring-of-elysium"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Valve"
+  ],
+  "descripcion": "Portal™ es la nueva aventura para un solo jugador de Valve. Ambientado en los misteriosos laboratorios de Aperture Science, Portal ha sido calificado como uno de los juegos más innovadores de los últimos tiempos y ofrece incontables horas de rompecabezas nunca vistos.",
+  "descuento": 0,
+  "fecha": "10 OCT 2007",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 400,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
+  "nombre": "Portal",
+  "precio": "COL$ 24.499",
+  "proximamente": false,
+  "puesto": 177,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "Procesador a 1.7 GHz, 512 MB de RAM, gráfica compatible con DirectX® 8.1 (requiere compatibilidad con SSE), Windows® 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet Recomendado: Procesador Pentium 4 (3 GHz o más), 1 GB de RAM, gráfica compatible con DirectX® 9, Windows® 7 (32 y 64 bits) / Vista / XP, ratón, teclado, conexión a Internet"
+    }
+   }
+  },
+  "slug": "portal"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "VALOFE",
+   "NS STUDIO"
+  ],
+  "descripcion": "Black Squad es un shooter en primera persona militar, free-to-play. Los jugadores pueden dominar sus destrezas y alardear de sus estrategias con una amplia gama de mapas, modos, y armas entre las cuales elegir. ¡Únete a miles de jugadores en el mundo en uno de los juegos FPS más jugados de Steam!",
+  "descuento": 0,
+  "fecha": "26 JUN 2019",
+  "generos": [
+   "Acción",
+   "Free to Play"
+  ],
+  "gratis": true,
+  "id": 550650,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550650/header.jpg?t=1756315059",
+  "nombre": "Black Squad",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 178,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Athlon 64"
+    ],
+    "cpu_pts": 8,
+    "cpu_ref": "Athlon 64",
+    "disco_gb": 8.0,
+    "gpu_modelos": [
+     "GeForce 8600"
+    ],
+    "gpu_pts": 4,
+    "gpu_ref": "GeForce 8600",
+    "ram_gb": 6.0,
+    "texto": {
+     "cpu": "CORE2 DUO 2.2GHZ / AMD Athlon 64 X2 2.66GHz",
+     "directx": "Versión 9.0",
+     "disco": "8 GB de espacio disponible",
+     "gpu": "NVIDIA GEFORCE 8600 OR GT630 / RADEON HD 6750",
+     "ram": "6 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 64bit"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i3-4170"
+    ],
+    "cpu_pts": 57,
+    "cpu_ref": "i3-4170",
+    "disco_gb": 8.0,
+    "gpu_modelos": [
+     "GTX 760",
+     "HD 7950"
+    ],
+    "gpu_pts": 50,
+    "gpu_ref": "GTX 760",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "CORE i3-4170 / AMD FX-8300",
+     "directx": "Versión 9.0",
+     "disco": "8 GB de espacio disponible",
+     "gpu": "NVIDIA GTX 760 or AMD Radeon HD 7950",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 64bit"
+    }
+   }
+  },
+  "slug": "black-squad"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Techland"
+  ],
+  "descripcion": "Juego de supervivencia ambientado en un mundo abierto postapocalíptico cubierto de zombis hambrientos. Explora una ciudad arrasada por una misteriosa epidemia vírica. Busca suministros, fabrica armas y enfréntate a hordas de muertos.",
+  "descuento": 90,
+  "fecha": "26 ENE 2015",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 239140,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/9d1b810b85ae46a0acbdfddf583ccbb81271183e/header.jpg?t=1793627304",
+  "nombre": "Dying Light",
+  "precio": "COL$ 7.000",
+  "proximamente": false,
+  "puesto": 179,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "FX-8320"
+    ],
+    "cpu_pts": 70,
+    "cpu_ref": "FX-8320",
+    "disco_gb": 40.0,
+    "gpu_modelos": [
+     "GTX 560",
+     "HD 6870"
+    ],
+    "gpu_pts": 22,
+    "gpu_ref": "HD 6870",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel® Core™ i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHz",
+     "directx": "Version 11",
+     "disco": "40 GB free space",
+     "gpu": "NVIDIA® GeForce® GTX 560 / AMD Radeon™ HD 6870 (1GB VRAM)",
+     "notas": "OS *: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit Sound: DirectX® compatible Laptop versions of graphics cards may work but are NOT officially supported. Windows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)",
+     "ram": "4 GB RAM DDR3"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-4670K",
+     "FX-8350"
+    ],
+    "cpu_pts": 75,
+    "cpu_ref": "FX-8350",
+    "disco_gb": 40.0,
+    "gpu_modelos": [
+     "GTX 780",
+     "R9 290"
+    ],
+    "gpu_pts": 72,
+    "gpu_ref": "GTX 780",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel® Core™ i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHz",
+     "directx": "Version 11",
+     "disco": "40 GB free space",
+     "gpu": "NVIDIA® GeForce® GTX 780 / AMD Radeon™ R9 290 (2GB VRAM)",
+     "notas": "OS *: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit Sound: DirectX® compatible Laptop versions of graphics cards may work but are NOT officially supported. Windows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)",
+     "ram": "8 GB RAM DDR3"
+    }
+   }
+  },
+  "slug": "dying-light"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "No Brakes Games"
+  ],
+  "descripcion": "Human Fall Flat es un divertido juego de plataformas ambientado en paisajes flotantes y oníricos para hasta 8 jugadores en línea. Ahora con niveles gratuitos para recompensar a una comunidad muy entregada.",
+  "descuento": 70,
+  "fecha": "22 JUL 2016",
+  "generos": [
+   "Aventura",
+   "Casual",
+   "Indie",
+   "Simuladores"
+  ],
+  "gratis": false,
+  "id": 477160,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/477160/88811a7da4b121507071af476dcab30aadf8f2b8/header_alt_assets_27_spanish.jpg?t=1793018738",
+  "nombre": "Human Fall Flat",
+  "precio": "COL$ 11.400",
+  "proximamente": false,
+  "puesto": 180,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Athlon 64"
+    ],
+    "cpu_pts": 8,
+    "cpu_ref": "Athlon 64",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "HD 5770"
+    ],
+    "gpu_pts": 15,
+    "gpu_ref": "HD 5770",
+    "ram_gb": 1.0,
+    "texto": {
+     "cpu": "Intel Core2 Duo E6750 (2 * 2660) or equivalent | AMD Athlon 64 X2 Dual Core 6000+ (2 * 3000) or equivalent",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "GeForce GT 740 (2048 MB) or equivalent | Radeon HD 5770 (1024 MB)",
+     "notas": "SO *: Windows XP/Vista/7/8/8.1/10 x86 and x64",
+     "ram": "1024 MB de RAM"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 0.49,
+    "gpu_modelos": [
+     "GTX 460",
+     "HD 7770"
+    ],
+    "gpu_pts": 18,
+    "gpu_ref": "GTX 460",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Intel Core2 Quad Q9300 (4 * 2500) or equivalent | AMD A10-5800K APU (4*3800) or equivalent",
+     "disco": "500 MB de espacio disponible",
+     "gpu": "GeForce GTX 460 (1024 MB) or equivalent | Radeon HD 7770 (1024 MB)",
+     "notas": "SO *: Windows XP/Vista/7/8/8.1/10 x86 and x64",
+     "ram": "2048 MB de RAM"
+    }
+   }
+  },
+  "slug": "human-fall-flat"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Crazy Rocks Studios"
+  ],
+  "descripcion": "¡Prepárate para una verdadera pelea! Street Warriors Online es el primer combate PvP tan realista, en el que pueden participar hasta 16 jugadores simultáneamente. El juego se caracteriza por un sistema de combate original y dinámico, el control de personaje TPP, así como unas luchas rápidas dividida",
+  "descuento": 59,
+  "fecha": "16 DIC 2016",
+  "generos": [
+   "Acción",
+   "Multijugador masivo",
+   "Simuladores",
+   "Deportes"
+  ],
+  "gratis": false,
+  "id": 417910,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417910/header.jpg?t=1600256776",
+  "nombre": "Street Warriors Online",
+  "precio": "COL$ 1.845",
+  "proximamente": false,
+  "puesto": 182,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Core 2 Duo"
+    ],
+    "cpu_pts": 20,
+    "cpu_ref": "Core 2 Duo",
+    "disco_gb": 4.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Intel core 2 duo 2.4GHz",
+     "directx": "Versión 11",
+     "disco": "4 GB de espacio disponible",
+     "gpu": "NVIDIA® GeForce® GTX 470 @ 1GB / ATI® Radeon™ HD 6970 @ 1GB",
+     "notas": "SO *: Windows® 7 32/64-bit / Vista 32/64 / XP",
+     "ram": "2 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX Compatible"
+    }
+   }
+  },
+  "slug": "street-warriors-online"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Daybreak Game Company"
+  ],
+  "descripcion": "Z1 Battle Royale is a Free to Play, fast-paced, action arcade, competitive Battle Royale. Staying true to its &quot;King of the Kill&quot; roots, the game has been revamped and restored to the classic feel, look, and gameplay everyone fell in love with. Play solo, duos, or fives and be the last ones",
+  "descuento": 0,
+  "fecha": "28 FEB 2018",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Free to Play",
+   "Multijugador masivo"
+  ],
+  "gratis": true,
+  "id": 433850,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/433850/header.jpg?t=1579626820",
+  "nombre": "Z1 Battle Royale",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 183,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 20.0,
+    "gpu_modelos": [
+     "GTX 460"
+    ],
+    "gpu_pts": 18,
+    "gpu_ref": "GTX 460",
+    "ram_gb": 6.0,
+    "texto": {
+     "cpu": "Intel i5 Quad-Core",
+     "directx": "Versión 10",
+     "disco": "20 GB de espacio disponible",
+     "gpu": "nVidia GeForce GTX 460 series or higher",
+     "notas": "SO *: Windows 7, 8, 8.1, 10 (64 bit only)",
+     "ram": "6 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX Compatible Sound Card"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-6600K",
+     "Ryzen 5 1600"
+    ],
+    "cpu_pts": 120,
+    "cpu_ref": "i5-6600K",
+    "disco_gb": 20.0,
+    "gpu_modelos": [
+     "GTX 960",
+     "R7 370"
+    ],
+    "gpu_pts": 42,
+    "gpu_ref": "R7 370",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-6600K / AMD Ryzen 5 1600",
+     "directx": "Versión 10",
+     "disco": "20 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB or higher",
+     "notas": "SO *: Windows 7, 8, 8.1, 10 (64 bit only)",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX compatible Sound Card"
+    }
+   }
+  },
+  "slug": "z1-battle-royale"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "FromSoftware, Inc."
+  ],
+  "descripcion": "Juego del año - The Game Awards 2019 Mejor juego de acción de 2019 - IGN Traza tu propio camino hacia la venganza en la galardonada aventura de FromSoftware, creadores de Bloodborne y la saga Dark Souls. Véngate. Restituye tu honor. Mata con ingenio.",
+  "descuento": 0,
+  "fecha": "21 MAR 2019",
+  "generos": [
+   "Acción",
+   "Aventura"
+  ],
+  "gratis": false,
+  "id": 814380,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+  "nombre": "Sekiro™: Shadows Die Twice - GOTY Edition",
+  "precio": "COL$ 249.100",
+  "proximamente": false,
+  "puesto": 184,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i3-2100",
+     "FX-6300"
+    ],
+    "cpu_pts": 45,
+    "cpu_ref": "i3-2100",
+    "disco_gb": 25.0,
+    "gpu_modelos": [
+     "GTX 760",
+     "HD 7950"
+    ],
+    "gpu_pts": 50,
+    "gpu_ref": "GTX 760",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i3-2100 | AMD FX-6300",
+     "directx": "Versión 11",
+     "disco": "25 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 760 | AMD Radeon HD 7950",
+     "notas": "SO *: Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit",
+     "ram": "4 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX 11 Compatible"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-2500K",
+     "Ryzen 5 1400"
+    ],
+    "cpu_pts": 82,
+    "cpu_ref": "i5-2500K",
+    "disco_gb": 25.0,
+    "gpu_modelos": [
+     "GTX 970",
+     "RX 570"
+    ],
+    "gpu_pts": 82,
+    "gpu_ref": "GTX 970",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-2500K | AMD Ryzen 5 1400",
+     "directx": "Versión 11",
+     "disco": "25 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 970 | AMD Radeon RX 570",
+     "notas": "SO *: Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "sonido": "DirectX 11 Compatible"
+    }
+   }
+  },
+  "slug": "sekirotm-shadows-die-twice-goty-edition"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Megame LLC"
+  ],
+  "descripcion": "Brutal fast-paced top-down Co-op Loot Shooter in Cyberpunk world.",
+  "descuento": 0,
+  "fecha": "22 ABR 2025",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Indie",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 1116170,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116170/header.jpg?t=1778054828",
+  "nombre": "CyberCorp",
+  "precio": "COL$ 37.500",
+  "proximamente": false,
+  "puesto": 185,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 6.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Celeron / AMD Phenom",
+     "disco": "6 GB de espacio disponible",
+     "gpu": "Intel HD 4000 / Radeon R3",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7 (64-bit)",
+     "ram": "4 GB de RAM"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Core i3"
+    ],
+    "cpu_pts": 50,
+    "cpu_ref": "Core i3",
+    "disco_gb": 10.0,
+    "gpu_modelos": [
+     "GT 1030",
+     "RX 550"
+    ],
+    "gpu_pts": 25,
+    "gpu_ref": "GT 1030",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i3 / AMD Ryzen 3",
+     "disco": "10 GB de espacio disponible",
+     "gpu": "GeForce GT 1030 / AMD RX 550",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "so": "Windows 11 (64-bit)"
+    }
+   }
+  },
+  "slug": "cybercorp"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Valve"
+  ],
+  "descripcion": "Tras ser reanimado de la estasis en la metrópoli ocupada de Ciudad 17, Gordon Freeman se une a Alyx Vance para liderar un desesperado movimiento de resistencia humano. Disfruta del emblemático juego de disparos en primera persona repleto de niveles sin precedentes de un mundo inmersivo, elementos fí",
+  "descuento": 0,
+  "fecha": "16 NOV 2004",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 220,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/header.jpg?t=1745368545",
+  "nombre": "Half-Life 2",
+  "precio": "COL$ 24.499",
+  "proximamente": false,
+  "puesto": 186,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 6.35,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 0.5,
+    "texto": {
+     "cpu": "1,7 GHz",
+     "disco": "6500 MB de espacio disponible",
+     "gpu": "Tarjeta gráfica compatible con DirectX 8.1 y SSE",
+     "notas": "SO *: Windows 7, Vista, XP",
+     "ram": "512 MB de RAM"
+    }
+   }
+  },
+  "slug": "half-life-2"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Bohemia Interactive"
+  ],
+  "descripcion": "Disfruta de un sistema de combate realista en un enorme mundo abierto militar. Multitud de escenarios para uno o varios jugadores, un gran arsenal de armas y vehículos modernos y oportunidades sin límites para crear contenido. Auténtico, diverso, abierto... Con Arma 3 vas a vivir la guerra.",
+  "descuento": 0,
+  "fecha": "12 SEP 2013",
+  "generos": [
+   "Acción",
+   "Simuladores",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 107410,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/107410/header.jpg?t=1786458620",
+  "nombre": "Arma 3",
+  "precio": "COL$ 89.900",
+  "proximamente": false,
+  "puesto": 187,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 50.0,
+    "gpu_modelos": [
+     "GTX 660",
+     "HD 7850",
+     "Intel HD Graphics 4000"
+    ],
+    "gpu_pts": 40,
+    "gpu_ref": "HD 7850",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core quad-core o AMD Athlon quad-core",
+     "directx": "10",
+     "disco": "50 GB de espacio libre",
+     "gpu": "NVIDIA GeForce GTX 660 / AMD Radeon HD 7850 / Intel HD Graphics 4000 con 1 GB de VRAM",
+     "notas": "Sonido: compatible con DirectX®",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 (64-bit)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i7-7700",
+     "Ryzen 3 3300X"
+    ],
+    "cpu_pts": 145,
+    "cpu_ref": "i7-7700",
+    "disco_gb": 80.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel Core i7-7700K o AMD Ryzen 3 3300X o superior",
+     "directx": "11",
+     "disco": "80 GB de espacio libre (almacenamiento SSD)",
+     "gpu": "NVIDIA GeForce GTX 1060 / AMD Radeon RX 580 con 6 GB de VRAM",
+     "notas": "Sonido: compatible con DirectX®",
+     "ram": "16 GB de RAM",
+     "so": "Windows 10 / 11 (64-bit)"
+    }
+   }
+  },
+  "slug": "arma-3"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Crate Entertainment"
+  ],
+  "descripcion": "Enter an apocalyptic fantasy world where humanity is on the brink of extinction, iron is valued above gold and trust is hard earned. This ARPG features complex character development, hundreds of unique items, crafting and quests with choice &amp; consequence.",
+  "descuento": 0,
+  "fecha": "25 FEB 2016",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Indie",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 219990,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219990/header.jpg?t=1791567021",
+  "nombre": "Grim Dawn",
+  "precio": "COL$ 60.999",
+  "proximamente": false,
+  "puesto": 188,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 5.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "x86 compatible 2.3GHz or faster processor (Intel 2nd generation core i-series or equivalent)",
+     "directx": "Versión 9.0c",
+     "disco": "5 GB de espacio disponible",
+     "gpu": "512MB NVIDIA GeForce 6800 series or ATI Radeon X800 series or better",
+     "notas": "SO *: Windows XP / Windows Vista / Windows 7 / Windows 8 / Windows 10 4GB of memory is required to host multiplayer games",
+     "ram": "2 GB de RAM",
+     "sonido": "DirectX 9.0c compatible 16-bit sound card"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 5.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 6.0,
+    "texto": {
+     "cpu": "x86 compatible 3.2GHz or faster processor (Intel 4th generation core i-series or better)",
+     "directx": "Versión 11",
+     "disco": "5 GB de espacio disponible",
+     "gpu": "1.5GB NVIDIA GeForce 500 series or ATI Radeon 6000 series or better",
+     "notas": "SO *: Windows 7 / Windows 10",
+     "ram": "6 GB de RAM",
+     "red": "Conexión de banda ancha a Internet"
+    }
+   }
+  },
+  "slug": "grim-dawn"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Colossal Order"
+  ],
+  "descripcion": "Introduce nuevos elementos a la mecánica de juego para plasmar la emoción y las complicaciones de mantener una ciudad de verdad, ampliando al mismo tiempo algunos de los temas ya conocidos de la experiencia del desarrollo urbanístico.",
+  "descuento": 0,
+  "fecha": "10 MAR 2015",
+  "generos": [
+   "Simuladores",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 255710,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255710/header.jpg?t=1791468493",
+  "nombre": "Cities: Skylines",
+  "precio": "COL$ 94.600",
+  "proximamente": false,
+  "puesto": 189,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": 4.0,
+    "gpu_modelos": [
+     "Intel Iris Xe"
+    ],
+    "gpu_pts": 25,
+    "gpu_ref": "Intel Iris Xe",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel® Core™ I7 930 | AMD® FX 6350",
+     "directx": "Versión 9.0c",
+     "disco": "4 GB de espacio disponible",
+     "gpu": "Nvidia® GeForce™ GTS 450 (1 GB) | AMD® R7 250 (2 GB) | Intel Iris Xe G7 (Tiger Lake)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows® 10 Home 64 Bit"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Ryzen 7 2700X"
+    ],
+    "cpu_pts": 165,
+    "cpu_ref": "Ryzen 7 2700X",
+    "disco_gb": 4.0,
+    "gpu_modelos": [
+     "GTX 580",
+     "RX 560"
+    ],
+    "gpu_pts": 36,
+    "gpu_ref": "GTX 580",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel® Core™ I7 2700K | AMD® Ryzen 7 2700X",
+     "directx": "Versión 11",
+     "disco": "4 GB de espacio disponible",
+     "gpu": "Nvidia® GeForce™ GTX 580 (1.5 GB) | AMD® Radeon™ RX 560 (4 GB)",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "16 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows® 10 Home 64 bit"
+    }
+   }
+  },
+  "slug": "cities-skylines"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Firaxis Games",
+   "Aspyr (Mac)"
+  ],
+  "descripcion": "¡Crea, descubre y descarga nuevos mapas, escenarios, interfaces y mucho más, todo ello creado por otros jugadores!",
+  "descuento": 75,
+  "fecha": "23 SEP 2010",
+  "generos": [
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 8930,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/8930/header.jpg?t=1724341158",
+  "nombre": "Sid Meier's Civilization® V",
+  "precio": "COL$ 15.000",
+  "proximamente": false,
+  "puesto": 190,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Athlon X2"
+    ],
+    "cpu_pts": 14,
+    "cpu_ref": "Athlon X2",
+    "disco_gb": 8.0,
+    "gpu_modelos": [
+     "HD 2600"
+    ],
+    "gpu_pts": 3,
+    "gpu_ref": "HD 2600",
+    "ram_gb": 2.0,
+    "texto": {
+     "cpu": "Intel Core 2 Duo a 1.8 GHz o AMD Athlon X2 64 a 2.0 GHz",
+     "directx": "DirectX® versión 9.0c",
+     "disco": "8 GB de espacio libre",
+     "gpu": "ATI HD2600 XT con 256 MB o superior, nVidia 7900 GS con 256 MB o superior, Core i3 o gráfica integrada superior",
+     "notas": "Sonido: Compatible con DirectX 9.0c",
+     "ram": "2 GB de RAM",
+     "so": "Windows® XP SP3 / Windows® Vista SP2 / Windows® 7"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 8.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Quad Core a 1.8 GHz",
+     "directx": "DirectX® versión 11",
+     "disco": "8 GB de espacio libre",
+     "gpu": "Familia ATI 4800 con 512 MB o superior, familia nVidia 9800 con 512 MB o superior",
+     "notas": "Sonido: Compatible con DirectX 9.0c",
+     "ram": "4 GB de RAM",
+     "so": "Windows® Vista SP2 / Windows® 7"
+    }
+   }
+  },
+  "slug": "sid-meier-s-civilization-v"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "gamigo US Inc."
+  ],
+  "descripcion": "¡Reúne a tus amigos, afila tu espada y prepárate para vivir aventuras únicas en Trove, el MMO de acción definitivo!",
+  "descuento": 0,
+  "fecha": "9 JUL 2015",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Casual",
+   "Multijugador masivo"
+  ],
+  "gratis": true,
+  "id": 304050,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304050/8aef81520b394d978a55c7d43c0445237a4cd1a3/header.jpg?t=1788509356",
+  "nombre": "Trove",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 191,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Core i5"
+    ],
+    "cpu_pts": 80,
+    "cpu_ref": "Core i5",
+    "disco_gb": 2.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i5-2XXX @ 2.0GHz / AMD Phenom II X4 @ 2.6GHz",
+     "directx": "Versión 10",
+     "disco": "2 GB de espacio disponible",
+     "gpu": "Intel HD Graphics 3000 o mejo",
+     "notas": "controlador de gráficos: OpenGL 3.2 o",
+     "ram": "4 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Vista 32-bit Service Pack 2"
+    }
+   }
+  },
+  "slug": "trove"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Bethesda Game Studios"
+  ],
+  "descripcion": "De Bethesda Game Studios, los galardonados creadores de Starfield y The Elder Scrolls V: Skyrim, llega Fallout 4. Un hito en el diseño del rol de mundo abierto y ganador de más de 200 premios al “Mejor de...”, incluidos los DICE y BAFTA al Juego del año.",
+  "descuento": 0,
+  "fecha": "9 NOV 2015",
+  "generos": [
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 377160,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1786648137",
+  "nombre": "Fallout 4",
+  "precio": "COL$ 60.000",
+  "proximamente": false,
+  "puesto": 192,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-2300"
+    ],
+    "cpu_pts": 70,
+    "cpu_ref": "i5-2300",
+    "disco_gb": 30.0,
+    "gpu_modelos": [
+     "HD 7870"
+    ],
+    "gpu_pts": 48,
+    "gpu_ref": "HD 7870",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalent",
+     "disco": "30 GB de espacio disponible",
+     "gpu": "NVIDIA GTX 550 Ti 2GB/AMD Radeon HD 7870 2GB or equivalent",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7/8/10 (64-bit OS required)",
+     "ram": "8 GB de RAM"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i7-4790"
+    ],
+    "cpu_pts": 125,
+    "cpu_ref": "i7-4790",
+    "disco_gb": 30.0,
+    "gpu_modelos": [
+     "GTX 780",
+     "R9 290X"
+    ],
+    "gpu_pts": 72,
+    "gpu_ref": "GTX 780",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i7 4790 3.6 GHz/AMD FX-9590 4.7 GHz or equivalent",
+     "disco": "30 GB de espacio disponible",
+     "gpu": "NVIDIA GTX 780 3GB/AMD Radeon R9 290X 4GB or equivalent",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7/8/10 (64-bit OS required)",
+     "ram": "8 GB de RAM"
+    }
+   }
+  },
+  "slug": "fallout-4"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "DONTNOD Entertainment",
+   "Feral Interactive (Mac)"
+  ],
+  "descripcion": "Tras un trágico incidente, los hermanos Sean y Daniel Diaz deciden huir de la policía y poner rumbo a México. Y, por si fuera poco, también tienen que lidiar con la telequinesis de Daniel. Cada parada en su viaje brindará amistades y retos nuevos.",
+  "descuento": 0,
+  "fecha": "26 SEP 2018",
+  "generos": [
+   "Aventura"
+  ],
+  "gratis": true,
+  "id": 532210,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/532210/header.jpg?t=1771868183",
+  "nombre": "Life is Strange 2",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 193,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i3-2100"
+    ],
+    "cpu_pts": 45,
+    "cpu_ref": "i3-2100",
+    "disco_gb": 40.0,
+    "gpu_modelos": [
+     "GTX 650",
+     "HD 7770"
+    ],
+    "gpu_pts": 18,
+    "gpu_ref": "GTX 650",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i3-2100 (3.1GHz) or AMD Phenom X4 945 (3.0GHz)",
+     "directx": "Versión 11",
+     "disco": "40 GB de espacio disponible",
+     "gpu": "Nvidia GeForce GTX 650 2GB or AMD Radeon HD 7770 2GB",
+     "notas": "SO *: Windows 7 or above (64-bit Operating System Required) Please note that 32-bit operating systems will not be supported",
+     "ram": "4 GB de RAM"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-3470",
+     "FX-8350"
+    ],
+    "cpu_pts": 75,
+    "cpu_ref": "FX-8350",
+    "disco_gb": 40.0,
+    "gpu_modelos": [
+     "GTX 970",
+     "R9 280X"
+    ],
+    "gpu_pts": 65,
+    "gpu_ref": "R9 280X",
+    "ram_gb": 6.0,
+    "texto": {
+     "cpu": "Intel Core i5 3470, (3.20 Ghz) or AMD FX-8350, (4.00 Ghz)",
+     "directx": "Versión 11",
+     "disco": "40 GB de espacio disponible",
+     "gpu": "Nvidia GeForce GTX 970 4GB or AMD Radeon R9 280X 3GB",
+     "notas": "Please note that 32-bit operating systems will not be supported",
+     "ram": "6 GB de RAM",
+     "so": "Windows 10 64-bit"
+    }
+   }
+  },
+  "slug": "life-is-strange-2"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Owlcat Games"
+  ],
+  "descripcion": "Empieza tu aventura en el primer RPG clásico de ordenador ambientado en el despiadado 41.º milenio. Hazte Comerciante Independiente, heredero de una dinastía de audaces corsarios que gobiernan un imperio comercial y exploran los confines del Imperium.",
+  "descuento": 0,
+  "fecha": "7 DIC 2023",
+  "generos": [
+   "Acción",
+   "Aventura",
+   "Indie",
+   "Rol"
+  ],
+  "gratis": false,
+  "id": 2186680,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186680/c7b0bd6f233f6c03fa68eee2fd1108a183329230/header.jpg?t=1790775933",
+  "nombre": "Warhammer 40,000: Rogue Trader",
+  "precio": "COL$ 107.000",
+  "proximamente": false,
+  "puesto": 194,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-4590"
+    ],
+    "cpu_pts": 105,
+    "cpu_ref": "i5-4590",
+    "disco_gb": 40.0,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz",
+     "directx": "Versión 11",
+     "disco": "40 GB de espacio disponible",
+     "gpu": "AMD Radeon RX Vega 6 / Intel HD Graphics 630",
+     "ram": "8 GB de RAM",
+     "so": "Win10"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-6400"
+    ],
+    "cpu_pts": 105,
+    "cpu_ref": "i5-6400",
+    "disco_gb": 40.0,
+    "gpu_modelos": [
+     "RX 570",
+     "GTX 1050 Ti"
+    ],
+    "gpu_pts": 58,
+    "gpu_ref": "GTX 1050 Ti",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz",
+     "directx": "Versión 11",
+     "disco": "40 GB de espacio disponible",
+     "gpu": "AMD Radeon RX 570 / NVIDIA GeForce GTX 1050 Ti",
+     "ram": "16 GB de RAM",
+     "so": "Win10"
+    }
+   }
+  },
+  "slug": "warhammer-40-000-rogue-trader"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "DICE"
+  ],
+  "descripcion": "Esta es la mejor experiencia de Battlefield V. Vive el mayor conflicto de la humanidad con un completo arsenal de armas, vehículos y dispositivos, y todos los contenidos de personalización de los dos primeros años.",
+  "descuento": 0,
+  "fecha": "22 OCT 2020",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 1238810,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/header.jpg?t=1772707365",
+  "nombre": "Battlefield™ V",
+  "precio": "COL$ 199.999",
+  "proximamente": false,
+  "puesto": 195,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "FX-8350",
+     "i5-6600K"
+    ],
+    "cpu_pts": 75,
+    "cpu_ref": "FX-8350",
+    "disco_gb": 50.0,
+    "gpu_modelos": [
+     "GTX 1050",
+     "GTX 660",
+     "RX 560",
+     "HD 7850"
+    ],
+    "gpu_pts": 40,
+    "gpu_ref": "HD 7850",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "AMD FX-8350/ Core i5 6600K",
+     "directx": "Versión 11",
+     "disco": "50 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce® GTX 1050 / NVIDIA GeForce® GTX 660 2GB or AMD Radeon™ RX 560 / HD 7850 2GB",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "so": "64-bit Windows 10"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Ryzen 3 1300X",
+     "i7-4790"
+    ],
+    "cpu_pts": 95,
+    "cpu_ref": "Ryzen 3 1300X",
+    "disco_gb": 50.0,
+    "gpu_modelos": [
+     "GTX 1060",
+     "RX 580"
+    ],
+    "gpu_pts": 100,
+    "gpu_ref": "GTX 1060",
+    "ram_gb": 12.0,
+    "texto": {
+     "cpu": "AMD Ryzen 3 1300X/Intel Core i7 4790",
+     "directx": "Versión 11",
+     "disco": "50 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce® GTX 1060 6GB/AMD Radeon™ RX 580 8GB",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "12 GB de RAM",
+     "so": "64-bit Windows 10 or later"
+    }
+   }
+  },
+  "slug": "battlefieldtm-v"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Coffee Stain Studios"
+  ],
+  "descripcion": "Satisfactory es un juego de creación de fábricas de mundo abierto en primera persona con toques de exploración y combate. ¡Juega solo o con tus amigos, explora un planeta alienígena, construye fábricas de varias plantas y descubre un auténtico paraíso de cintas transportadoras!",
+  "descuento": 0,
+  "fecha": "10 SEP 2024",
+  "generos": [
+   "Aventura",
+   "Indie",
+   "Simuladores",
+   "Estrategia"
+  ],
+  "gratis": false,
+  "id": 526870,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1791192059",
+  "nombre": "Satisfactory",
+  "precio": "COL$ 86.000",
+  "proximamente": false,
+  "puesto": 196,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "CPU de 4 núcleos"
+    ],
+    "cpu_pts": 40,
+    "cpu_ref": "CPU de 4 núcleos",
+    "disco_gb": 20.0,
+    "gpu_modelos": [
+     "GTX 1650",
+     "GTX 1050 Ti",
+     "RX 470",
+     "RX 570"
+    ],
+    "gpu_pts": 58,
+    "gpu_ref": "GTX 1050 Ti",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "i5-3570 3.4 GHz 4 Core",
+     "disco": "20 GB de espacio disponible",
+     "gpu": "Nvidia GTX 1650/GTX 1050-ti, or AMD RX 470/RX 570, or equivalent performance & VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Internet connection required for multiplayer.",
+     "ram": "8 GB de RAM",
+     "so": "Windows 10 or later (64-Bit)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "Ryzen 5 5600X",
+     "i5-12400"
+    ],
+    "cpu_pts": 235,
+    "cpu_ref": "Ryzen 5 5600X",
+    "disco_gb": 20.0,
+    "gpu_modelos": [
+     "RTX 2070",
+     "RX 5700"
+    ],
+    "gpu_pts": 160,
+    "gpu_ref": "RX 5700",
+    "ram_gb": 16.0,
+    "texto": {
+     "cpu": "Ryzen 5 5600X﻿ or ﻿i5-12400 ﻿or equivalent performance, 6 physical cores minimum",
+     "disco": "20 GB de espacio disponible",
+     "gpu": "Nvidia RTX 2070﻿ or RX 5700, or equivalent performance & VRAM",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits Internet connection required for multiplayer.",
+     "ram": "16 GB de RAM",
+     "so": "Windows 11 or later (64-Bit)"
+    }
+   }
+  },
+  "slug": "satisfactory"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Visual Concepts"
+  ],
+  "descripcion": "AVISO: Todos los servidores multijugador de NBA 2K20 se cerrarán a partir del 31/12/2021. Desde entonces, todas las funciones que requieran el uso de los servidores en línea no funcionarán.",
+  "descuento": 0,
+  "fecha": "6 SEP 2019",
+  "generos": [
+   "Simuladores",
+   "Deportes"
+  ],
+  "gratis": false,
+  "id": 1089350,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1089350/header.jpg?t=1663810795",
+  "nombre": "NBA 2K20",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 197,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i3-530",
+     "FX-4100"
+    ],
+    "cpu_pts": 30,
+    "cpu_ref": "i3-530",
+    "disco_gb": 80.0,
+    "gpu_modelos": [
+     "HD 7770"
+    ],
+    "gpu_pts": 25,
+    "gpu_ref": "HD 7770",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel® Core™ i3-530 @ 2.93 GHz / AMD FX-4100 @ 3.60 GHz or better",
+     "directx": "Versión 11",
+     "disco": "80 GB de espacio disponible",
+     "gpu": "NVIDIA® GeForce® GT 450 1GB / AMD® Radeon™ HD 7770 1GB or better",
+     "notas": "SO *: Windows 7 64-bit, Windows 8.1 64-bit or Windows 10 64-bit Initial installation requires one-time internet connection for Steam authentication; software installations required (included with the game) include DirectX and Visual C++ Redistributable 2012.",
+     "ram": "4 GB de RAM",
+     "sonido": "DirectX 9.0x compatible Dual-Analog Gamepad: Recommended"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "CPU básica"
+    ],
+    "cpu_pts": 15,
+    "cpu_ref": "CPU básica",
+    "disco_gb": 80.0,
+    "gpu_modelos": [
+     "GTX 770",
+     "R9 270"
+    ],
+    "gpu_pts": 45,
+    "gpu_ref": "R9 270",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel® Core™ i5-4430 @ 3 GHz / AMD FX-8370 @ 3.4 GHz or better",
+     "directx": "Versión 11",
+     "disco": "80 GB de espacio disponible",
+     "gpu": "NVIDIA® GeForce® GTX 770 2GB / AMD® Radeon™ R9 270 2GB or better",
+     "notas": "SO *: Windows 7 64-bit, Windows 8.1 64-bit or Windows 10 64-bit Dual-analog gamepad",
+     "ram": "8 GB de RAM",
+     "sonido": "DirectX 9.0c compatible sound card"
+    }
+   }
+  },
+  "slug": "nba-2k20"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Hopoo Games"
+  ],
+  "descripcion": "Lucha contra hordas de monstruos enloquecidos junto a tus amigos o en solitario para lograr escapar de un planeta alienígena sumido en el caos. Combina el botín de maneras asombrosas y domina cada personaje hasta encarnar la destrucción que tanto te aterraba tras tu primer aterrizaje forzoso.",
+  "descuento": 0,
+  "fecha": "11 AGO 2020",
+  "generos": [
+   "Acción",
+   "Indie"
+  ],
+  "gratis": false,
+  "id": 632360,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg?t=1791475448",
+  "nombre": "Risk of Rain 2",
+  "precio": "COL$ 59.900",
+  "proximamente": false,
+  "puesto": 198,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i3-6100",
+     "FX-8350"
+    ],
+    "cpu_pts": 65,
+    "cpu_ref": "i3-6100",
+    "disco_gb": 4.0,
+    "gpu_modelos": [
+     "GTX 580",
+     "HD 7870"
+    ],
+    "gpu_pts": 36,
+    "gpu_ref": "GTX 580",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i3-6100 / AMD FX-8350",
+     "directx": "Versión 11",
+     "disco": "4 GB de espacio disponible",
+     "gpu": "GTX 580 / AMD HD 7870",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7 or newer, 64-bit",
+     "ram": "4 GB de RAM",
+     "red": "Conexión de banda ancha a Internet"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i5-4670K",
+     "Ryzen 5 1500X"
+    ],
+    "cpu_pts": 108,
+    "cpu_ref": "i5-4670K",
+    "disco_gb": 4.0,
+    "gpu_modelos": [
+     "GTX 680",
+     "HD 7970"
+    ],
+    "gpu_pts": 60,
+    "gpu_ref": "GTX 680",
+    "ram_gb": 4.0,
+    "texto": {
+     "cpu": "Intel Core i5-4670K / AMD Ryzen 5 1500X",
+     "directx": "Versión 11",
+     "disco": "4 GB de espacio disponible",
+     "gpu": "GTX 680 / AMD HD 7970",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits SO *: Windows 7 or newer, 64-bit",
+     "ram": "4 GB de RAM",
+     "red": "Conexión de banda ancha a Internet"
+    }
+   }
+  },
+  "slug": "risk-of-rain-2"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "EA Canada",
+   "EA Romania"
+  ],
+  "descripcion": "FIFA 23 lleva el juego del mundo al campo con la tecnología HyperMotion2, la FIFA World Cup™ masculina y femenina, equipos de clubes femeninos, funciones Cross-Play** y mucho más.",
+  "descuento": 0,
+  "fecha": "30 SEP 2022",
+  "generos": [
+   "Simuladores",
+   "Deportes"
+  ],
+  "gratis": false,
+  "id": 1811260,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/header.jpg?t=1750187458",
+  "nombre": "EA SPORTS™ FIFA 23",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 199,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "i5-6600K",
+     "Ryzen 5 1600"
+    ],
+    "cpu_pts": 120,
+    "cpu_ref": "i5-6600K",
+    "disco_gb": 100.0,
+    "gpu_modelos": [
+     "GTX 1050 Ti",
+     "RX 570"
+    ],
+    "gpu_pts": 58,
+    "gpu_ref": "GTX 1050 Ti",
+    "ram_gb": 8.0,
+    "texto": {
+     "cpu": "Intel Core i5 6600k or AMD Ryzen 5 1600",
+     "directx": "Versión 12",
+     "disco": "100 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 570",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "8 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 - 64-Bit (Latest Update)"
+    }
+   },
+   "rec": {
+    "cpu_modelos": [
+     "i7-6700",
+     "Ryzen 7 2700X"
+    ],
+    "cpu_pts": 135,
+    "cpu_ref": "i7-6700",
+    "disco_gb": 100.0,
+    "gpu_modelos": [
+     "GTX 1660",
+     "RX 5600 XT"
+    ],
+    "gpu_pts": 110,
+    "gpu_ref": "GTX 1660",
+    "ram_gb": 12.0,
+    "texto": {
+     "cpu": "Intel Core i7 6700 or AMD Ryzen 7 2700X",
+     "directx": "Versión 12",
+     "disco": "100 GB de espacio disponible",
+     "gpu": "NVIDIA GeForce GTX 1660 or AMD Radeon RX 5600 XT",
+     "notas": "Requiere un procesador y un sistema operativo de 64 bits",
+     "ram": "12 GB de RAM",
+     "red": "Conexión de banda ancha a Internet",
+     "so": "Windows 10 - 64-Bit (Latest Update)"
+    }
+   }
+  },
+  "slug": "ea-sportstm-fifa-23"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Valve"
+  ],
+  "descripcion": "Esta versión de Counter-Strike trae una extensa campaña Tour of Duty, un número casi ilimitado de escaramuzas, actualizaciones y nuevos contenidos para la modalidad multijugador, que ya ha recibido varios premios. Además, disfrutarás de más de 12 misiones para un solo jugador de regalo.",
+  "descuento": 0,
+  "fecha": "1 MAR 2004",
+  "generos": [
+   "Acción"
+  ],
+  "gratis": false,
+  "id": 80,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/80/header.jpg?t=1745368574",
+  "nombre": "Counter-Strike: Condition Zero",
+  "precio": "COL$ 24.499",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [],
+    "cpu_pts": null,
+    "cpu_ref": null,
+    "disco_gb": null,
+    "gpu_modelos": [],
+    "gpu_pts": null,
+    "gpu_ref": null,
+    "ram_gb": null,
+    "texto": {
+     "notas": "procesador de 500 MHz, 96 MB de RAM, tarjeta de vídeo de 16 MB, Windows XP, ratón, teclado y conexión a Internet procesador de 800 MHz, 128 MB de RAM, tarjeta de vídeo de 32 MB, Windows XP, ratón, teclado y conexión a Internet"
+    }
+   }
+  },
+  "slug": "counter-strike-condition-zero"
+ },
+ {
+  "actualizado": "2026-11-07",
+  "desarrolladores": [
+   "Rockstar North",
+   "Rockstar Toronto"
+  ],
+  "descripcion": "Este título independiente incluye tres historias distintas entrelazadas para crear una de las experiencias para un jugador más singulares y atractivas de esta generación. Esta colección definitiva de Grand Theft Auto te proporcionará cientos de horas de juego para un jugador; toda una colección de m",
+  "descuento": 0,
+  "fecha": "",
+  "generos": [
+   "Acción",
+   "Aventura"
+  ],
+  "gratis": false,
+  "id": 12210,
+  "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/901583/header.jpg?t=1728427348",
+  "nombre": "Grand Theft Auto IV: Complete Edition",
+  "precio": "",
+  "proximamente": false,
+  "puesto": 999,
+  "req": {
+   "min": {
+    "cpu_modelos": [
+     "Athlon X2"
+    ],
+    "cpu_pts": 14,
+    "cpu_ref": "Athlon X2",
+    "disco_gb": 32.0,
+    "gpu_modelos": [
+     "Gráfica básica"
+    ],
+    "gpu_pts": 8,
+    "gpu_ref": "Gráfica básica",
+    "ram_gb": 1.5,
+    "texto": {
+     "cpu": "Intel Core 2 Duo a 1.8 GHz, AMD Athlon X2 64 a 2.4GHz",
+     "directx": "DirectX 9.0c",
+     "disco": "32 GB de espacio libre",
+     "gpu": "nVidia 7900 con 256 MB / ATI X1900 con 256 MB",
+     "notas": "Sonido: Dispositivo 5.1 Otros requisitos: Necesitas una conexión a internet para la activación inicial; debes iniciar sesión en Games For Windows - Live y Rockstar Games Social Club (13+ para registrarte) para jugar online; necesarias instalaciones de software incluyendo Adobe Flash, DirectX, Microsoft .NET Framework 3.0, Games For Windows - LIVE e Internet Explorer.",
+     "ram": "1.5 GB de RAM para XP / 1.5 GB de RAM para Vista",
+     "so": "Windows Vista - Service Pack 1 / Windows XP - Service Pack 3"
+    }
+   }
+  },
+  "slug": "grand-theft-auto-iv-complete-edition"
  }
 ]
