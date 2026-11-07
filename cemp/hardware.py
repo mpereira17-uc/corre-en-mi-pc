@@ -47,6 +47,10 @@ GPUS = {
     # Intel Arc
     "Arc A380": 60, "Arc A580": 140, "Arc A750": 165, "Arc A770": 180,
     "Arc B570": 190, "Arc B580": 215,
+    # Antiguas (juegos viejos las piden)
+    "GeForce 8600": 4, "9600 GT": 6, "9800 GT": 8, "GTX 260": 10, "GTX 285": 13,
+    "GTX 600": 18, "HD 2600": 3, "HD 4850": 9, "HD 4870": 10, "HD 5450": 2,
+    "HD 7000": 25,
     # Gráficos integrados
     "Intel HD Graphics 4000": 6, "Intel HD Graphics 520": 9, "Intel HD Graphics 620": 9,
     "Intel UHD Graphics 620": 10, "Intel UHD Graphics 630": 10, "Intel Iris Xe": 25,
@@ -71,7 +75,14 @@ CPUS = {
     "i9-9900K": 220, "i9-10900K": 245, "i9-12900K": 345, "i9-13900K": 410,
     "i9-14900K": 420, "Core Ultra 5 245K": 330, "Core Ultra 7 265K": 390,
     "Core Ultra 9 285K": 430,
+    "i3-330M": 15, "i3-530": 30, "i3-3210": 48, "i3-3250": 52, "i3-4170": 57,
+    "i3-4360": 58, "i3-6300": 68, "i3-10110U": 55, "i5-760": 57, "i5-2300": 70,
+    "i5-6600": 118, "i5-8500": 145, "i5-8600": 158, "i5-9500": 150, "i5-10500": 180,
+    "Core 2 Duo E6600": 18, "Pentium 4": 8, "Pentium G4560": 55,
     # AMD
+    "Athlon 64": 8, "Athlon X2": 14, "Athlon II X2 245": 22, "Phenom X3 8750": 20,
+    "Phenom 9850": 28, "FX-4100": 40, "FX-4350": 48, "FX-8120": 62, "FX-8320": 70,
+    "A6-5200": 12, "A8-7650K": 40, "Ryzen 5 3500": 165,
     "Athlon II X2": 25, "Phenom II X4 965": 50, "FX-4300": 45, "FX-6300": 60,
     "FX-8150": 65, "FX-8350": 75, "Athlon 3000G": 55, "Ryzen 3 1200": 85,
     "Ryzen 3 1300X": 95, "Ryzen 3 2200G": 90, "Ryzen 3 3200G": 100, "Ryzen 3 3100": 125,
@@ -84,6 +95,14 @@ CPUS = {
     "Ryzen 7 5800X3D": 300, "Ryzen 7 7700X": 330, "Ryzen 7 7800X3D": 380,
     "Ryzen 7 9700X": 360, "Ryzen 7 9800X3D": 430, "Ryzen 9 3900X": 220,
     "Ryzen 9 5900X": 275, "Ryzen 9 5950X": 285, "Ryzen 9 7950X": 380, "Ryzen 9 9950X": 420,
+}
+
+
+# Nombres genéricos ("Intel Core i5" sin modelo). Solo cuentan si después no viene un número,
+# para que un "i5-11500" que no está en la tabla no se lea como un i5 viejo.
+CPUS_GENERICAS = {
+    "Core 2 Duo": 20, "Core i3": 50, "Core i5": 80, "Core i7": 100,
+    "Ryzen 3": 85, "Ryzen 5": 130, "Ryzen 7": 150,
 }
 
 
@@ -124,7 +143,32 @@ def buscar_gpus(texto):
 
 
 def buscar_cpus(texto):
-    return _buscar(texto, _CPU_PATRONES, CPUS)
+    encontrados = _buscar(texto, _CPU_PATRONES, CPUS)
+    if encontrados:
+        return encontrados
+    t = normalizar(texto)
+    for nombre, pts in sorted(CPUS_GENERICAS.items(), key=lambda e: -len(e[0])):
+        clave = normalizar(nombre).strip().replace("core ", "")  # "i 5", "ryzen 5"
+        if re.search(r"(^| )" + re.escape(clave) + r"(?! ?\d{3})", t.strip()):
+            return [(nombre, pts)]
+    if re.search(r"quad|4 core|cuatro nucleos|4 nucleos", t):
+        return [("CPU de 4 núcleos", 40)]
+    if re.search(r"ghz|dual|doble nucleo|pentium|athlon", t):
+        return [("CPU básica", 15)]
+    return []
+
+
+def buscar_gpus_con_respaldo(texto):
+    """Como buscar_gpus, pero si el juego solo pide "1 GB de VRAM" o "compatible con DirectX 11"
+    lo cuenta como gráfica básica: cualquier tarjeta de los últimos diez años la supera."""
+    encontrados = buscar_gpus(texto)
+    if encontrados:
+        return encontrados
+    t = normalizar(texto)
+    vram = numero_gb(texto)
+    if (vram is not None and vram <= 2) or re.search(r"directx|shader|opengl|vulkan|compatible", t):
+        return [("Gráfica básica", 8)]
+    return []
 
 
 SECUNDARIAS = ("Arc ", "Intel ", "Radeon Vega", "Radeon 680M", "Radeon 780M")

@@ -8,7 +8,7 @@ import json
 import os
 import sys
 
-from cemp import datos
+from cemp import datos, requisitos
 from cemp.sitio import Sitio
 
 
@@ -20,6 +20,12 @@ def main():
         resumen = {"total": len(juegos)}
     else:
         juegos, resumen = datos.actualizar(config)
+    # Recalcula la comparación con las tablas actuales (si mejoran, mejoran todos los juegos).
+    for j in juegos:
+        for nivel in ("min", "rec"):
+            r = j.get("req", {}).get(nivel)
+            if r:
+                r.update(requisitos.resumir(r["texto"]))
     print("Resumen:", json.dumps(resumen, ensure_ascii=False))
     if not juegos:
         print("No hay ningún juego guardado. Algo falló al leer Steam; no publico una página vacía.")

@@ -77,7 +77,7 @@ def parsear(bloque):
 
 def resumir(req):
     """Añade lo que se puede comparar: puntaje de GPU y CPU, RAM y disco en GB."""
-    gpus = hardware.buscar_gpus(req.get("gpu", ""))
+    gpus = hardware.buscar_gpus_con_respaldo(req.get("gpu", ""))
     cpus = hardware.buscar_cpus(req.get("cpu", ""))
     g = hardware.elegir_requisito(gpus)
     c = hardware.elegir_requisito(cpus)

@@ -31,6 +31,15 @@ class Hardware(unittest.TestCase):
         self.assertEqual([n for n, _ in hardware.buscar_cpus("Ryzen 7 5800X3D")], ["Ryzen 7 5800X3D"])
         self.assertEqual([n for n, _ in hardware.buscar_cpus("Intel Core i5-7500")], ["i5-7500"])  # no confundir con i5-750
 
+    def test_genericos(self):
+        self.assertEqual(hardware.buscar_cpus("Intel Core i5 @ 2.5 GHz or equivalent"), [("Core i5", 80)])
+        self.assertEqual(hardware.buscar_cpus("Intel Core i5-11500"), [])  # modelo desconocido: no adivinar
+        self.assertEqual(hardware.buscar_cpus("2.6 GHz Quad Core or similar"), [("CPU de 4 núcleos", 40)])
+        self.assertEqual(hardware.buscar_cpus("Por determinar"), [])
+        self.assertEqual(hardware.buscar_gpus_con_respaldo("DirectX 12 or Vulkan compatible, 1 GB VRAM"), [("Gráfica básica", 8)])
+        self.assertEqual(hardware.buscar_gpus_con_respaldo("Por determinar"), [])
+        self.assertEqual([n for n, _ in hardware.buscar_gpus("NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600")], ["GeForce 8600", "9600 GT", "HD 2600"])
+
     def test_gb(self):
         self.assertEqual(hardware.numero_gb("8 GB de RAM"), 8)
         self.assertEqual(hardware.numero_gb("512 MB RAM"), 0.5)
@@ -57,7 +66,7 @@ class Requisitos(unittest.TestCase):
         data = json.load(open(os.path.join(AQUI, "fixtures", "app_1002.json")))["1002"]["data"]
         r = requisitos.de_steam(data["pc_requirements"])
         self.assertEqual(r["min"]["texto"]["cpu"], "2 Ghz")
-        self.assertIsNone(r["min"]["gpu_pts"])
+        self.assertEqual(r["min"]["gpu_ref"], "Gráfica básica")  # "256 mb video memory"
         self.assertEqual(r["min"]["ram_gb"], 2)
         self.assertNotIn("rec", r)
 
